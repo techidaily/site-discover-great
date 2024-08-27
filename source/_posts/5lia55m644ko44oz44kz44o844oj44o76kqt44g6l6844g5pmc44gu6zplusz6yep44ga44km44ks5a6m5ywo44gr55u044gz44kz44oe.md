@@ -1,7 +1,7 @@
 ---
 title: 一発エンコード・読み込み時の音量ずれを完全に直すコツ
-date: 2024-08-26 15:55:35
-updated: 2024-08-27 12:39:32
+date: 2024-08-26T15:56:52.157Z
+updated: 2024-08-27T15:56:52.157Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/50ec9f96a3862eafb44f6037d6d07d4292a04cc1b5866ca0d81d1cb562971c20.jpg
@@ -40,3 +40,7 @@ Digiarty SoftwareがApple Inc.と開発または商業提携をしていませ�
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
