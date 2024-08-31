@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Apple iPhone 15: How It Compares and Conforms to Modern Smartphone Standards"
-date: 2024-08-28 19:21:30
-updated: 2024-08-29 11:36:51
+date: 2024-08-30T20:27:21.449Z
+updated: 2024-08-31T20:27:21.449Z
 tags:
   - product-reviews
 categories:
@@ -97,6 +97,9 @@ Expand
 
  Apple and most mobile carriers (AT&T, Verizon, T-Mobile, etc.) will offer discounts on the iPhone 15 when you trade in an eligible old phone, and some mobile networks are handing out more significant discounts in the form of bill credits. Those promotions can change frequently, so check with your carrier to see what deals are available for you.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Design
 
  The look and feel of the iPhone 15 and 15 Plus are almost identical to last year's iPhone 14 series. The front has an edge-to-edge display with Apple's own "Ceramic Shield," which the [company says](http://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/) is "tougher than any other smartphone glass." The sides are aluminum, and the back panel is glass with a matte texture. The manufacturing process has changed slightly since the iPhone 14 series, as "color is infused throughout the back glass," which makes the camera bump more closely match the phone's main color.
@@ -111,6 +114,9 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 USB Type-C port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-13.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  For the first time ever, the iPhone is using the same connector as the rest of the smartphone industry. Remember, before Lightning, iPhones were using the [30-pin connector](https://en.wikipedia.org/wiki/Dock%5Fconnector#30-pin%5Fdock%5Fconnector) from the iPod. Granted, Android phones and tablets were far from standardized charging in those days—anyone remember [Micro-B USB](https://amazon.com/dp/B00NH13G5A?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000546&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fapple-iphone-15-review%2F&asc%5Fcampaign=Affiliate)? The people who extensively bought into the Lightning ecosystem might not be fans of the iPhone 15's new port and will have to [buy some dongles](https://eaxpv-info.techidaily.com/new-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/), but it's a great improvement overall.
@@ -119,6 +125,9 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 volume buttons and mute switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-19.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Speaking of connectivity, the iPhone 15 series has the same satellite SOS feature as the iPhone 14 series. If you're in one of the supported countries, including the United States, you can contact emergency services or update your Find My location from areas without a functioning cell signal. Apple has also updated it to offer roadside assistance with AAA in the United States. It's a great feature that has already been [saving](https://techcrunch.com/2022/12/14/apples-emergency-sos-via-satellite-prompts-rescue-after-car-goes-off-a-cliff-north-of-la/) [lives](https://www.macrumors.com/2022/12/01/iphone-14-satellite-sos-in-action/) in the iPhone 14 series.
@@ -131,6 +140,9 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-08.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  Notably, the base iPhone 15 and 15 Plus don't have the "ProMotion" adaptive refresh rate available on the Pro series. That feature doubles the screen's refresh rate from 60Hz to 120Hz in certain circumstances, improving the smoothness of animations and select games. This has been one of the more common criticisms of the base iPhone 15 since its announcement, especially since [many budget Android phones](https://sim-unlock.techidaily.com/top-10-vivo-y77t-android-sim-unlock-apk-by-drfone-android/) have 120Hz screens, but the iPhone's faster processor and optimization with animations make 60Hz go a long way. ProMotion would have been a great addition, though its absence is not a deal-breaker when the rest of the display experience is this good.
@@ -139,6 +151,9 @@ Corbin Davenport / How-To Geek
 
 ![Apple iPhone 15 with Dynamic Island music panel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-15.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  There aren't many apps yet that use the Dynamic Island feature to an impressive extent, but there has been a gradual increase since the iPhone 14 Pro was released, and I expect we'll see that improve as more people buy the iPhone 15 series. I've seen two cool examples: [Sports Alerts](https://apps.apple.com/us/app/sports-alerts/id432450349) can place sports scores in the Island, and [Pixel Pals](https://apps.apple.com/us/app/pixel-pals-widget-pet-game/id6443919232) adds Tamagotchi-style virtual pets to the Island that you can play with or feed.
@@ -159,6 +174,9 @@ Corbin Davenport / How-To Geek
 
  It's a safe assumption that the iPhone 15 will get at least five or six years of iOS updates, and some security patches past that point. For comparison, flagship Samsung Galaxy devices [currently get](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fnews.samsung.com%2Fglobal%2Fsamsung-sets-the-new-standard-with-four-generations-of-os-upgrades-to-ensure-the-most-up-to-date-and-more-secure-galaxy-experience) 4 years of Android OS updates and five years of security patches, and Google's Pixel phones [are promised](https://support.google.com/pixelphone/answer/4457705?hl=en#zippy=%2Cpixel-later-including-fold) 3 years of OS updates and five years of security patches.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performance
 
  The iPhone 15 and 15 Plus are powered by the Apple A16 Bionic chipset, with a six-core CPU (two performance cores and six efficiency cores), a five-core GPU, and a 16-core Neural Engine for AI/machine learning workloads. It's the same chip used in last year's iPhone 14 Pro, while this year's Pro models get the newer A17 chip. Apple's marketing angle for using a year-old chipset in the iPhone 15 is calling it "proven performance," which is honestly fair—it's still incredibly fast and now has a year of software optimization and real-world testing in the 14 Pro series.
@@ -197,12 +215,18 @@ Corbin Davenport / How-To Geek
 
 ![Daisy the dog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/img_4767.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
 Close 
 
  The front camera is still a 12MP "TrueDepth" sensor and is also used for some Face ID functions. It has improved HDR compared to the iPhone 14, and still supports video recording at up to 4K @ 60FPS. It's capable enough for video calls and some selfies, but if you're taking a group shot or something else where a more detailed image and wider field of view can help, you might want to flip the phone around. The front camera isn't bad, but now there's a much wider gap in image quality with the new 48MP rear sensor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Competition
 
  As mentioned earlier, the iPhone 15 starts at $799 in the United States, while the iPhone 15 Plus starts at $899\. The most direct competitor is the Samsung Galaxy S23, which was $799 at launch but has gone on sale repeatedly at $699\. The Galaxy S23 Plus is also frequently on sale for around $800 or $900.
@@ -217,6 +241,9 @@ Close
 
 ![Apple iPhone 15 camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-09.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Corbin Davenport / How-To Geek
 
  The most important upgrade, and the one that has received the most attention in the tech press, is the USB Type-C port. Apple's phones are no longer excluded from the one-cable-for-everything dream that the Android, PC, and Mac ecosystem has enjoyed for years. I don't want to praise Apple for the switch—the company held onto its stupid [fragile](https://www.ifixit.com/Guide/How+to+Repair+a+Frayed+Apple+Lightning+Charger/73220) Lightning connector and its associated [licensing fees](https://appleinsider.com/articles/14/02/07/apple-lowers-mfi-lightening-licensing-fees-paving-way-for-more-affordable-ios-accessories-) for as long as possible, and without [supranational legislation forcing its hand](https://tech-recovery.techidaily.com/step-by-step-tips-on-how-to-get-your-playstation-5-controller-to-charge-properly-again/), it's possible Apple might have held off on the transition for another year or two.
@@ -225,6 +252,9 @@ Corbin Davenport / How-To Geek
 
 ![iphone 15 pink](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-pink.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Apple iPhone 15
@@ -249,3 +279,51 @@ The iPhone 15 and iPhone 15 Plus bring most of the features from the 14 Pro to a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[New] 2024 Approved  Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-youtube-hidden-videos-for-2024/"><u>[New] How to Find YouTube Hidden Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/32104983-new-in-2024-tiny-videos-deciphered-crucial-elements/"><u>[New] In 2024, Tiny Videos Deciphered  Crucial Elements</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-vimeoifytweets-video-to-mp3-and-mp4/"><u>[New] In 2024, VimeoifyTweets  Video-to-MP3 & MP4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-interpreting-second-duration-from-mb-content/"><u>[New] Interpreting Second Duration From MB Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] 2024 Approved  Decode Instagram Visibility  Who's Glancing at Yours?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-fix-youtube-shorts-thumbnail-not-showing-problem/"><u>[Updated] 2024 Approved  How to Fix YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-key-to-memorable-tiktok-opens-mac-edition/"><u>[Updated] The Key to Memorable TikTok Opens - Mac Edition</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1724765477553-dvd/"><u>初心者向けのシンプルなウェディングDVDコピーとダビング手順 - 専門家レベルでも軽々とこなせる最適ソフトを紹介！</u></a></li>
+<li><a href="https://discover-great.techidaily.com/bilibili6/"><u>無料も有料も！Bilibiliへアクセス不可解決策：ダウンロードを阻む6分以上の対策メソッド</u></a></li>
+<li><a href="https://discover-great.techidaily.com/5lia55m644ko44oz44kz44o844oj44o76kqt44g6l6844g5pmc44gu6zplusz6yep44ga44km44ks5a6m5ywo44gr55u044gz44kz44oe/"><u>一発エンコード・読み込み時の音量ずれを完全に直すコツ</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mp3-mac-and-windowsmp3/"><u>最適な MP3 圧縮比を実現! Mac & Windows用の高音質フリーMP3ソフトウェア、選び択ぶべきオンライン無料配信サイト【有料版もあり】</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-flawless-hues-in-gopro-videos/"><u>Achieving Flawless Hues in GoPro Videos</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-free-apps-how-to-get-youtube-downloads-on-your-iphone-x/"><u>Best Free Apps: How to Get YouTube Downloads on Your iPhone X</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-free-video-converter-tools-for-mac-users-effortlessly-convert-mkv-files-into-mp4-avi-mov-with-high-quality-results/"><u>Best Free Video Converter Tools for Mac Users: Effortlessly Convert MKV Files Into MP4 AVI MOV with High-Quality Results</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-ios-and-android-apps-you-can-use-to-create-animoji-and-memoji-videos-for-2024/"><u>Best iOS and Android Apps You Can Use to Create Animoji and Memoji Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/beyond-brand-promotion-real-insights-into-instagram-reels-for-2024/"><u>Beyond Brand Promotion  Real Insights Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/convert-youtube-videos-for-free-on-mac-with-macx-pro-converter/"><u>Convert YouTube Videos for Free on Mac with MacX Pro Converter</u></a></li>
+<li><a href="https://discover-great.techidaily.com/creative-solutions-for-storing-your-expansive-dvd-collection-in-compact-spaces/"><u>Creative Solutions for Storing Your Expansive DVD Collection in Compact Spaces</u></a></li>
+<li><a href="https://discover-great.techidaily.com/exclusive-deal-on-macx-save-big-with-our-bundle-offering-dvd-ripper-and-video-converter-tools-at-unbeatable-prices/"><u>Exclusive Deal on MacX: Save Big with Our Bundle Offering DVD Ripper & Video Converter Tools at Unbeatable Prices!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/guide-how-to-get-your-favorite-movies-for-free-on-your-android-device/"><u>Guide: How to Get Your Favorite Movies for Free on Your Android Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f14-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F14 5Gwith/without a PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-screen-capture-google-meet-quick-mobile-guide-for-2024/"><u>How to Screen Capture Google Meet  Quick Mobile Guide for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-13-mini-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 13 mini and iPad?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-g310-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia G310 FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-your-iphones-best-selfie-techniques/"><u>In 2024, Mastering Your Iphone's Best Selfie Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721402315595-ios-users-check-this-out-chatgpt-app/"><u>IOS Users, Check This Out: ChatGPT App</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-content-how-much-adsense-pays-you-per-thousand-video-hits-in-2024/"><u>Monetizing Content  How Much AdSense Pays You Per Thousand Video Hits, In 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/not-as-robust-dissecting-the-features-of-the-tp-link-av1300-powerline-extender/"><u>Not as Robust? Dissecting the Features of the TP-Link AV1300 Powerline Extender</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pioneering-techniques-youtube-to-facebook-amplification/"><u>Pioneering Techniques  YouTube to Facebook Amplification</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/playlist-passport-traveling-tunes-throughout-platforms/"><u>Playlist Passport  Traveling Tunes Throughout Platforms</u></a></li>
+<li><a href="https://discover-great.techidaily.com/secrets-revealed-downloading-and-listening-to-free-songs-offline-with-itunes/"><u>Secrets Revealed: Downloading and Listening to Free Songs Offline with iTunes</u></a></li>
+<li><a href="https://discover-great.techidaily.com/seeing-clearly-now-understanding-how-true-4k-surpasses-standard-1080p-resolution/"><u>Seeing Clearly Now: Understanding How True 4K Surpasses Standard 1080P Resolution</u></a></li>
+<li><a href="https://discover-great.techidaily.com/simple-steps-how-to-easily-move-photos-from-ios-to-macos/"><u>Simple Steps: How to Easily Move Photos From iOS to macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/soundquality-synopsis-for-2024/"><u>SoundQuality Synopsis for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-to-address-unsupported-peripheral-devices-with-idt-software/"><u>Step-by-Step Guide to Address Unsupported Peripheral Devices with IDT Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/the-best-3-alternatives-to-itunes-seamlessly-organize-your-ipod-library/"><u>The Best 3 Alternatives to iTunes: Seamlessly Organize Your iPod Library</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-10-methods-for-moving-your-iphone-images-onto-a-mac/"><u>Top 10 Methods for Moving Your iPhone Images Onto a Mac</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-free-downloader-apps-unlimited-youtube-videos-on-mac-without-savevid/"><u>Top Free Downloader Apps: Unlimited YouTube Videos on Mac Without Savevid</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-driver-issues-for-lenovo-ideapad-100-on-windows-10-download-and-update-solutions/"><u>Troubleshooting Driver Issues for Lenovo IdeaPad 100 on Windows 10 - Download & Update Solutions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultimate-list-must-watch-teen-films-ranked/"><u>Ultimate List: Must-Watch Teen Films Ranked</u></a></li>
+</ul></div>

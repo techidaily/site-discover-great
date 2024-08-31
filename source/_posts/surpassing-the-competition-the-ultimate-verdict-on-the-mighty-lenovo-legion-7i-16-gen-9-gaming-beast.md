@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the Competition: The Ultimate Verdict on the Mighty Lenovo Legion ˈ7i 16 Gen 9 Gaming Beast"
-date: 2024-08-26 19:39:54
-updated: 2024-08-29 10:21:28
+date: 2024-08-30T20:27:28.406Z
+updated: 2024-08-31T20:27:28.406Z
 tags:
   - product-reviews
 categories:
@@ -122,18 +122,27 @@ Jerome Thomas / How-To Geek
 
 ![The function key lights up keys that have commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-funtion-key-lights-up-keys-that-have-commands_53663005894_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For the keyboard, mouse, and other peripherals like that, you’ll find that it’s pretty typical, but above average. The keyboard features 1.3mm of key travel and offers per-key RGB backlighting. The feel of the keys was a _tad_ squishy for me, but my two main keyboards are Cherry MX Blues and Kailh Copper switches, so most other keyboards feel squishy to me. The trackpad was only okay. The right-click is a little picky, but, for daily usage, it got the job done. For gaming, however, I would always recommend a dedicated mouse. The [SteelSeries Aerox](https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-open-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/) lineup of wireless mice is my personal favorite.
 
 ![The Lenovo Legion 7i 16 Gen 9 in quiet mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-in-quiet-mode_53663112120_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Battery life is something that’s coveted in a laptop, but, this isn’t just any laptop. It’s a gaming laptop. You’re not going to see stellar battery life here, and you’ll likely get around two to three hours of usage on a single charge when gaming. If you lower the brightness, drop the screen refresh rate, and disable all unnecessary software, you could eke out four to five hours, but that’ll be a stretch. However, with the included 230W power adapter, you can charge from 0% to 70% in just 30 minutes. And, if you have a compatible 140W USB-C battery, you can even power up on the go without a wall plug.
 
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
@@ -150,6 +159,9 @@ Jerome Thomas / How-To Geek
 
 ![The backlit keyboard on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-backlit-keyboard-on-the-lenovo-legion-7i-16-gen-9_53661777647_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Overall, I was extremely pleased with the performance of this laptop. When compared to other higher-class laptops, it also holds its own. I also have an RTX 4090-powered ASUS ROG Strix system which is an absolute monster of a machine. The RTX 4090 laptop, for comparison, hit 199FPS when in turbo mode. While that’s about two times the frames, it’s also over double the cost, and much, much larger and heavier.
@@ -170,6 +182,9 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Lenovo Legion 7i 16 Gen 9 has just about any port you could want, though, it can be a tad confusing about what’s what. On the left side of the laptop, you have a USB-A port at 5Gb/s, a USB-C 3.2 Gen 2 port, and a Thunderbolt 4 port. There’s only one Thunderbolt 4 port here though, so do keep in mind that the other USB-C ports on the laptop are only 3.2 Gen 2 (10Gb/s), and not rated for 40Gb/s transfer rates. The Thunderbolt 4 port does, however, support up to 140W charging, so you can use a single-cable setup when you’re not pushing the laptop to its max. In front of the Thunderbolt 4 port, you have a combined headphone and microphone jack.
@@ -190,6 +205,9 @@ Jerome Thomas / How-To Geek
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The 16-inch IPS WQXGA display here has a resolution of 2,560 x 1,600, which clocks in with a 16:10 aspect ratio. This seems to be the norm among modern laptops as people want a slightly taller aspect ratio, but it does mean that you’re pushing slightly more pixels when gaming. The RTX 4070 doesn’t let that affect performance though, which is nice. The screen features a 240Hz refresh rate, is 100% sRGB, and comes in at 500 nits, which is very noticeable when gaming. Windows didn’t find the display to be HDR ready, even though it’s DisplayHDR 400 certified, but the X-Rite Color Management with Dolby Vision and G-SYNC features all functioned as well as you’d expect.
@@ -202,6 +220,9 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  After spending the better part of a month with this laptop, this laptop is a great buy. The version of the [Lenovo Legion 7i 16 Gen 9](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-7-series%2Flegion-7i-gen-9-%2816-inch-intel%29%2Flen101g0037) I’ve been testing comes in at $1,785.99 right now direct from Lenovo, and I think that’s a fantastic price for it. You’re getting a laptop that can function as a desktop replacement in many scenarios. Plus, when on the go, you’ll have a 16-inch 240Hz display. All in a body that weighs under five pounds.
@@ -212,6 +233,9 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 #####  Lenovo Legion 7i 16 Gen 9
 
 8/ 10 
@@ -236,3 +260,54 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-sub4sub-does-it-really-work/"><u>[New] 2024 Approved  YouTube Sub4Sub  Does It Really Work?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-hushing-up-unwanted-noise-on-skype-for-2024/"><u>[New] Hushing Up Unwanted Noise on Skype for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-inside-the-wonders-of-stardew-valley-particularly-ginger-island-for-2024/"><u>[New] Inside the Wonders of Stardew Valley, Particularly Ginger Island for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-student-engagement-using-youtube-as-a-teaching-tool/"><u>[New] Unlocking Student Engagement  Using YouTube as a Teaching Tool</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721103571276-solved-force-to-reinstall-graphics-driver-error/"><u>[Solved] ‘Force to Reinstall Graphics Driver’ Error</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-your-instareel-game-with-unbeatable-slow-motion-techniques/"><u>[Updated] Enhancing Your InstaReel Game with Unbeatable Slow Motion Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>[Updated] Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-get-your-favorite-podcasts-and-videos-anytime-on-the-go-with-these-tools-for-2024/"><u>[Updated] Get Your Favorite Podcasts & Videos Anytime, On-the-Go, With These Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-instagram-video-dimensions-for-peak-performance/"><u>[Updated] In 2024, Mastering Instagram Video Dimensions for Peak Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pro-tips-for-streaming-and-screening-netflix-on-mac/"><u>[Updated] In 2024, Pro-Tips for Streaming & Screening Netflix on Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-anonymity-shield-face-details/"><u>[Updated] Instant Anonymity  Shield Face Details</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-maximum-videos-on-a-64gb-drive-for-2024/"><u>[Updated] Maximum Videos on a 64GB Drive for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-photo-to-film-the-cinematic-edge-of-iphone-x/"><u>2024 Approved  From Photo to Film  The Cinematic Edge of iPhone X</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-harnessing-tech-acquiring-fb-status-video-content/"><u>2024 Approved  Harnessing Tech  Acquiring FB Status Video Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-performance-hardware-for-live-video-feeds/"><u>2024 Approved  High-Performance Hardware for Live Video Feeds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-metaverse-odyssey-10-sci-fi-movies-that-redefine-reality/"><u>2024 Approved  Metaverse Odyssey  10 Sci-Fi Movies that Redefine Reality</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1724765477553-dvd/"><u>初心者向けのシンプルなウェディングDVDコピーとダビング手順 - 専門家レベルでも軽々とこなせる最適ソフトを紹介！</u></a></li>
+<li><a href="https://discover-great.techidaily.com/bilibili6/"><u>無料も有料も！Bilibiliへアクセス不可解決策：ダウンロードを阻む6分以上の対策メソッド</u></a></li>
+<li><a href="https://discover-great.techidaily.com/5lia55m644ko44oz44kz44o844oj44o76kqt44g6l6844g5pmc44gu6zplusz6yep44ga44km44ks5a6m5ywo44gr55u044gz44kz44oe/"><u>一発エンコード・読み込み時の音量ずれを完全に直すコツ</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mp3-mac-and-windowsmp3/"><u>最適な MP3 圧縮比を実現! Mac & Windows用の高音質フリーMP3ソフトウェア、選び択ぶべきオンライン無料配信サイト【有料版もあり】</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-free-apps-how-to-get-youtube-downloads-on-your-iphone-x/"><u>Best Free Apps: How to Get YouTube Downloads on Your iPhone X</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-free-video-converter-tools-for-mac-users-effortlessly-convert-mkv-files-into-mp4-avi-mov-with-high-quality-results/"><u>Best Free Video Converter Tools for Mac Users: Effortlessly Convert MKV Files Into MP4 AVI MOV with High-Quality Results</u></a></li>
+<li><a href="https://discover-great.techidaily.com/convert-youtube-videos-for-free-on-mac-with-macx-pro-converter/"><u>Convert YouTube Videos for Free on Mac with MacX Pro Converter</u></a></li>
+<li><a href="https://discover-great.techidaily.com/creative-solutions-for-storing-your-expansive-dvd-collection-in-compact-spaces/"><u>Creative Solutions for Storing Your Expansive DVD Collection in Compact Spaces</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decoding-firefoxs-pip-multimedia-feature-for-2024/"><u>Decoding Firefox's PIP Multimedia Feature for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-6s-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 6s Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-fix-putting-back-that-lost-key-on-your-laptop-keyscape/"><u>DIY Fix: Putting Back That Lost Key on Your Laptop Keyscape</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevating-handheld-gaming-with-asuss-rog-ally-x-a-detailed-review-of-its-high-end-features-and-cost/"><u>Elevating Handheld Gaming with Asus's ROG Ally X: A Detailed Review of Its High-End Features and Cost</u></a></li>
+<li><a href="https://discover-great.techidaily.com/exclusive-deal-on-macx-save-big-with-our-bundle-offering-dvd-ripper-and-video-converter-tools-at-unbeatable-prices/"><u>Exclusive Deal on MacX: Save Big with Our Bundle Offering DVD Ripper & Video Converter Tools at Unbeatable Prices!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/guide-how-to-get-your-favorite-movies-for-free-on-your-android-device/"><u>Guide: How to Get Your Favorite Movies for Free on Your Android Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-14-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 14 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from V29 Pro?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-skills-for-capturing-soundless-videography/"><u>In 2024, Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/investing-in-gaming-best-value-keyboards-and-mice-under-100-for-2024/"><u>Investing in Gaming  Best Value Keyboards and Mice Under $100 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-improve-fps-and-reduce-lag-in-fall-guys/"><u>Mastering Smooth Gameplay: Improve FPS and Reduce Lag in Fall Guys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210152643-personalized-treatment-plans-based-on-genomic-profiling-are-becoming-the-standard-in-lung-cancer-care/"><u>Personalized Treatment Plans Based on Genomic Profiling Are Becoming the Standard in Lung Cancer Care.</u></a></li>
+<li><a href="https://discover-great.techidaily.com/secrets-revealed-downloading-and-listening-to-free-songs-offline-with-itunes/"><u>Secrets Revealed: Downloading and Listening to Free Songs Offline with iTunes</u></a></li>
+<li><a href="https://discover-great.techidaily.com/seeing-clearly-now-understanding-how-true-4k-surpasses-standard-1080p-resolution/"><u>Seeing Clearly Now: Understanding How True 4K Surpasses Standard 1080P Resolution</u></a></li>
+<li><a href="https://discover-great.techidaily.com/simple-steps-how-to-easily-move-photos-from-ios-to-macos/"><u>Simple Steps: How to Easily Move Photos From iOS to macOS</u></a></li>
+<li><a href="https://discover-great.techidaily.com/the-best-3-alternatives-to-itunes-seamlessly-organize-your-ipod-library/"><u>The Best 3 Alternatives to iTunes: Seamlessly Organize Your iPod Library</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-10-methods-for-moving-your-iphone-images-onto-a-mac/"><u>Top 10 Methods for Moving Your iPhone Images Onto a Mac</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-free-downloader-apps-unlimited-youtube-videos-on-mac-without-savevid/"><u>Top Free Downloader Apps: Unlimited YouTube Videos on Mac Without Savevid</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultimate-list-must-watch-teen-films-ranked/"><u>Ultimate List: Must-Watch Teen Films Ranked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-of-putting-ipads-in-recovery-mode-quickly-and-safely/"><u>Unlocking the Secrets of Putting iPads in Recovery Mode Quickly and Safely</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-my-process-how-i-utilized-chatgpt-for-podcast-scriptwriting-success/"><u>Unveiling My Process: How I Utilized ChatGPT for Podcast Scriptwriting Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-edge-40-neo-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Edge 40 Neo Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+</ul></div>
