@@ -1,7 +1,7 @@
 ---
 title: In-Depth Evaluation of Ugreen NASync DXP280
-date: 2024-08-30T20:27:26.161Z
-updated: 2024-08-31T20:27:26.161Z
+date: 2024-09-05T10:41:39.372Z
+updated: 2024-09-06T10:41:39.372Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## In-Depth Evaluation of Ugreen NASync DXP280
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Ugreen's NASync hardware is excellent, but the UGOS operating system is in its infancy.
@@ -21,6 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![UGREEN NASync DSP2800 thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-5-04-52-pm.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Ugreen NASync DXP2800
 
 6/ 10 
@@ -76,6 +94,12 @@ Expand
 
  The [NASync DXP2800](https://nas.ugreen.com/products/ugreen-nasync-series-network-attached-storage) was sent to me before Ugreen opened its [Kickstarter campaign](https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/) or began filling orders. Many of the complaints that I make in my review will (hopefully) be resolved by the company. So, I'll try to keep this article up to date as Ugreen introduces new software improvements, though it may take several days or weeks for me to evaluate such improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Impressive Hardware for the Price
 
 ![The UGREEN NASYNC DXP2800 with a partially removed drive bay.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug3.jpg) 
@@ -90,6 +114,12 @@ Andrew Heinzman / How-To Geek
 
 ![The UGREEN NASYNC DXP2800 magnetic fan cover.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug5-magnetic-fan-cover.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
  Conveniently, Ugreen's drive bays use a latching mechanism for screwless installation of 3.5-inch HDDs. You only need to use screws when installing 2.5-inch drives. Though I should note that the drive bays, relative to the rest of this machine, feel cheap and plasticky. The only silver lining, aside from the fancy latching mechanism, is that you can lock each drive bay in place with a key.
@@ -112,9 +142,6 @@ Close
 
  However, the NASync DXP2800 offers no form of PCIe upgradeability. If you were hoping to upgrade from 2.5 GbE to a 10 Gig connection, tough luck.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  An Operating System in Its Infancy
 
  The Debian-based Ugreen operating system, called UGOS, needs a lot of work. It currently lacks third-party app support, meaning that you can't run [Docker](https://instagram-clips.techidaily.com/2024-approved-the-quick-guide-to-disconnect-on-ig/), [Plex Media Server](https://screen-recording.techidaily.com/new-the-insiders-guide-to-flawless-game-recordings-on-playstation-4-for-2024/), or other home server applications. UGOS also lacks any [hybrid RAID](https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oneplus-ace-2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/) options, it doesn't support cloud storage backups (to Dropbox, Google Drive, etc), and it doesn't provide 2FA protection when remote access is enabled.
@@ -133,15 +160,15 @@ Close
 
  Flashing an alternate OS will have no impact on the NASync hardware warranty. This has been confirmed to me by Ugreen, though it's also mentioned in the NASync Kickstarter listing. However, the company suggests that people stick with UGOS. I have intentionally refrained from using Unraid or TrueNAS during my review process, but I will begin testing alternate operating systems after this review is published.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Security Concerns
 
 ![UG8 locking hard drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug8-locking-hard-drive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
@@ -155,16 +182,15 @@ Andrew Heinzman / How-To Geek
 
  If security experts vouch for UGOS, or if the UGOS operating system goes a few years without any security incidents, I'll adjust my opinion. For now, I'm erring on the side of caution and gut feeling.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Ugreen NASync DXP2800?
 
 ![The UGREEN NASYNC DXP2800 with a drive bay removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug14.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Andrew Heinzman / How-To Geek
 
@@ -174,10 +200,6 @@ Andrew Heinzman / How-To Geek
 
 ![UGREEN NASync DSP2800 thumbnail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-02-at-5-04-52-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 #####  Ugreen NASync DXP2800
 
 6/ 10 

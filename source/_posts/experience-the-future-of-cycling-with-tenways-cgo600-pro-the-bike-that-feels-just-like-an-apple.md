@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Cycling with Tenways CGO600 Pro - The Bike That Feels Just Like an Apple
-date: 2024-08-30T20:27:22.633Z
-updated: 2024-08-31T20:27:22.633Z
+date: 2024-09-05T10:41:39.315Z
+updated: 2024-09-06T10:41:39.315Z
 tags:
   - product-reviews
 categories:
@@ -21,6 +21,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * [Tenways CGO600 Pro vs CGO800S](https://visual-screen-recording.techidaily.com/enhancing-gameplay-with-switch-pro-a-compreran-guide-for-steam-gamers-for-2024/)
 * [Should You Buy the Tenways CGO600 Pro Ebike?](https://article-posts.techidaily.com/cut-and-paste-chronicles-qanda-archive/)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Tenways CGO600 Pro is a sleek and lightweight ebike that is perfect for urban areas and short commutes.
@@ -105,6 +117,12 @@ Expand
 
 ![A close up of the Tenways CGO600 Pro front light](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/598ab282-910d-41dc-8a79-76f4c60a94a9.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The first thing I noticed about the bike was its sleek and simple frame. Thanks in part to its non-geared belt drive, there isn’t a lot of visual messiness. The real star of the design, however, turned out to be something I couldn't see. Its light 37-pound weight needed to be felt to be truly appreciated.
@@ -116,14 +134,20 @@ Tyler Hayes / How-To Geek
  From a purely aesthetic standpoint, I thought the CGO600 Pro looked like a cousin of VanMoof ([R.I.P](https://www.theverge.com/2023/8/4/23820106/vanmoof-sale-buyers-bid-micromobility-offer).) ebikes. Although the Avocado Green color might not be for everyone, I was smitten with its pale green complexion, which seemed sophisticated. I’ve tried a black Tenways bike before, and that color also looked good in person. The front light added to some of the bike's visual appeal, even though it's meant to be more for function. The light was useful at night, but I wish it had been a little bit brighter.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Benefits of a Belt-Drive Bike
 
 ![A close up of the Tenways CGO600 Pro belt drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/821c0c13-9fac-41ad-894d-ebd7e1a138a1.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -147,17 +171,10 @@ Tyler Hayes / How-To Geek
 
  The ebike is quoted as having up to 53 miles of range. This can be achieved on the lowest power setting. Based on my experience, the more reasonable expectation is closer to 30 miles of range. Exclusively using the bike at full power push, that number is lower, but I never felt the need to leave it on the highest setting. Especially around flatter areas, I found the middle power setting to be the sweet spot. When the battery does get depleted, it can be removed from the bike and charged anywhere. The battery also has a small 4-dot power meter, which was helpful to see without needing to turn the bike on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Tech and the Bike's Mobile App
 
 ![Close up of the Tenways CGO600 Pro display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/fa040df2-0ce6-4068-ad55-065ab1bb8006.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 The screen did not photograph well but was readable in most lighting conditions.
@@ -170,15 +187,18 @@ The screen did not photograph well but was readable in most lighting conditions.
 
  The CGO600 Pro has a passcode on the display to prevent others from turning on the power. As a security measure, that felt silly. The bike was easy to ride with no power. But it was also silly that the code could not be set or bypassed with the mobile app. After a few uses of the Tenways app, I left it closed and never missed it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  CGO600 Pro Price and Availability
 
  The Tenways CGO600 Pro is widely available and [retails for $1,899](http://us.tenways.com/products/cgo600-pro) but is commonly on sale for $1,699 and offers free mudguards and a kickstand.
 
  The $1,699 cost is still pricey compared to the wide range of increasingly budget ebike options on the market, but it feels much more reasonable than the $1,899 retail price. [Velotric's T1 ebike](https://www.velotricbike.com/products/velotric-t1-ebike?variant=41729522794679) weighs a similar 36 pounds and also retails for around $1,699\. It has some different features and trade-offs, but these are certainly two comparable bikes that come in at a similar target price.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Tenways CGO600 Pro vs CGO800S
 
  The CGO600 Pro and the [CGO800S](https://us.tenways.com/products/cgo800s) are ultimately different enough bikes not to make the buying decision too difficult, but they are related. Most prominently, both use a single-gear belt drive.
@@ -192,6 +212,12 @@ The screen did not photograph well but was readable in most lighting conditions.
 * The CGO600 Pro is 9lbs lighter
 * The CGO600 Pro offers different size frames for different-sized riders
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Tenways CGO600 Pro Ebike?
 
 ![Tenways CGO600 Pro on a basketball court standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/bike.JPG) 
@@ -204,6 +230,12 @@ Tyler Hayes / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Tenways CGO600 Pro
 
 8/ 10 
@@ -265,19 +297,25 @@ Expand
 [$1699 at Tenways](https://www.us.tenways.com/?ref=mwuxnmm&utm%5Fsource=tapfiliate&utm%5Fmedium=affiliate&utm%5Fcampaign=mwuxnmm) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What are the different ebike classes?
 
  Generally, class 1 ebikes are pedal-assist only, with no throttle, and can reach a top speed of 20MPH. Class 2 ebikes can reach a top speed of 20MPH without pedaling, using a throttle. Class 3 ebikes can go up to 28MPH when pedaling. The laws around ebikes in the U.S. are different for each state. Be sure to look into those rules where the ebike is being ridden.
 
  Since ebike classes are only loosely defined, not all products fit nicely within the confines. A lot of electric bikes will support faster pedal-assist speeds, but also have a throttle limited to 20MPH.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can an ebike be unlocked to go faster?
 
  Some manufacturers limit their ebikes to certain speeds to comply with local laws, despite having the power to go faster. Whether an ebike can be unlocked to achieve a faster top speed will be on a case-per-case basis for each company or product. Typically, this faster speed is referred to as an off-road mode and is unlocked by putting a code into the display. Some manufacturers like Super73 offer this off-road ability through its mobile app.

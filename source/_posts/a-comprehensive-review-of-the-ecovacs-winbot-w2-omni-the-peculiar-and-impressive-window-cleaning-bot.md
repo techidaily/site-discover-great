@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Review of the Ecovacs Winbot W2 Omni - The Peculiar and Impressive Window-Cleaning Bot
-date: 2024-08-30T20:27:20.245Z
-updated: 2024-08-31T20:27:20.245Z
+date: 2024-09-05T10:41:39.267Z
+updated: 2024-09-06T10:41:39.267Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## A Comprehensive Review of the Ecovacs Winbot W2 Omni - The Peculiar and Impressive Window-Cleaning Bot
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Ecovacs Winbot W2 Omni is a portable window-cleaning robot with impressive suction power for easy and efficient cleaning.
@@ -21,6 +27,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Winbot W2 Family](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/winbot-w2-family.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Ecovacs Winbot W2 Omni
 
 7/ 10 
@@ -66,20 +78,21 @@ The Ecovacs Winbot W2 Omni is a window cleaning robot with intelligent climbing 
 
  110 minutes 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Portable Design Is Impressive
 
 ![Ecovcacs Winbot X2 Omni cleaner and case sitting on the floor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ecovcacs-winbot-x2-omni-cleaner-and-case-sitting-on-the-floor.JPG) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -99,13 +112,16 @@ Tyler Hayes / How-To Geek
 
  If you’re placing the base station in a precarious spot, like on a ledge, and worried that if the cleaner loses suction and falls it will take the base with it, there is a security anchor in the compartment next to the power cord.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Cleaning Results of a Robot
 
 ![close up on Ecovcacs Winbot X2 Omni under side while it cleans](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/close-up-on-ecovcacs-winbot-x2-omni-under-side-while-it-cleans.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Much like using a robot vacuum, there are two considerations for how good of a job the Winbot W2 Omni did. I was looking for whether it cleaned as well as a professional and, secondarily, whether did it a good enough job in general. Did it work better than a spray bottle and rag?
@@ -124,6 +140,12 @@ Close
 
  I also cleaned a 5-by-10-foot wall mirror in my kids’ bathroom which came out better than I could have wiped the whole thing. Even if you’re lacking large windows that need to be cleaned, there may be other places the Winbot W2 Omni can be of use.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  App
 
  I appreciate that the Winbot W2 Omni is part of the Ecovacs Home mobile app—available for [iPhone](https://apps.apple.com/us/app/ecovacs-home/id1329458504) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002536/https://play.google.com/store/apps/details?id=com.eco.global.app&hl=en%5FUS&gl=US)—but I also like how it doesn’t rely on it. The app makes it easy to see and change the different cleaning modes—fast, thorough, deep, etc—but there’s a button available on the unit to do the same thing as well.
@@ -132,16 +154,10 @@ Close
 
  Unlike modern robot vacuums which need to map your room and can’t just be moved to a new house without some hassle, the Winbot W2 is much more flexible. It doesn’t know where it is, it just knows it needs to clean its current area. If you have two houses, want to lend it to friends, or need to use it in other locations, it works the same, no app needed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy Ecovacs Winbot W2 Omni?
 
 ![top view of Ecovcacs Winbot X2 Omni](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/top-view-of-ecovcacs-winbot-x2-omni.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Based on the results alone, I was thoroughly impressed with the window-cleaning performance of the [Ecovacs Winbot W2 Omni](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2002536/https://www.ecovacs.com/us/winbot-window-cleaning-robot/winbot-w2-omni). It’s a remarkable product. My hangups with it are more around the practical details. Its $600 retail cost is a serious investment for the presumably limited places it can actually be used.
@@ -151,7 +167,10 @@ Tyler Hayes / How-To Geek
 ![Winbot W2 Family](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/winbot-w2-family.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Ecovacs Winbot W2 Omni
 
