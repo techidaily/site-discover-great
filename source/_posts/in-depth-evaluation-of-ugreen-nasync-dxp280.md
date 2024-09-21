@@ -1,7 +1,7 @@
 ---
 title: In-Depth Evaluation of Ugreen NASync DXP280
-date: 2024-09-10T09:04:54.510Z
-updated: 2024-09-11T09:04:54.510Z
+date: 2024-09-18T11:48:30.502Z
+updated: 2024-09-21T04:40:34.874Z
 tags:
   - product-reviews
 categories:
@@ -76,43 +76,9 @@ Expand
 
  The [NASync DXP2800](https://nas.ugreen.com/products/ugreen-nasync-series-network-attached-storage) was sent to me before Ugreen opened its [Kickstarter campaign](https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/) or began filling orders. Many of the complaints that I make in my review will (hopefully) be resolved by the company. So, I'll try to keep this article up to date as Ugreen introduces new software improvements, though it may take several days or weeks for me to evaluate such improvements.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Impressive Hardware for the Price
 
 ![The UGREEN NASYNC DXP2800 with a partially removed drive bay.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug3.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Andrew Heinzman / How-To Geek
 
@@ -124,26 +90,6 @@ Andrew Heinzman / How-To Geek
 
 ![The UGREEN NASYNC DXP2800 magnetic fan cover.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug5-magnetic-fan-cover.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Andrew Heinzman / How-To Geek
 
  Conveniently, Ugreen's drive bays use a latching mechanism for screwless installation of 3.5-inch HDDs. You only need to use screws when installing 2.5-inch drives. Though I should note that the drive bays, relative to the rest of this machine, feel cheap and plasticky. The only silver lining, aside from the fancy latching mechanism, is that you can lock each drive bay in place with a key.
@@ -151,20 +97,6 @@ Andrew Heinzman / How-To Geek
  I'm more impressed by the NASync DXP2800's cooling system. Ugreen is using an air intake, rather than an exhaust, to push cool air through the drive bays and out the front of the NAS enclosure. This seems to be a very effective cooling method, as the NAS doesn't get very warm. A magnetic screen is included to keep dust bunnies and pet hair from getting sucked into the NAS.
 
  The only concern I have in terms of hardware is power consumption. Ugreen says that the DXP2800 will fluctuate between 50 and 70 watts depending on its power state, which seems a bit excessive for a two-bay NAS device. I'd love to know if power consumption can be better optimized in software in the future. Also, while this has nothing to do with the amount of power the DXP2800 uses, I was surprised to see that this NAS runs on a third-party 9v power supply. I'm using a pre-release unit that was (presumably) used for testing or press events, so maybe it's just a pre-release quirk.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Easy To Upgrade
 
@@ -179,20 +111,6 @@ Close
  While the M.2 slots are fairly accessible, they're in a bit of an odd spot—next to the drive bays. You have to remove both drive bays from the unit, peel a film off the M.2 slots, and insert your SSDs. This shouldn't be a problem (unless you have big hands), though I should note that the larger NASync devices have their M.2 slots in the RAM compartment, which is a bit more convenient.
 
  However, the NASync DXP2800 offers no form of PCIe upgradeability. If you were hoping to upgrade from 2.5 GbE to a 10 Gig connection, tough luck.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  An Operating System in Its Infancy
 
@@ -212,23 +130,16 @@ Close
 
  Flashing an alternate OS will have no impact on the NASync hardware warranty. This has been confirmed to me by Ugreen, though it's also mentioned in the NASync Kickstarter listing. However, the company suggests that people stick with UGOS. I have intentionally refrained from using Unraid or TrueNAS during my review process, but I will begin testing alternate operating systems after this review is published.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Security Concerns
 
 ![UG8 locking hard drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug8-locking-hard-drive.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
 
@@ -245,6 +156,13 @@ Andrew Heinzman / How-To Geek
 ##  Should You Buy the Ugreen NASync DXP2800?
 
 ![The UGREEN NASYNC DXP2800 with a drive bay removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/ug14.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Andrew Heinzman / How-To Geek
 
@@ -268,8 +186,6 @@ This cutting-edge network-attached storage device transforms how you store and a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -279,35 +195,19 @@ This cutting-edge network-attached storage device transforms how you store and a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-leading-your-audience-into-a-world-of-instagram-live/"><u>[New] 2024 Approved  Leading Your Audience Into a World of Instagram Live</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-harness-free-methods-to-download-vimeo-videos-with-ease-for-2024/"><u>[New] Harness Free Methods to Download Vimeo Videos with Ease for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-secrets-to-acquiring-unblemished-image-libraries/"><u>[New] In 2024, Secrets to Acquiring Unblemished Image Libraries</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-vocal-transformations-high-ranked-app-options/"><u>[Updated] Mastering Vocal Transformations  High-Ranked App Options</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1724765477553-dvd/"><u>初心者向けのシンプルなウェディングDVDコピーとダビング手順 - 専門家レベルでも軽々とこなせる最適ソフトを紹介！</u></a></li>
-<li><a href="https://discover-great.techidaily.com/bilibili6/"><u>無料も有料も！Bilibiliへアクセス不可解決策：ダウンロードを阻む6分以上の対策メソッド</u></a></li>
-<li><a href="https://discover-great.techidaily.com/5lia55m644ko44oz44kz44o844oj44o76kqt44g6l6844g5pmc44gu6zplusz6yep44ga44km44ks5a6m5ywo44gr55u044gz44kz44oe/"><u>一発エンコード・読み込み時の音量ずれを完全に直すコツ</u></a></li>
-<li><a href="https://discover-great.techidaily.com/mp3-mac-and-windowsmp3/"><u>最適な MP3 圧縮比を実現! Mac & Windows用の高音質フリーMP3ソフトウェア、選び択ぶべきオンライン無料配信サイト【有料版もあり】</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-free-apps-how-to-get-youtube-downloads-on-your-iphone-x/"><u>Best Free Apps: How to Get YouTube Downloads on Your iPhone X</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-free-video-converter-tools-for-mac-users-effortlessly-convert-mkv-files-into-mp4-avi-mov-with-high-quality-results/"><u>Best Free Video Converter Tools for Mac Users: Effortlessly Convert MKV Files Into MP4 AVI MOV with High-Quality Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clarifying-nlp-and-machine-learning-distinctions/"><u>Clarifying NLP & Machine Learning Distinctions</u></a></li>
-<li><a href="https://discover-great.techidaily.com/convert-youtube-videos-for-free-on-mac-with-macx-pro-converter/"><u>Convert YouTube Videos for Free on Mac with MacX Pro Converter</u></a></li>
-<li><a href="https://discover-great.techidaily.com/creative-solutions-for-storing-your-expansive-dvd-collection-in-compact-spaces/"><u>Creative Solutions for Storing Your Expansive DVD Collection in Compact Spaces</u></a></li>
-<li><a href="https://discover-great.techidaily.com/exclusive-deal-on-macx-save-big-with-our-bundle-offering-dvd-ripper-and-video-converter-tools-at-unbeatable-prices/"><u>Exclusive Deal on MacX: Save Big with Our Bundle Offering DVD Ripper & Video Converter Tools at Unbeatable Prices!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-muddled-to-clear-mastering-photo-bg-removal/"><u>From Muddled to Clear  Mastering Photo Bg Removal</u></a></li>
-<li><a href="https://discover-great.techidaily.com/guide-how-to-get-your-favorite-movies-for-free-on-your-android-device/"><u>Guide: How to Get Your Favorite Movies for Free on Your Android Device</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-best-free-screen-recorder-programs-with-no-trial-period/"><u>In 2024, Best Free Screen Recorder Programs with No Trial Period</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-avi-player-pcmobile-compatibility/"><u>In 2024, Excellent AVI Player - PC/Mobile Compatibility</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-streamlined-ways-to-document-your-videos/"><u>In 2024, Streamlined Ways to Document Your Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-navigating-stardews-ginger-island/"><u>In 2024, The Ultimate Guide to Navigating Stardew’s Ginger Island</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-techniques-to-prevent-recurring-crashes-of-minecraft-dungeons-on-desktops/"><u>Master the Techniques to Prevent Recurring Crashes of Minecraft Dungeons on Desktops</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mosaicmaker-elite-designing-with-digital-threads/"><u>MosaicMaker Elite  Designing with Digital Threads</u></a></li>
-<li><a href="https://discover-great.techidaily.com/secrets-revealed-downloading-and-listening-to-free-songs-offline-with-itunes/"><u>Secrets Revealed: Downloading and Listening to Free Songs Offline with iTunes</u></a></li>
-<li><a href="https://discover-great.techidaily.com/seeing-clearly-now-understanding-how-true-4k-surpasses-standard-1080p-resolution/"><u>Seeing Clearly Now: Understanding How True 4K Surpasses Standard 1080P Resolution</u></a></li>
-<li><a href="https://discover-great.techidaily.com/simple-steps-how-to-easily-move-photos-from-ios-to-macos/"><u>Simple Steps: How to Easily Move Photos From iOS to macOS</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/the-best-3-alternatives-to-itunes-seamlessly-organize-your-ipod-library/"><u>The Best 3 Alternatives to iTunes: Seamlessly Organize Your iPod Library</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-10-methods-for-moving-your-iphone-images-onto-a-mac/"><u>Top 10 Methods for Moving Your iPhone Images Onto a Mac</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-free-downloader-apps-unlimited-youtube-videos-on-mac-without-savevid/"><u>Top Free Downloader Apps: Unlimited YouTube Videos on Mac Without Savevid</u></a></li>
-<li><a href="https://discover-great.techidaily.com/ultimate-list-must-watch-teen-films-ranked/"><u>Ultimate List: Must-Watch Teen Films Ranked</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-fostering-followers-with-flashy-instagram-puzzles-that-stand-out/"><u>[New] 2024 Approved Fostering Followers with Flashy Instagram Puzzles that Stand Out</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-analysis-tunefab-screen-tools/"><u>[New] Detailed Analysis Tunefab Screen Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-best-batch-eight-websites-where-text-meets-gleaming-3d/"><u>[New] In 2024, Best Batch Eight Websites Where Text Meets Gleaming 3D</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-efficiently-implementing-youtube-end-screens/"><u>[New] In 2024, Efficiently Implementing Youtube End Screens</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-edgeplus-2023-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://discover-great.techidaily.com/conversion-rapida-y-eficiente-de-dvd-a-mp4-minimizar-el-tamano-sin-comprometer-la-calidad-lograrlo-en-5-minutos/"><u>Conversión Rápida Y Eficiente De DVD a MP4 - Minimizar El Tamaño Sin Comprometer La Calidad, Lograrlo en 5 Minutos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/grasping-fcp-obtain-it-at-no-cost/"><u>Grasping FCP Obtain It at No Cost</u></a></li>
+<li><a href="https://discover-great.techidaily.com/guide-to-restoring-google-chromes-ability-to-stream-media-content-successfully/"><u>Guide to Restoring Google Chrome's Ability to Stream Media Content Successfully</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-asus-stunning-8k-mini-led-proart-display-a-beacon-of-visual-excellence-in-the-world-of-high-end-professional-monitors-boasting-exceptional-lumin50/"><u>Introducing Asus' Stunning 8K Mini LED ProArt Display - A Beacon of Visual Excellence in the World of High-End Professional Monitors, Boasting Exceptional Luminance and Precise Control Over Illumination Zones</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mac-ottimo-downloadatore-di-video-in-risoluzione-4khd-strumenti-gratuiti-per-raccolta-e-trasferimento-multimedia/"><u>Mac Ottimo Downloadatore Di Video in Risoluzione 4K/HD: Strumenti Gratuiti per Raccolta E Trasferimento Multimedia</u></a></li>
+<li><a href="https://discover-great.techidaily.com/schnelle-und-verlustfreie-umwandlung-von-mkv-zu-mp4-eine-einfache-anleitung/"><u>Schnelle Und Verlustfreie Umwandlung Von MKV Zu MP4: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-tutorial-on-image-blending-using-midjourney-for-newbies/"><u>Step-by-Step Tutorial on Image Blending Using Midjourney for Newbies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-itel-p40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Itel P40 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725289156295-winxvideo-ai/"><u>WinxVideo AI - 화면, 웹 캠핑 및 오디오 녹음을 위한 고급 도구</u></a></li>
 </ul></div>
+
