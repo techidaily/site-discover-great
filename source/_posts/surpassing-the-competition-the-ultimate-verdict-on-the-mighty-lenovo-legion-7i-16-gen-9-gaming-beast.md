@@ -1,7 +1,7 @@
 ---
 title: "Surpassing the Competition: The Ultimate Verdict on the Mighty Lenovo Legion ˈ7i 16 Gen 9 Gaming Beast"
-date: 2024-09-28T17:33:55.876Z
-updated: 2024-09-30T16:55:30.296Z
+date: 2024-10-02T00:58:14.037Z
+updated: 2024-10-05T22:00:52.847Z
 tags:
   - product-reviews
 categories:
@@ -108,13 +108,6 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Lenovo Went All-In on a User-Upgradable Design
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
@@ -146,10 +139,10 @@ Jerome Thomas / How-To Geek
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -164,19 +157,6 @@ Jerome Thomas / How-To Geek
 
 ![The backlit keyboard on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-backlit-keyboard-on-the-lenovo-legion-7i-16-gen-9_53661777647_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  Overall, I was extremely pleased with the performance of this laptop. When compared to other higher-class laptops, it also holds its own. I also have an RTX 4090-powered ASUS ROG Strix system which is an absolute monster of a machine. The RTX 4090 laptop, for comparison, hit 199FPS when in turbo mode. While that’s about two times the frames, it’s also over double the cost, and much, much larger and heavier.
@@ -186,10 +166,10 @@ Jerome Thomas / How-To Geek
 ![The Lenovo Legion 7i 16 Gen 9 on a table (2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-on-a-table-2_53661777582_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -204,13 +184,6 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The Lenovo Legion 7i 16 Gen 9 has just about any port you could want, though, it can be a tad confusing about what’s what. On the left side of the laptop, you have a USB-A port at 5Gb/s, a USB-C 3.2 Gen 2 port, and a Thunderbolt 4 port. There’s only one Thunderbolt 4 port here though, so do keep in mind that the other USB-C ports on the laptop are only 3.2 Gen 2 (10Gb/s), and not rated for 40Gb/s transfer rates. The Thunderbolt 4 port does, however, support up to 140W charging, so you can use a single-cable setup when you’re not pushing the laptop to its max. In front of the Thunderbolt 4 port, you have a combined headphone and microphone jack.
@@ -221,15 +194,36 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the right side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-legion-7i-16-gen-9_53663005784_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  All that to say, this laptop has a slew of port options to choose from. The inclusion of SD and HDMI is really nice, and, while there is Thunderbolt 4, I would have liked to see more than one port be rated at 40Gb/s here.
 
  You’ll also find Wi-Fi 6E, alongside Bluetooth 5.3 and no ethernet jack. That’s right, there are no wired networking options, which is a shame to see. This laptop is thick enough that Lenovo could have packed in wired connectivity, and I really wish they had. Wi-Fi 6E is nice and all, but sometimes, you just want the low-latency connection of a physical plug.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The 16-Inch Display Is Honestly Quite Impressive for a Laptop
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -238,19 +232,6 @@ Jerome Thomas / How-To Geek
  I was quite impressed with the display. While it’s no MacBook Pro screen, I would have no problems doing my daily work on the latest Legion 7i 16\. I found the colors to be very accurate, the glare to be fairly low, and the response time and refresh rate were both fantastic.
 
  One unique thing is that there’s a keyboard shortcut (Fn+R) to switch between 240/60Hz and 165/60Hz, depending on which screen you get. This might seem redundant, but it’s actually very useful. If you’re on the road and need to preserve battery life over all else, then dropping to a 60Hz refresh rate will make the screen refresh 66% slower, which reduces power usage across the board.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9?
 
@@ -263,6 +244,13 @@ Jerome Thomas / How-To Geek
  The sleek design, metal build, and performance offered make this laptop a compelling option for those looking for a Windows-based computer to handle all their daily work and play tasks.
 
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -291,22 +279,19 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pushing-boundaries-exquisite-fluid-gaming-selections/"><u>[New] Pushing Boundaries Exquisite Fluid Gaming Selections</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-creativity-top-editors-for-online-sharing-for-2024/"><u>[Updated] Cutting-Edge Creativity Top Editors for Online Sharing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommended-8-filters-for-webcam-sharpening/"><u>[Updated] Expert-Recommended 8 Filters for Webcam Sharpening</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gopro-hero-session-vs-polaroid-cubeplus-which-one-is-better-for-you/"><u>[Updated] GoPro Hero Session Vs Polaroid Cube+ Which One Is Better for You?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-reducing-camera-movement-in-post-processing-necessary-for-2024/"><u>[Updated] Reducing Camera Movement in Post-Processing Necessary for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-key-techniques-for-elevating-academic-studies-using-artificial-intelligence-tools/"><u>5 Key Techniques for Elevating Academic Studies Using Artificial Intelligence Tools</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1724765477553-dvd/"><u>初心者向けのシンプルなウェディングDVDコピーとダビング手順 - 専門家レベルでも軽々とこなせる最適ソフトを紹介！</u></a></li>
-<li><a href="https://discover-great.techidaily.com/5lia55m644ko44oz44kz44o844oj44o76kqt44g6l6844g5pmc44gu6zplusz6yep44ga44km44ks5a6m5ywo44gr55u044gz44kz44oe/"><u>一発エンコード・読み込み時の音量ずれを完全に直すコツ</u></a></li>
-<li><a href="https://discover-great.techidaily.com/a-comprehensive-review-of-the-ecovacs-winbot-w2-omni-the-peculiar-and-impressive-window-cleaning-bot/"><u>A Comprehensive Review of the Ecovacs Winbot W2 Omni - The Peculiar and Impressive Window-Cleaning Bot</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-free-video-converter-tools-for-mac-users-effortlessly-convert-mkv-files-into-mp4-avi-mov-with-high-quality-results/"><u>Best Free Video Converter Tools for Mac Users: Effortlessly Convert MKV Files Into MP4 AVI MOV with High-Quality Results</u></a></li>
-<li><a href="https://discover-great.techidaily.com/convert-youtube-videos-for-free-on-mac-with-macx-pro-converter/"><u>Convert YouTube Videos for Free on Mac with MacX Pro Converter</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/oming-obscured-views-during-youtube-playback/"><u>Overcoming Obscured Views During YouTube Playback</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-lenovo-z50-70-firmware-patches-here/"><u>Quick Lenovo Z50-70 Firmware Patches Here</u></a></li>
-<li><a href="https://discover-great.techidaily.com/secrets-revealed-downloading-and-listening-to-free-songs-offline-with-itunes/"><u>Secrets Revealed: Downloading and Listening to Free Songs Offline with iTunes</u></a></li>
-<li><a href="https://discover-great.techidaily.com/seeing-clearly-now-understanding-how-true-4k-surpasses-standard-1080p-resolution/"><u>Seeing Clearly Now: Understanding How True 4K Surpasses Standard 1080P Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-sniptools-unresponsive-commands/"><u>Troubleshooting SnipTool's Unresponsive Commands</u></a></li>
-<li><a href="https://discover-great.techidaily.com/ultimate-list-must-watch-teen-films-ranked/"><u>Ultimate List: Must-Watch Teen Films Ranked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-recommended-frame-rates-for-professional-slow-motion-videos/"><u>[New] Recommended Frame Rates for Professional Slow-Motion Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-gif-apps-for-iphone-x876/"><u>[Updated] In 2024, Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-subscribe-savvy-double-your-audience-in-pocket-change-for-2024/"><u>[Updated] Subscribe Savvy Double Your Audience in Pocket Change for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-quick-face-blurring-on-picscroller/"><u>2024 Approved Mastering Quick Face-Blurring on PicScroller</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/connect-with-professionals-at-digiarty-elevate-your-online-presence/"><u>Connect with Professionals at Digiarty – Elevate Your Online Presence</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-fix-a-broken-mp4-file-without-paying-easy-steps-for-windows-and-mac/"><u>How to Fix a Broken MP4 File Without Paying - Easy Steps for Windows and Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy S23</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-comparison-of-m1-and-m2-ipad-pro-models-deciding-which-fits-your-needs-best-s-guide/"><u>In-Depth Comparison of M1 and M2 iPad Pro Models: Deciding Which Fits Your Needs Best 'S Guide</u></a></li>
+<li><a href="https://discover-great.techidaily.com/manage-and-move-images-and-clips-with-ease-using-winx-mediatrans-on-iphoneipad-from-any-computer/"><u>Manage and Move Images & Clips with Ease Using WinX MediaTrans on iPhone/iPad From Any Computer</u></a></li>
+<li><a href="https://discover-great.techidaily.com/resoudre-les-problemes-dechec-de-lecture-video-udf-avec-winx-dvd-ripper-guide-complet/"><u>Résoudre Les Problèmes D'échec De Lecture Vidéo UDF Avec WinX DVD Ripper - Guide Complet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-understanding-and-evaluating-the-microsoft-surface-studio-2/"><u>The Ultimate Guide to Understanding and Evaluating the Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-digiarty-software-xdvd-eulas-comprehensive-guide/"><u>Understanding the Digiarty Software - XDVD EULAs: Comprehensive Guide</u></a></li>
 </ul></div>
 

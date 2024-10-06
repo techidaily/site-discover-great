@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Cycling with Tenways CGO600 Pro - The Bike That Feels Just Like an Apple
-date: 2024-09-26T16:55:50.288Z
-updated: 2024-09-30T17:08:13.997Z
+date: 2024-09-30T00:38:59.702Z
+updated: 2024-10-05T17:57:24.788Z
 tags:
   - product-reviews
 categories:
@@ -30,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The [Tenways CGO600 Pro](https://us.tenways.com/products/cgo600-pro?ref=mwuxnmm&utm%5Fsource=tapfiliate&utm%5Fmedium=affiliate&utm%5Fcampaign=mwuxnmm) is a modern class 1 ebike. Its single-gear belt drive makes it ideal for urban areas, whether there are hills or not. It delivers on very specific needs, but if you’re doing short commutes, cruising on the weekend, or just don’t want to mess with gears, then your needs might be met by this stunner.
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Tenways CGO600 Pro
 
@@ -112,6 +105,13 @@ Expand
 
 ![A close up of the Tenways CGO600 Pro front light](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/598ab282-910d-41dc-8a79-76f4c60a94a9.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The first thing I noticed about the bike was its sleek and simple frame. Thanks in part to its non-geared belt drive, there isn’t a lot of visual messiness. The real star of the design, however, turned out to be something I couldn't see. Its light 37-pound weight needed to be felt to be truly appreciated.
@@ -122,16 +122,16 @@ Tyler Hayes / How-To Geek
 
  From a purely aesthetic standpoint, I thought the CGO600 Pro looked like a cousin of VanMoof ([R.I.P](https://www.theverge.com/2023/8/4/23820106/vanmoof-sale-buyers-bid-micromobility-offer).) ebikes. Although the Avocado Green color might not be for everyone, I was smitten with its pale green complexion, which seemed sophisticated. I’ve tried a black Tenways bike before, and that color also looked good in person. The front light added to some of the bike's visual appeal, even though it's meant to be more for function. The light was useful at night, but I wish it had been a little bit brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Benefits of a Belt-Drive Bike
 
 ![A close up of the Tenways CGO600 Pro belt drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/821c0c13-9fac-41ad-894d-ebd7e1a138a1.JPG) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -155,6 +155,13 @@ Tyler Hayes / How-To Geek
 
  The ebike is quoted as having up to 53 miles of range. This can be achieved on the lowest power setting. Based on my experience, the more reasonable expectation is closer to 30 miles of range. Exclusively using the bike at full power push, that number is lower, but I never felt the need to leave it on the highest setting. Especially around flatter areas, I found the middle power setting to be the sweet spot. When the battery does get depleted, it can be removed from the bike and charged anywhere. The battery also has a small 4-dot power meter, which was helpful to see without needing to turn the bike on.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tech and the Bike's Mobile App
 
 ![Close up of the Tenways CGO600 Pro display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/fa040df2-0ce6-4068-ad55-065ab1bb8006.JPG) 
@@ -171,24 +178,18 @@ The screen did not photograph well but was readable in most lighting conditions.
 
  The CGO600 Pro has a passcode on the display to prevent others from turning on the power. As a security measure, that felt silly. The bike was easy to ride with no power. But it was also silly that the code could not be set or bypassed with the mobile app. After a few uses of the Tenways app, I left it closed and never missed it.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  CGO600 Pro Price and Availability
 
  The Tenways CGO600 Pro is widely available and [retails for $1,899](http://us.tenways.com/products/cgo600-pro) but is commonly on sale for $1,699 and offers free mudguards and a kickstand.
 
  The $1,699 cost is still pricey compared to the wide range of increasingly budget ebike options on the market, but it feels much more reasonable than the $1,899 retail price. [Velotric's T1 ebike](https://www.velotricbike.com/products/velotric-t1-ebike?variant=41729522794679) weighs a similar 36 pounds and also retails for around $1,699\. It has some different features and trade-offs, but these are certainly two comparable bikes that come in at a similar target price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Tenways CGO600 Pro vs CGO800S
 
@@ -203,16 +204,16 @@ The screen did not photograph well but was readable in most lighting conditions.
 * The CGO600 Pro is 9lbs lighter
 * The CGO600 Pro offers different size frames for different-sized riders
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Tenways CGO600 Pro Ebike?
 
 ![Tenways CGO600 Pro on a basketball court standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/bike.JPG) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -282,27 +283,20 @@ Expand
 
 [$1699 at Tenways](https://www.us.tenways.com/?ref=mwuxnmm&utm%5Fsource=tapfiliate&utm%5Fmedium=affiliate&utm%5Fcampaign=mwuxnmm) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What are the different ebike classes?
 
  Generally, class 1 ebikes are pedal-assist only, with no throttle, and can reach a top speed of 20MPH. Class 2 ebikes can reach a top speed of 20MPH without pedaling, using a throttle. Class 3 ebikes can go up to 28MPH when pedaling. The laws around ebikes in the U.S. are different for each state. Be sure to look into those rules where the ebike is being ridden.
 
  Since ebike classes are only loosely defined, not all products fit nicely within the confines. A lot of electric bikes will support faster pedal-assist speeds, but also have a throttle limited to 20MPH.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How can an ebike be unlocked to go faster?
 
@@ -323,20 +317,19 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-great.techidaily.com/0xc00d36c4/"><u>動画・音声プレイヤーで発生する「0xC00D36C4」エラーの解決策集</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1726026531602-web/"><u>秘技でメモリーを取る! 不気づかれずにWeb会議録音のコツ</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-11wav/"><u>音声録取ガイド：Windows 11に最適なWAVファイル保存方法</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-meizu-21-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Meizu 21 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v30-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V30 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-the-science-and-art-of-attention-grabbing-titles/"><u>Master the Science and Art of Attention-Grabbing Titles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses/"><u>The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-mastering-winx-mediatrans-seamless-conversion-of-videos-music-and-photos/"><u>Ultimate Guide: Mastering WinX MediaTrans – Seamless Conversion of Videos, Music, and Photos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/upgrade-intel-graphics-in-minutes-on-your-windows-10/"><u>Upgrade Intel Graphics in Minutes on Your WIndows 10</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-1011-mp3-wma-3/"><u>Windows 10/11用の無料 MP3 を WMA に変換する上位 3つのプログラム</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-11-guide-create-custom-ringtones-with-easy-step-by-step-tutorial/"><u>Windows 11 Guide: Create Custom Ringtones with Easy Step-by-Step Tutorial</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-pcavijpg/"><u>Windows PCでAVI画像をJPGフォーマットに直してみる方法</u></a></li>
-<li><a href="https://discover-great.techidaily.com/xavc-s-vs-avchd-differences-explained-and-how-to-convert-xavc-s-to-mp4/"><u>XAVC-S vs AVCHD - Differences Explained and How to Convert XAVC-S to MP4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-blur-selection-for-digital-imagery/"><u>[Updated] Advanced Blur Selection for Digital Imagery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-facebook-stories-like-a-pro/"><u>2024 Approved Navigating Facebook Stories Like a Pro</u></a></li>
+<li><a href="https://discover-great.techidaily.com/connect-with-digital-artistry-kontakt-services/"><u>Connect with Digital Artistry - Kontakt Services</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effective-strategies-for-dreamworks-dvd-copying-and-backup/"><u>Effective Strategies for DreamWorks DVD Copying and Backup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-m34-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy M34 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-oneplus-9-a-shortfall-in-performance-metrics/"><u>In-Depth Analysis of OnePlus 9: A Shortfall in Performance Metrics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rare-insight-into-elite-dvd-rentals-can-you-join-their-exclusive-circle/"><u>Rare Insight Into Elite DVD Rentals – Can You Join Their Exclusive Circle?</u></a></li>
+<li><a href="https://discover-great.techidaily.com/seamless-mp4-video-rotation-techniques-preserving-quality-at-90-180-or-270-degrees/"><u>Seamless MP4 Video Rotation Techniques: Preserving Quality at 90, 180, or 270 Degrees</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-10-mp4-to-dvd-conversion-tools-ideal-choices-for-windows-mac-and-linux-users/"><u>Top 10 MP4-to-DVD Conversion Tools: Ideal Choices for Windows, Mac & Linux Users</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-steps-for-flawless-avchd-media-playback-on-ios-devices/"><u>Troubleshooting Steps for Flawless AVCHD Media Playback on iOS Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unlocking-enhanced-surround-audio-making-your-dolby-pro-logic-iix-driver-work-again-in-win-10-done/"><u>Unlocking Enhanced Surround Audio: Making Your Dolby Pro Logic IIx Driver Work Again in Win 10 – Done!🎶</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unpacking-the-reasons-for-elden-rings-postponement/"><u>Unpacking the Reasons for Elden Ring's Postponement</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-10-winx-dvd-ripper-platinum/"><u>Windows 10 と互換性がありますか? - WinX DVD Ripper Platinum</u></a></li>
 </ul></div>
 
