@@ -1,7 +1,7 @@
 ---
 title: "Improving External Hard Drive Performance: Fixing Slow File Opens, Explained"
-date: 2024-10-27T16:26:32.663Z
-updated: 2024-11-03T20:05:13.500Z
+date: 2024-11-20T22:14:07.106Z
+updated: 2024-11-23T00:29:23.726Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d3ad76e322c0705c64d5daa2.png
@@ -24,9 +24,17 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -44,10 +52,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -57,10 +62,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -83,13 +85,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -109,10 +104,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -211,6 +203,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -225,6 +221,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -232,19 +232,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -278,13 +265,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -300,24 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-advances-in-syma-x8c-flight-autonomy/"><u>[New] Advances in Syma X8C Flight Autonomy</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>[Updated] GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mastering-youtube-broadcast-wirecast-streaming-guide/"><u>[Updated] In 2024, Mastering YouTube Broadcast WireCast Streaming Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-guide-top-7-superior-wet-proof-camcorders-for-2024/"><u>[Updated] Ultimate Guide Top 7 Superior Wet-Proof Camcorders for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-professional-techniques-how-to-refine-your-published-videos-on-youtube/"><u>2024 Approved Unveiling Professional Techniques How to Refine Your Published Videos on YouTube</u></a></li>
-<li><a href="https://discover-great.techidaily.com/a-comprehensive-guide-to-converting-dvd-movies-into-compatible-quicktime-format-for-apples-technology/"><u>A Comprehensive Guide to Converting DVD Movies Into Compatible QuickTime Format for Apple's Technology</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725289007472-dvd-mp4/"><u>DVD 無料変換の秘密: MP4にする詳細なマニュアルとステップバイステップ ビジュアルチュートリアル</u></a></li>
-<li><a href="https://discover-great.techidaily.com/gli-ottimi-ripper-di-dvd-senza-costo-su-windows-11-converti-i-tuoi-filmati-da-dvd-in-formato-mp4aviwmv-gratuitamente/"><u>Gli Ottimi Ripper Di DVD Senza Costo Su Windows 11 | Converti I Tuoi Filmati Da DVD in Formato MP4/AVI/WMV Gratuitamente</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-make-your-mac-detect-an-external-screen-tips-and-tricks/"><u>How to Make Your Mac Detect an External Screen: Tips and Tricks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-8-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 8 Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-solve-video-issues-in-facebook-chat-on-iosandroid-devices/"><u>In 2024, Solve Video Issues in Facebook Chat on iOS/Android Devices</u></a></li>
-<li><a href="https://discover-great.techidaily.com/reduzierung-der-video-auflosung-fur-facebook-erfolgreiches-downscaling-von-grossformatvideos/"><u>Reduzierung Der Video-Auflösung Für Facebook: Erfolgreiches Downscaling Von Großformatvideos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ae-text-configurations-from-basics-to-brilliance-for-2024/"><u>Top AE Text Configurations From Basics to Brilliance for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/transforma-tu-biblioteca-musical-con-soluciones-seguras-para-descargas-sin-drm-desde-itunes/"><u>Transforma Tu Biblioteca Musical Con Soluciones Seguras Para Descargas Sin DRM Desde iTunes</u></a></li>
-<li><a href="https://discover-great.techidaily.com/trois-techniques-libres-pour-convertir-les-fichiers-mts-au-format-mp4-rapidement/"><u>Trois Techniques Libres Pour Convertir Les Fichiers MTS Au Format MP4 Rapidement</u></a></li>
-<li><a href="https://discover-great.techidaily.com/winx-media-hub-the-go-to-source-for-gratis-dvd-extractor-and-hi-res-video-transformation-utilities-official/"><u>WinX Media Hub – The Go-To Source for Gratis DVD Extractor & Hi-Res Video Transformation Utilities (Official)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/winx-video-registration-screen-and-webcam-setup-with-advanced-microphone-integration/"><u>WinX Video Registration - Screen & Webcam Setup with Advanced Microphone Integration</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725284100621-winxdvd/"><u>WinXDVD 소프트웨어 사용을 위한 전시성 강화 지침</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-headsets-unveiled-top-8-for-virtual-quests/"><u>[Updated] Innovative Headsets Unveiled Top 8 for Virtual Quests</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-four-effective-methods-for-concealing-messages-on-your-iphone/"><u>1. Four Effective Methods for Concealing Messages on Your iPhone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/5lqu56iu5pyj5pwi55qe5pa55byp6k6t5l2g5ou5zue6kkr5lif5qoe5zyo6loh5rqq5zue5ps2562s55qe6yen6kab5pah5lu2/"><u>五種有效的方式讓你拿回被丟棄在資源回收筒的重要文件</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-xs-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone XS Max - 4 Easy Ways</u></a></li>
+<li><a href="https://discover-great.techidaily.com/comprehensive-guide-shifting-data-from-your-android-device-to-an-apple-iphone-via-desktop-computers/"><u>Comprehensive Guide: Shifting Data From Your Android Device to an Apple iPhone via Desktop Computers</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-migration-of-cloned-os-images-and-recovery-sections-onto-a-samsung-nvme-ssd/"><u>Effortless Migration of Cloned OS Images and Recovery Sections Onto a Samsung NVMe SSD</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-android-flips-video-frames-for-the-ages-for-2024/"><u>How Android Flips Video Frames for the Ages for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/iphone-se-series-face-off-comparing-iphone-se-2020-and-iphone-se-key-updates-revealed/"><u>IPhone SE Series Face-Off: Comparing iPhone SE (2020) and iPhone SE - Key Updates Revealed</u></a></li>
+<li><a href="https://discover-great.techidaily.com/optimisation-et-gestion-des-espaces-vides-non-utilises-dans-les-disques-durs-clones-par-resolu/"><u>Optimisation Et Gestion Des Espaces Vides Non Utilisés Dans Les Disques Durs Clonés Par Résolu</u></a></li>
+<li><a href="https://discover-great.techidaily.com/quick-setup-guide-how-to-install-windows-11-using-mbr-method/"><u>Quick Setup Guide: How to Install Windows 11 Using MBR Method</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-iphone-volume-buttons-7-essential-repair-tips-you-must-try/"><u>Reviving iPhone Volume Buttons: 7 Essential Repair Tips You Must Try</u></a></li>
+<li><a href="https://article-files.techidaily.com/selecting-your-perfect-mp4-device/"><u>Selecting Your Perfect MP4 Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-taken-to-watch-an-example-of-a-20mb-video-for-2024/"><u>Time Taken to Watch An Example of a 20MB Video for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-vr-gaming-experiences-on-pc-android-and-iphone-20162017/"><u>Top-Ranked VR Gaming Experiences on PC, Android & iPhone (2016/2017)</u></a></li>
 </ul></div>
 
