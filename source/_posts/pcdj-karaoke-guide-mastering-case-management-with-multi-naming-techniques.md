@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Karaoke Guide: Mastering Case Management with Multi-Naming Techniques"
-date: 2024-11-26T20:54:19.398Z
-updated: 2024-11-30T16:11:24.549Z
+date: 2024-12-04T05:27:11.696Z
+updated: 2024-12-08T20:51:41.630Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,18 +51,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-youtubes-realm-to-igtvs-domain-3-ways-for-2024/"><u>[New] From YouTube's Realm to IGTV's Domain (3 Ways) for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-poker-professional-panelisms/"><u>[New] In 2024, POKER PROFESSIONAL PANELISMS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-broadcasting-vids-directly-from-phone-twitter-without-retweets/"><u>[Updated] 2024 Approved Broadcasting Vids Directly From Phone – Twitter, Without Retweets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/2x48gb-powerhouse-unveiled-explore-the-might-of-gskills-trident-z5-rgb-ddr5-ram-for-ultimate-motherboard-pairing/"><u>2X48GB Powerhouse Unveiled: Explore the Might of G.SKILL's Trident Z5 RGB DDR5 RAM for Ultimate Motherboard Pairing!</u></a></li>
-<li><a href="https://discover-great.techidaily.com/festplatten-formatieren-auf-windows-ebenso-einfach-wie-mit-einer-cd-zwei-wege-zum-loschen-des-inhalts/"><u>Festplatten Formatieren Auf Windows Ebenso Einfach Wie Mit Einer CD: Zwei Wege Zum Löschen Des Inhalts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/free-hdd-cloning-software-to-ssd-on-windows-migration-guide/"><u>Free HDD Cloning Software to SSD on Windows - Migration Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-meets-hero5-session-a-visual-verdict/"><u>In 2024, Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-technology-at-toms-hardware/"><u>In-Depth Analysis of Cutting-Edge Technology at Tom's Hardware</u></a></li>
-<li><a href="https://discover-great.techidaily.com/pchddwindows/"><u>PC間HDD転送:Windows再構築せず移動ガイド</u></a></li>
-<li><a href="https://discover-great.techidaily.com/safeguard-your-digital-life-understanding-the-importance-of-data-backups/"><u>Safeguard Your Digital Life: Understanding the Importance of Data Backups</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-performing-a-system-restore-from-the-boot-menu-on-windows-7/"><u>Step-by-Step Guide: Performing a System Restore From the Boot Menu on Windows 7</u></a></li>
-<li><a href="https://discover-great.techidaily.com/tout-savoir-sur-lutilisation-de-fonebackup-pour-les-appareils-ios-une-strategie-facilitatrice/"><u>Tout Savoir Sur L'Utilisation De FoneBackup Pour Les Appareils iOS : Une Stratégie Facilitatrice</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unlock-gif-potential-creating-animated-summaries-of-vimeo-videos/"><u>Unlock GIF Potential Creating Animated Summaries of Vimeo Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-techniques-converting-visual-content-on-pinterest-to-mp3s/"><u>[New] Prime Techniques Converting Visual Content on Pinterest To MP3s</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[Updated] In 2024, Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-freeze-frame-creation-through-stabilized-capture/"><u>2024 Approved Freeze-Frame Creation Through Stabilized Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-ideas-top-17-lighting-setups-for-youtubers-for-2024/"><u>Bright Ideas Top 17 Lighting Setups for YouTubers for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/decoding-the-hundred-days-reform-agenda-a-comprehensive-insight-by-yl-computing-and-yl-software/"><u>Decoding the Hundred Days Reform Agenda: A Comprehensive Insight by YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-best.techidaily.com/drive-your-website-traffic-with-automated-conversion-tracking-the-power-of-cookiebot/"><u>Drive Your Website Traffic with Automated Conversion Tracking: The Power of Cookiebot</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nokia-130-music-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nokia 130 Music to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-meta-verification-a-prudent-expense/"><u>Is Meta Verification a Prudent Expense?</u></a></li>
+<li><a href="https://discover-great.techidaily.com/resolving-network-card-driver-issues-step-by-step-guide-tech-solutions/"><u>Resolving Network Card Driver Issues: Step-by-Step Guide - Tech Solutions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/secure-strategies-for-effective-crypto-asset-management-insights-from-yl-computing-experts/"><u>Secure Strategies for Effective Crypto Asset Management - Insights From YL Computing Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/shaping-chinese-heritage-the-influence-of-the-great-wall-according-to-yl-software-experts/"><u>Shaping Chinese Heritage: The Influence of the Great Wall According to YL Software Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/unveiling-leaders-of-chinas-maoist-movement-expert-insights-from-yl-computing/"><u>Unveiling Leaders of China's Maoist Movement: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-workings-of-lg-electronics-sales-channels/"><u>Unveiling the Workings of LG Electronics' Sales Channels</u></a></li>
+<li><a href="https://discover-great.techidaily.com/unveiling-why-your-pc-keeps-haltin-insights-from-yl-computing-experts/"><u>Unveiling Why Your PC Keeps Haltin' - Insights From YL Computing Experts</u></a></li>
 </ul></div>
 

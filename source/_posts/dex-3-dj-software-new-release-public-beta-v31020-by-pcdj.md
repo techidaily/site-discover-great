@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2024-11-29T06:03:52.416Z
-updated: 2024-11-30T16:31:36.591Z
+date: 2024-12-05T16:59:57.344Z
+updated: 2024-12-09T00:32:26.476Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,17 +75,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-supreme-recommendations-best-ios-tone-designers/"><u>[New] 2024 Approved Supreme Recommendations Best iOS Tone Designers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts/"><u>[New] In 2024, The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Podcasts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/discover-the-best-no-cost-file-recovery-apps-for-windows-11-users/"><u>Discover the Best No-Cost File Recovery Apps for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-the-fix-swift-solutions-for-your-magic-mouses-tracking-woes/"><u>Master the Fix: Swift Solutions for Your Magic Mouse's Tracking Woes</u></a></li>
-<li><a href="https://discover-great.techidaily.com/menghiruni-disk-lamping-dengan-hdd-dan-ssd-tanpa-perlu-reinstallasi/"><u>Menghiruni Disk Lamping Dengan HDD Dan SSD, Tanpa Perlu Reinstallasi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>Pro 3 Camera Insight Mastering Video on the Go with ION</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/professional-tips-for-hd-streaming-success-on-social-media-fb-for-2024/"><u>Professional Tips for HD Streaming Success on Social Media (FB) for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/section-2a-concept-explanation-pediatric-pneumonia-treatment/"><u>Section 2A: Concept Explanation - Pediatric Pneumonia Treatment</u></a></li>
-<li><a href="https://discover-great.techidaily.com/tutorial-setting-up-offline-file-access-and-synchronization-with-windows-tenth-edition/"><u>Tutorial: Setting Up Offline File Access & Synchronization with Windows Tenth Edition</u></a></li>
-<li><a href="https://discover-great.techidaily.com/wie-man-die-nicht-gefundenen-heruntergeladenen-dateien-von-facebook-findet-und-behebt/"><u>Wie Man Die Nicht Gefundenen Heruntergeladenen Dateien Von Facebook Findet Und Behebt</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-21plus-novel-collage-formulas-amplify-your-mood/"><u>[New] 21+ Novel Collage Formulas Amplify Your Mood</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-story-complete-guide-what-is-it-and-how-to-use-it-for-2024/"><u>[New] Facebook Story Complete Guide What Is It and How to Use It for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastery-in-monitoring-adding-time-based-events-to-obs/"><u>[Updated] 2024 Approved Mastery in Monitoring Adding Time-Based Events to OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>[Updated] In 2024, The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-slomo-capture-application-assessment-expert-opinions/"><u>2024 Approved SloMo Capture Application Assessment - Expert Opinions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/efficiently-deleting-files-on-your-pc-expert-advice-by-yl-software-solutions/"><u>Efficiently Deleting Files on Your PC: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-13-pro-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 13 Pro Smoothly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/pioneer-djs-limited-time-offer-get-a-steal-on-professional-dj-software-at-the-namm-show-until-february-15th/"><u>Pioneer DJ's Limited-Time Offer - Get a Steal on Professional DJ Software at the NAMM Show Until February 15Th</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pushing-the-limits-with-text-warping-effects-for-2024/"><u>Pushing the Limits with Text Warping Effects for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/resolving-the-blue-screen-error-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving the Blue Screen Error on Windows: A Step-by-Step Guide - By YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/starbucks-collection-high-quality-walls-desktops-and-screensavers-digital-art-by-yl-creations/"><u>Starbucks Collection: High-Quality Walls, Desktops & Screensavers - Digital Art by YL Creations</u></a></li>
+<li><a href="https://discover-great.techidaily.com/steps-to-update-your-settings-navigating-the-control-panel-insights-from-yl-computing/"><u>Steps to Update Your Settings: Navigating the Control Panel - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultimate-collection-of-sporty-hd-walls-and-car-photographs-for-dynamic-background-imagery-yl-software-visuals/"><u>Ultimate Collection of Sporty HD Walls and Car Photographs for Dynamic Background Imagery - YL Software Visuals</u></a></li>
+<li><a href="https://win-web.techidaily.com/understanding-common-reasons-behind-hard-drive-failures-insights-from-yl-computing/"><u>Understanding Common Reasons Behind Hard Drive Failures: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-historical-significance-and-outcomes-of-mao-zedongs-cultural-revolution-a-comprehensive-review/"><u>Understanding the Historical Significance and Outcomes of Mao Zedong’s Cultural Revolution: A Comprehensive Review</u></a></li>
+<li><a href="https://discover-great.techidaily.com/verifying-data-authenticity-in-file-recovery-processes-insights-from-yl-software-solutions/"><u>Verifying Data Authenticity in File Recovery Processes - Insights From YL Software Solutions</u></a></li>
 </ul></div>
 

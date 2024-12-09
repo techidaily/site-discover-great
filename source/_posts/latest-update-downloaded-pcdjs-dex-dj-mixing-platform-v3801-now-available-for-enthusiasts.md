@@ -1,7 +1,7 @@
 ---
 title: "Latest Update Downloaded: PCDJ's DEX DJ Mixing Platform v3.8.0.1 Now Available for Enthusiasts"
-date: 2024-11-28T10:29:14.001Z
-updated: 2024-11-30T21:02:20.312Z
+date: 2024-12-07T17:49:51.037Z
+updated: 2024-12-09T01:22:47.856Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 is the modern jocks [DJ software](https://tools.techidaily.com/pcdj/produc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, Or Updated In DEX 3.8.0.1
@@ -49,7 +49,7 @@ _**NOTE:** Simply install DEX 3.8.0.1 with your existing version closed for a se
 _Have questions about our **top DJ software**, supported **DJ controllers**, or how to update? Feel free to leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,18 +71,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3801-cover.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-discovering-the-30-most-recommended-steadicams-for-dslr-cinematographers/"><u>[New] Discovering the 30 Most Recommended Steadicams for DSLR Cinematographers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices-for-2024/"><u>[New] Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-cheapest-alternatives-to-androids-facetime/"><u>[Updated] 2024 Approved Cheapest Alternatives to Android's FaceTime</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-simplified-path-to-mastery-in-using-cc-licenses/"><u>[Updated] In 2024, Simplified Path to Mastery in Using CC Licenses</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-7hddssd/"><u>无数据丢失的情况下将动态驱动器在Windows 7上複製到HDD/SSD</u></a></li>
-<li><a href="https://discover-great.techidaily.com/complete-guide-downloading-shared-icloud-images-and-videos-from-your-iphone/"><u>Complete Guide: Downloading Shared iCloud Images & Videos From Your iPhone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/diy-gif-googlepc/"><u>DIY GIFアニメ: GoogleフォトでPC向けに簡単な手順を学ぶ</u></a></li>
-<li><a href="https://discover-great.techidaily.com/enhance-your-gaming-experience-by-boosting-steam-deck-ssd-with-clonezilla-or-comparable-tools/"><u>Enhance Your Gaming Experience by Boosting Steam Deck SSD with Clonezilla or Comparable Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-play-8t-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor Play 8T PC | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/schnelle-losung-steigern-sie-die-geschwindigkeit-ihres-windows-11-ssds-die-top-2-methoden/"><u>Schnelle Lösung: Steigern Sie Die Geschwindigkeit Ihres Windows 11 SSDs - Die TOP 2 Methoden</u></a></li>
-<li><a href="https://discover-great.techidaily.com/successful-fix-restore-your-ios-device-post-update-15-data-loss/"><u>Successful Fix: Restore Your iOS Device Post-Update 15 Data Loss</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-5-best-no-cost-video-enhancement-platforms/"><u>[New] In 2024, 5 Best No-Cost Video Enhancement Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-launch-sequence-the-right-moment-for-podcasts/"><u>[Updated] 2024 Approved Launch Sequence The Right Moment for Podcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-instant-adjustment-match-youtube-to-mac-aspects/"><u>[Updated] Instant Adjustment Match YouTube to Mac Aspects</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-troubleshooting-guide-fixing-issues-with-your-graphics-card-expert-advice-from-yl-computing/"><u>1. Troubleshooting Guide: Fixing Issues with Your Graphics Card - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-practices-for-selecting-the-right-ram-for-your-pc-upgrade-insights-from-yl-computing/"><u>Best Practices for Selecting the Right RAM for Your PC Upgrade: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/detect-and-troubleshoot-defective-computer-parts-with-guidance-from-yl-tech-experts/"><u>Detect and Troubleshoot Defective Computer Parts with Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effective-methods-for-preventing-physical-damage-to-hard-drives-expert-advice-by-yl-software/"><u>Effective Methods for Preventing Physical Damage to Hard Drives: Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/high-quality-scans-of-chuck-and-friends-classic-episodes-hd-backgrounds-walls-art-by-yl-computing/"><u>High-Quality Scans of Chuck & Friends' Classic Episodes: HD Backgrounds, Walls Art by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y27-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y27 4G</u></a></li>
+<li><a href="https://win-great.techidaily.com/troubleshooting-a-non-responsive-computer-mouse-insights-from-yl-computing/"><u>Troubleshooting a Non-Responsive Computer Mouse: Insights From YL Computing</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-the-reasons-behind-cpu-performance-limiting-a-deep-dive-by-yl-computing-and-software/"><u>Understanding the Reasons Behind CPU Performance Limiting: A Deep Dive by YL Computing & Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/unlock-the-reasons-behind-failed-computer-starts-expert-advice-from-yl-software-and-computing/"><u>Unlock the Reasons Behind Failed Computer Starts - Expert Advice From YL Software and Computing</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>Updated 2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
 
