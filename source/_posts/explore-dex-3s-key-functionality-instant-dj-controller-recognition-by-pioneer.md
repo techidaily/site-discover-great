@@ -1,7 +1,7 @@
 ---
 title: "Explore DEX 3'S Key Functionality: Instant DJ Controller Recognition by Pioneer"
-date: 2024-12-06T08:14:42.093Z
-updated: 2024-12-09T01:44:54.519Z
+date: 2024-12-09T17:19:57.736Z
+updated: 2024-12-15T16:38:53.620Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ What does “auto-detect in real-time” mean, exactly? You can now connect or d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-Detection Of DJ Controllers
@@ -33,7 +33,7 @@ Launch DEX 3.4 and connect (_or disconnect_) any [supported DJ controller](https
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/1389090069_4.jpg?fit=300%2C300&ssl=1 "Denon DJ MC6000 MKII")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thus, you can open DEX 3.4 without a DJ controller connected and then connect or remove up to 8 different controllers at the same time. DJ controllers will be detected and start working automatically, and immediately.
@@ -43,7 +43,7 @@ Auto DJ controller detection works on both Mac and Windows, and only in DEX 3.4 
 **(UPDATED): Important note for Windows DEX 3.4 users:** If you’re using a DJ controller that includes a built-in audio interface equipped with ASIO drivers, in order for the audio device to engage and start working properly when re-connecting a controller on-the-fly, you will need to select a different audio device from the select output device drop down menu under the audio tab in settings, then select the ASIO driver for the audio interface again from the select output device drop down menu (_this will re-engage the audio interface and ASIO will begin to work again_).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can Auto-DJ Controller Detection Be Useful?
@@ -53,7 +53,7 @@ The Real-time DJ controller detection feature is undoubtedly useful if a control
 ![Numark MixTrack Pro 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/Mixtrack-Pro-III.jpg?fit=300%2C169&ssl=1 "Numark MixTrack Pro 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Or, if you simply wants to hook an additional controller on the fly to control other features of DEX 3.4 – such as triggering samples from the sample players.
@@ -61,7 +61,7 @@ Or, if you simply wants to hook an additional controller on the fly to control o
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,19 +83,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/09/realtimecontrollerdetectio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-craft-your-own-style-the-art-of-bordered-instagram-photos/"><u>[New] In 2024, Craft Your Own Style The Art of Bordered Instagram Photos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-captivating-snaps-with-snapchats-colorful-cartoon-lens-for-2024/"><u>[Updated] Captivating Snaps with Snapchat’s Colorful Cartoon Lens for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-ace-2v-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Ace 2V Location Settings | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/expert-techniques-for-effortlessly-extracting-zip-archives-in-windows-os-discover-yls-methods/"><u>Expert Techniques for Effortlessly Extracting Zip Archives in Windows OS – Discover YL's Methods</u></a></li>
-<li><a href="https://discover-great.techidaily.com/expert-tips-for-restoring-your-motherboards-functionality-with-yl-software-solutions/"><u>Expert Tips for Restoring Your Motherboard's Functionality with YL Software Solutions</u></a></li>
-<li><a href="https://discover-great.techidaily.com/fastest-methods-to-power-off-your-pc-on-windows-11-expert-tips-from-yl-computing/"><u>Fastest Methods to Power Off Your PC on Windows 11: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hunt-for-best-ringtone-deals-on-pixel-phones/"><u>Hunt for Best Ringtone Deals on Pixel Phones</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-league-of-legends-stability-a-fast-track-fix-for-persistent-issues/"><u>Mastering League of Legends Stability: A Fast Track Fix for Persistent Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sharpen-your-windows-11-viewing-experience-fixes-for-unclear-characters/"><u>Sharpen Your Windows 11 Viewing Experience - Fixes for Unclear Characters</u></a></li>
-<li><a href="https://discover-great.techidaily.com/troubleshooting-guide-resolving-issues-with-your-computers-sound-hardware-advice-by-yl-tech-experts/"><u>Troubleshooting Guide: Resolving Issues with Your Computer's Sound Hardware - Advice by YL Tech Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/unveiling-confucius-wisdom-insights-from-ancient-philosophy-explore-with-yl-computing-solutions/"><u>Unveiling Confucius' Wisdom: Insights From Ancient Philosophy - Explore with YL Computing Solutions</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-8-best-free-video-game-sound-effects-you-need-to-know/"><u>Updated In 2024, 8 Best Free Video Game Sound Effects You Need to Know</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-hear-and-engage-speech-technology-gratis/"><u>[New] 2024 Approved Hear & Engage Speech Technology Gratis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immediate-color-correction-with-canons-paired-luts/"><u>[New] Immediate Color Correction with Canon's Paired LUTs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-creating-classical-cinematography-a-modern-tutorial/"><u>2024 Approved Creating Classical Cinematography A Modern Tutorial</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-fix-for-rtl8eapdriver-installation-errors-with-the-realtek-rtl8723be-wireless-network-card-on-pcs/"><u>Comprehensive Fix for RTL8eapdriver Installation Errors with the Realtek RTL8723BE Wireless Network Card on PCs</u></a></li>
+<li><a href="https://discover-great.techidaily.com/detect-and-troubleshoot-defective-computer-parts-with-guidance-from-yl-tech-experts/"><u>Detect and Troubleshoot Defective Computer Parts with Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ensuring-no-data-lost-during-windows-file-recovery-insights-from-yl-software/"><u>Ensuring No Data Lost During Windows File Recovery - Insights From YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/expert-advice-on-boosting-your-systems-performance-with-yl-software-registry-optimization/"><u>Expert Advice on Boosting Your System's Performance with YL Software Registry Optimization</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-do-driver-software-mishaps-occur-expert-analysis-by-yl-software-experts/"><u>How Do Driver Software Mishaps Occur? Expert Analysis by YL Software Experts</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/new-song-additions-on-karaoke-subscription-top-28-hits-for-your-next-dj-set-at-party-tyme/"><u>New Song Additions on Karaoke Subscription: Top 28 Hits for Your Next DJ Set at Party Tyme</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-call-rejection-problems-on-your-samsung-galaxy-watch-easy-fixes-and-tips/"><u>Overcoming Call Rejection Problems on Your Samsung Galaxy Watch - Easy Fixes and Tips!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tips-for-a-swift-checkup-of-your-youtube-sign-in/"><u>Tips for a Swift Checkup of Your YouTube Sign-In</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-strategies-for-boosting-your-systems-speed-expert-advice-from-yl-computing/"><u>Top Strategies for Boosting Your System's Speed: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-incorrect-parameter-mistakes-causing-error-87-in-loadlibrary-operations/"><u>Understanding and Resolving Incorrect Parameter Mistakes Causing Error 87 in LoadLibrary Operations</u></a></li>
 </ul></div>
 

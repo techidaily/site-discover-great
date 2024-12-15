@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2024-12-05T16:59:57.344Z
-updated: 2024-12-09T00:32:26.476Z
+date: 2024-12-11T16:28:53.741Z
+updated: 2024-12-15T17:36:34.592Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,22 +75,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-21plus-novel-collage-formulas-amplify-your-mood/"><u>[New] 21+ Novel Collage Formulas Amplify Your Mood</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-story-complete-guide-what-is-it-and-how-to-use-it-for-2024/"><u>[New] Facebook Story Complete Guide What Is It and How to Use It for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastery-in-monitoring-adding-time-based-events-to-obs/"><u>[Updated] 2024 Approved Mastery in Monitoring Adding Time-Based Events to OBS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>[Updated] In 2024, The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-slomo-capture-application-assessment-expert-opinions/"><u>2024 Approved SloMo Capture Application Assessment - Expert Opinions</u></a></li>
-<li><a href="https://discover-great.techidaily.com/efficiently-deleting-files-on-your-pc-expert-advice-by-yl-software-solutions/"><u>Efficiently Deleting Files on Your PC: Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-13-pro-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 13 Pro Smoothly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/pioneer-djs-limited-time-offer-get-a-steal-on-professional-dj-software-at-the-namm-show-until-february-15th/"><u>Pioneer DJ's Limited-Time Offer - Get a Steal on Professional DJ Software at the NAMM Show Until February 15Th</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/pushing-the-limits-with-text-warping-effects-for-2024/"><u>Pushing the Limits with Text Warping Effects for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/resolving-the-blue-screen-error-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving the Blue Screen Error on Windows: A Step-by-Step Guide - By YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/starbucks-collection-high-quality-walls-desktops-and-screensavers-digital-art-by-yl-creations/"><u>Starbucks Collection: High-Quality Walls, Desktops & Screensavers - Digital Art by YL Creations</u></a></li>
-<li><a href="https://discover-great.techidaily.com/steps-to-update-your-settings-navigating-the-control-panel-insights-from-yl-computing/"><u>Steps to Update Your Settings: Navigating the Control Panel - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/ultimate-collection-of-sporty-hd-walls-and-car-photographs-for-dynamic-background-imagery-yl-software-visuals/"><u>Ultimate Collection of Sporty HD Walls and Car Photographs for Dynamic Background Imagery - YL Software Visuals</u></a></li>
-<li><a href="https://win-web.techidaily.com/understanding-common-reasons-behind-hard-drive-failures-insights-from-yl-computing/"><u>Understanding Common Reasons Behind Hard Drive Failures: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/understanding-the-historical-significance-and-outcomes-of-mao-zedongs-cultural-revolution-a-comprehensive-review/"><u>Understanding the Historical Significance and Outcomes of Mao Zedong’s Cultural Revolution: A Comprehensive Review</u></a></li>
-<li><a href="https://discover-great.techidaily.com/verifying-data-authenticity-in-file-recovery-processes-insights-from-yl-software-solutions/"><u>Verifying Data Authenticity in File Recovery Processes - Insights From YL Software Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-tips-for-conducting-obs-meetings-via-zoom/"><u>[New] Expert Tips for Conducting OBS Meetings via Zoom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-walkthrough-mastering-adobe-cloud-services/"><u>[Updated] Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-troubleshooting-guide-fixing-issues-with-your-graphics-card-expert-advice-from-yl-computing/"><u>1. Troubleshooting Guide: Fixing Issues with Your Graphics Card - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-the-secret-strategies-of-instagram-influencers/"><u>2024 Approved Unlocking the Secret Strategies of Instagram Influencers</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-practices-for-selecting-the-right-ram-for-your-pc-upgrade-insights-from-yl-computing/"><u>Best Practices for Selecting the Right RAM for Your PC Upgrade: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effective-methods-for-preventing-physical-damage-to-hard-drives-expert-advice-by-yl-software/"><u>Effective Methods for Preventing Physical Damage to Hard Drives: Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/high-quality-scans-of-chuck-and-friends-classic-episodes-hd-backgrounds-walls-art-by-yl-computing/"><u>High-Quality Scans of Chuck & Friends' Classic Episodes: HD Backgrounds, Walls Art by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>In 2024, The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/up-to-date-with-youtube-community-guidelines-for-2024/"><u>Keep Up-to-Date With YouTube Community Guidelines for 2024</u></a></li>
 </ul></div>
 

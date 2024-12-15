@@ -1,7 +1,7 @@
 ---
 title: "Numark DJ Controller Setup: Compatible with Party Mix Live & Party Mix II - Dex 3 Enabled"
-date: 2024-12-07T20:34:28.186Z
-updated: 2024-12-08T22:59:12.025Z
+date: 2024-12-10T17:50:37.997Z
+updated: 2024-12-15T17:36:59.788Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix Live ($179 at most online retailers)
@@ -33,13 +33,13 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 [![Numark Party Mix Live](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixLive_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix Live")](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixLive%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is packed with all the core features DJs need, whether you’re new to DJing or longtime pro. Built-in speakers fill the room with dynamic sound and integrated LED lights create a beat-synchronized light show. Four performance pads on each deck allow quick access to effects, cue points, loops or samples. Play, Cue and Sync buttons provide complete playback control and access to automatic tempo matching between tracks on each deck for perfectly aligned mixes. Large, touch-sensitive jog wheels allow you to pause, backspin and even scratch tracks as you work through your playlist. An outer jog-wheel functions as pitch-bend so you can nudge tracks into alignment for the perfect blend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix II ($129 at most online retailers)
@@ -47,7 +47,7 @@ The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is pa
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixMKII_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix II")](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixMKII%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Based on the original Party Mix Controller, the [Numark Party Mix II](https://www.numark.com/product/party-mix-ii) DJ Controller is packed with all the DJ performance essentials and a built in ‘light show’. The essential DJ controller features include large touch-sensitive jog wheels for scratching, large Filter effect knobs on each deck, Sync, play/pause and Cue buttons, pitch sliders for tempo adjustments, performance pads with various modes, library controls for scrolling and loading tracks, 2-band EQ on each deck, and for output a 1/8″ headphone jack and 1/8″ main output jack. The light show is projected by three multi-colored LEDs with wide-coverage lenses for a room-filling, beat-synchronized light show. With five lighting modes to choose from, finding the right vibe for your party is a snap.
@@ -64,7 +64,7 @@ Based on the original Party Mix Controller, the [Numark Party Mix II](https://ww
 _Have questions about the **Numark Party Mix II** or **Numark Party Mix Live** and how they work with our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,22 +86,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/06/cover-partymix-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-method-for-screen-recording-across-platforms/"><u>[Updated] 2024 Approved The Ultimate Method for Screen Recording Across Platforms</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>[Updated] Reel Motivation A Curated List of Top 10 Film Titles</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1-steps-to-turn-off-windows-defender-on-your-pc-a-guide-by-yl-computing/"><u>1. Steps to Turn Off Windows Defender on Your PC - A Guide by YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-adoption-trends-for-arvr-shopping/"><u>2024 Approved Adoption Trends for AR/VR Shopping</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/adjusting-your-windows-defender-preferences-a-step-by-step-guide-by-yl-computing/"><u>Adjusting Your Windows Defender Preferences: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/enhancing-system-efficiency-for-seamless-pcdd-usage-on-windows-and-macs/"><u>Enhancing System Efficiency for Seamless PCDD Usage on Windows and Macs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1716377-9781776537365-evolution-of-life-and-form/"><u>Evolution of Life and Form | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210441599-how-to-resolve-there-was-an-error-setting-up-your-pc-bug-in-windows-11-fixed-now/"><u>How to Resolve 'There Was an Error Setting up Your PC' Bug in Windows 11 - Fixed Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-edge-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Edge 40 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/master-your-computers-applications-how-to-manage-installed-programs-via-the-control-panel-advice-by-yl-software-experts/"><u>Master Your Computer's Applications: How to Manage Installed Programs via the Control Panel – Advice by YL Software Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/maximize-graphic-card-speed-and-stability-with-professional-strategies-from-yl-software/"><u>Maximize Graphic Card Speed and Stability with Professional Strategies From YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/nighttime-nebulae-visuals-and-photos-for-desktop-backgrounds-premium-quality-graphics-from-yl-software-creations/"><u>Nighttime Nebulae Visuals & Photos for Desktop Backgrounds – Premium Quality Graphics From YL Software Creations</u></a></li>
-<li><a href="https://discover-great.techidaily.com/optimizing-your-sound-cards-audio-output-a-step-by-nstep-guide/"><u>Optimizing Your Sound Card's Audio Output: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/teaching-through-media-pro-video-editing-hacks/"><u>Teaching Through Media Pro Video Editing Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-the-self-opens-issue-with-msdnstore/"><u>Troubleshooting the Self-Opens Issue with MSDN/Store</u></a></li>
-<li><a href="https://discover-great.techidaily.com/yl-computing-presents-expert-tips-for-faster-computer-functionality-with-essential-tools-and-utilities/"><u>YL Computing Presents: Expert Tips for Faster Computer Functionality with Essential Tools and Utilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tackling-teal-turmoil-eliminate-green-screen-glitches-mac-edition/"><u>[New] Tackling Teal Turmoil Eliminate Green Screen Glitches (Mac Edition)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfected-pics-made-easy-the-full-review-of-facetunes-updates/"><u>[Updated] Perfected Pics Made Easy The Full Review of Facetune's Updates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>Innovating with Technology Advanced GoPro 4K Editing Techniques</u></a></li>
+<li><a href="https://discover-great.techidaily.com/lyrx-karaoke-player-v16-updated-version-free-music-library-for-your-performance/"><u>LYRX Karaoke Player v1.6 Updated Version - Free Music Library for Your Performance!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/multilingual-support-can-the-windows-time-display-be-customized-with-language-settings-discovered-by-yl-computing/"><u>Multilingual Support: Can the Windows Time Display Be Customized with Language Settings? - Discovered by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/navigating-complex-system-configurations-a-step-by-step-guide-by-yl-computing/"><u>Navigating Complex System Configurations: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-setting-up-adobe-flash-player-on-your-kindle-fire-device/"><u>Step-by-Step Guide: Setting Up Adobe Flash Player on Your Kindle Fire Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-ios-compatible-ps2-software/"><u>Ultimate iOS Compatible PS2 Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/upgrading-laptop-memory-made-easy-enhance-speed-and-multitasking-expert-advice-by-yl-software/"><u>Upgrading Laptop Memory Made Easy: Enhance Speed & Multitasking - Expert Advice by YL Software</u></a></li>
 </ul></div>
 

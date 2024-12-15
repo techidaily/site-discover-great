@@ -1,7 +1,7 @@
 ---
 title: Guía Paso a Paso Para Crear Una Copia De Seguridad De Archivos en Un Disco Duro Exterior Usando Windows 10/8/7
-date: 2024-12-07T08:50:16.028Z
-updated: 2024-12-08T23:06:03.113Z
+date: 2024-12-13T17:14:50.004Z
+updated: 2024-12-15T17:54:21.436Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c63be6599c5bbe4007fea7d1f.jpg
@@ -24,13 +24,13 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -47,15 +47,19 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -72,10 +76,6 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -99,6 +99,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -116,10 +120,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -139,6 +139,10 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -154,7 +158,7 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -225,10 +229,6 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusione
 
 In conclusione, risolvere la sfida di non poter digitare nella barra di ricerca di Windows 10 richiede un approccio sistematico. Seguendo le soluzioni fornite e integrando misure di protezione dei dati con AOMEI Backupper, puoi affrontare potenziali problemi con fiducia. Mantieni ottimizzato il tuo sistema, sii proattivo nella risoluzione dei problemi ed emancipati per trarre il massimo dalla tua esperienza con Windows 10.
@@ -240,6 +240,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -259,10 +263,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -280,22 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-foremost-10-recording-apps-for-social-media-vids/"><u>[New] In 2024, Foremost 10 Recording Apps for Social Media Vids</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-depth-analysis-of-vidmas-recording-capabilities-for-2024/"><u>[New] In-Depth Analysis of Vidma's Recording Capabilities for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-3-essential-voice-logging-tactics-for-ipad-for-2024/"><u>[Updated] The 3 Essential Voice Logging Tactics for iPad for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/adjusting-scan-quality-brightness-and-contrast-controls-explained-yl-software-guide/"><u>Adjusting Scan Quality: Brightness & Contrast Controls Explained - YL Software Guide</u></a></li>
-<li><a href="https://discover-great.techidaily.com/defending-your-bitcoins-and-altcoins-comprehensive-guide-to-thwarting-cyber-theft-by-yl-software-experts/"><u>Defending Your Bitcoins & Altcoins: Comprehensive Guide to Thwarting Cyber Theft by YL Software Experts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/effortless-video-editing-how-to-add-effects-in-fcp-x-3-simple-steps/"><u>Effortless Video Editing How to Add Effects in FCP X (3 Simple Steps)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-ai-excellence-unveiling-7-ways-palm-2-revolutionizes-googles-bard-system/"><u>Enhancing AI Excellence: Unveiling 7 Ways PaLM 2 Revolutionizes Google's Bard System</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1576798-9781459725553-extraordinary-experiences/"><u>Extraordinary Experiences | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Samsung Galaxy A05s?</u></a></li>
-<li><a href="https://discover-great.techidaily.com/maximizing-your-gpu-efficiency-expert-tips-from-yl-softwares-graphic-card-care-handbook/"><u>Maximizing Your GPU Efficiency: Expert Tips From YL Software's Graphic Card Care Handbook</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/overcome-the-attempting-data-recovery-hang-up-a-guide-for-iphone-users/"><u>Overcome the ‘Attempting Data Recovery’ Hang-Up: A Guide for iPhone Users</u></a></li>
-<li><a href="https://discover-great.techidaily.com/solving-boot-problems-on-windows-how-to-fix-startup-failures-related-to-ram-tips-from-yl-computing/"><u>Solving Boot Problems on Windows: How to Fix Startup Failures Related to RAM - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/solving-your-audio-woes-identifying-potential-sound-card-malfunctions-expert-advice-from-yl-computing/"><u>Solving Your Audio Woes: Identifying Potential Sound Card Malfunctions - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-resolving-graphics-card-issues-tips-from-yl-computing/"><u>Step-by-Step Guide: Resolving Graphics Card Issues - Tips From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-go-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/understanding-crypto-exchanges-a-comparative-guide-of-centralized-vs-decentralized-platforms-yl-computing/"><u>Understanding Crypto Exchanges: A Comparative Guide of Centralized Vs. Decentralized Platforms - YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/understanding-the-role-of-mining-in-cryptocurrencies-insights-from-yl-computings-expertise/"><u>Understanding the Role of Mining in Cryptocurrencies: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximize-your-video-sound-best-free-wav-extractors-from-youtube/"><u>[New] 2024 Approved Maximize Your Video Sound Best Free WAV Extractors From YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-finding-icons-a-targeted-approach-to-instas-powerful-voices/"><u>[New] In 2024, Finding Icons A Targeted Approach to Insta's Powerful Voices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-watermark-warriors-10-best-tools-unveiled/"><u>[New] In 2024, Watermark Warriors 10 Best Tools Unveiled</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamline-fb-video-downloads-the-best-firefox-plugins-and-tools-of-the-year/"><u>[Updated] Streamline FB Video Downloads The Best Firefox Plugins and Tools of the Year</u></a></li>
+<li><a href="https://discover-great.techidaily.com/assessing-the-impact-of-deng-xiaopings-economic-reforms-on-modern-china-analysis-by-yl-computing/"><u>Assessing the Impact of Deng Xiaoping's Economic Reforms on Modern China - Analysis by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/can-your-gpu-handle-high-definition-video-insights-from-yl-computings-guide/"><u>Can Your GPU Handle High-Definition Video: Insights From YL Computing’s Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevating-visuals-with-acoustic-elements-for-2024/"><u>Elevating Visuals with Acoustic Elements for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-ai-vocabulary-mastering-29-key-artificial-intelligence-terms/"><u>Essential AI Vocabulary: Mastering 29 Key Artificial Intelligence Terms</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-can-my-graphics-card-impact-application-efficiency-and-why-do-heavy-programs-run-slowly-on-it-unraveling-the-mystery-at-yl-computing/"><u>How Can My Graphics Card Impact Application Efficiency, and Why Do Heavy Programs Run Slowly on It? - Unraveling the Mystery at YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-m34-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy M34 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/techniques-like-transcranial-magnetic-stimulation-tms-aim-to-modulate-neural-plasticity-for-theraebtreatment-purposes-such-as-improving-cognitive-function-o19/"><u>Techniques Like Transcranial Magnetic Stimulation (TMS) Aim to Modulate Neural Plasticity for Theraebtreatment Purposes, Such as Improving Cognitive Function or Aiding Recovery From Brain Injury.</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultimate-guide-how-to-boost-your-pcs-performance-by-clearing-up-disk-space-tips-and-tricks-from-yl-computing/"><u>Ultimate Guide: How to Boost Your PC's Performance by Clearing Up Disk Space - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/vintage-film-gear-high-definition-background-yl-computings-timeless-collection/"><u>Vintage Film Gear High-Definition Background - YL Computing's Timeless Collection</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/wiederherstellung-verlorener-datentragerpartitionen-unter-windows-11-10-8-und-7-ein-schritt-fur-schritt-guide/"><u>Wiederherstellung Verlorener Datenträgerpartitionen Unter Windows 11, 10, 8 Und 7: Ein Schritt-Für-Schritt-Guide</u></a></li>
 </ul></div>
 
