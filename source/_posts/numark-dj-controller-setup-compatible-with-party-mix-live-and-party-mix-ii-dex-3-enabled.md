@@ -1,7 +1,7 @@
 ---
 title: "Numark DJ Controller Setup: Compatible with Party Mix Live & Party Mix II - Dex 3 Enabled"
-date: 2024-12-10T17:50:37.997Z
-updated: 2024-12-15T17:36:59.788Z
+date: 2024-12-18T21:39:50.854Z
+updated: 2024-12-24T04:35:43.296Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix Live ($179 at most online retailers)
@@ -33,13 +33,13 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 [![Numark Party Mix Live](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixLive_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix Live")](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixLive%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is packed with all the core features DJs need, whether you’re new to DJing or longtime pro. Built-in speakers fill the room with dynamic sound and integrated LED lights create a beat-synchronized light show. Four performance pads on each deck allow quick access to effects, cue points, loops or samples. Play, Cue and Sync buttons provide complete playback control and access to automatic tempo matching between tracks on each deck for perfectly aligned mixes. Large, touch-sensitive jog wheels allow you to pause, backspin and even scratch tracks as you work through your playlist. An outer jog-wheel functions as pitch-bend so you can nudge tracks into alignment for the perfect blend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix II ($129 at most online retailers)
@@ -47,7 +47,7 @@ The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is pa
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixMKII_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix II")](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixMKII%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Based on the original Party Mix Controller, the [Numark Party Mix II](https://www.numark.com/product/party-mix-ii) DJ Controller is packed with all the DJ performance essentials and a built in ‘light show’. The essential DJ controller features include large touch-sensitive jog wheels for scratching, large Filter effect knobs on each deck, Sync, play/pause and Cue buttons, pitch sliders for tempo adjustments, performance pads with various modes, library controls for scrolling and loading tracks, 2-band EQ on each deck, and for output a 1/8″ headphone jack and 1/8″ main output jack. The light show is projected by three multi-colored LEDs with wide-coverage lenses for a room-filling, beat-synchronized light show. With five lighting modes to choose from, finding the right vibe for your party is a snap.
@@ -64,7 +64,7 @@ Based on the original Party Mix Controller, the [Numark Party Mix II](https://ww
 _Have questions about the **Numark Party Mix II** or **Numark Party Mix Live** and how they work with our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,14 +86,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/06/cover-partymix-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tackling-teal-turmoil-eliminate-green-screen-glitches-mac-edition/"><u>[New] Tackling Teal Turmoil Eliminate Green Screen Glitches (Mac Edition)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfected-pics-made-easy-the-full-review-of-facetunes-updates/"><u>[Updated] Perfected Pics Made Easy The Full Review of Facetune's Updates</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>Innovating with Technology Advanced GoPro 4K Editing Techniques</u></a></li>
-<li><a href="https://discover-great.techidaily.com/lyrx-karaoke-player-v16-updated-version-free-music-library-for-your-performance/"><u>LYRX Karaoke Player v1.6 Updated Version - Free Music Library for Your Performance!</u></a></li>
-<li><a href="https://discover-great.techidaily.com/multilingual-support-can-the-windows-time-display-be-customized-with-language-settings-discovered-by-yl-computing/"><u>Multilingual Support: Can the Windows Time Display Be Customized with Language Settings? - Discovered by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/navigating-complex-system-configurations-a-step-by-step-guide-by-yl-computing/"><u>Navigating Complex System Configurations: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-setting-up-adobe-flash-player-on-your-kindle-fire-device/"><u>Step-by-Step Guide: Setting Up Adobe Flash Player on Your Kindle Fire Device</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-ios-compatible-ps2-software/"><u>Ultimate iOS Compatible PS2 Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/upgrading-laptop-memory-made-easy-enhance-speed-and-multitasking-expert-advice-by-yl-software/"><u>Upgrading Laptop Memory Made Easy: Enhance Speed & Multitasking - Expert Advice by YL Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-dji-drone-masterpiece-analysis/"><u>[New] DJI Drone Masterpiece Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-how-to-add-videos-to-youtube-playlist-in-2024/"><u>[New] How to Add Videos to YouTube Playlist, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-depicting-facial-dynamics-blur-effects-in-picsart/"><u>[Updated] 2024 Approved Depicting Facial Dynamics Blur Effects in Picsart</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-no-cost-mac-os-screen-tracker/"><u>[Updated] 2024 Approved No-Cost Mac OS Screen Tracker</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tactics-for-effortless-collage-making/"><u>[Updated] Expert Tactics for Effortless Collage Making</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-your-screen-and-videos-on-android-for-2024/"><u>[Updated] Recording Your Screen & Videos on Android for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209879088-9781942769125-defiled-2nd-ed/"><u>Defiled (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://discover-great.techidaily.com/diagnosing-and-troubleshooting-common-hardware-issues-in-systems-with-yls-expert-advice/"><u>Diagnosing and Troubleshooting Common Hardware Issues in Systems with YL's Expert Advice.</u></a></li>
+<li><a href="https://discover-great.techidaily.com/discover-top-free-solutions-for-restoring-your-windows-files-with-yl-software/"><u>Discover Top Free Solutions for Restoring Your Windows Files with YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/download-free-santa-themed-desktop-wallpapers-and-graphics-from-yl-computings-image-collection/"><u>Download Free Santa-Themed Desktop Wallpapers and Graphics From YL Computing's Image Collection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-sony-xperia-1-v-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Sony Xperia 1 V</u></a></li>
+<li><a href="https://discover-great.techidaily.com/exploring-the-world-of-computers-with-yls-comprehensive-software-tutorial/"><u>Exploring the World of Computers with YL's Comprehensive Software Tutorial</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-can-you-test-if-your-system-memory-is-operating-properly-insights-from-yl-software/"><u>How Can You Test if Your System Memory Is Operating Properly? Insights From YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-best-no-cost-live-streaming-tools-android-and-iphone-guide/"><u>In 2024, 10 Best No-Cost Live Streaming Tools Android & iPhone Guide</u></a></li>
+<li><a href="https://discover-great.techidaily.com/pc-performance-boost-top-hardware-upgrade-recommendations-insights-by-yl-computing/"><u>PC Performance Boost: Top Hardware Upgrade Recommendations - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/resolving-gpu-driver-problems-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving GPU Driver Problems: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://discover-great.techidaily.com/stunning-hd-wallpaper-pack-for-bmw-x7-laptopspcs-digital-artwork-collection-curated-by-yl-software-solutions/"><u>Stunning HD Wallpaper Pack for BMW X7 Laptops/PCs: Digital Artwork Collection Curated by YL Software Solutions</u></a></li>
 </ul></div>
 

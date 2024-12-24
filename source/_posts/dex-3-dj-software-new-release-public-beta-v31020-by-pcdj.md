@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2024-12-11T16:28:53.741Z
-updated: 2024-12-15T17:36:34.592Z
+date: 2024-12-17T09:01:57.071Z
+updated: 2024-12-23T19:07:41.122Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,14 +75,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-expert-tips-for-conducting-obs-meetings-via-zoom/"><u>[New] Expert Tips for Conducting OBS Meetings via Zoom</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-complete-walkthrough-mastering-adobe-cloud-services/"><u>[Updated] Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1-troubleshooting-guide-fixing-issues-with-your-graphics-card-expert-advice-from-yl-computing/"><u>1. Troubleshooting Guide: Fixing Issues with Your Graphics Card - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unlocking-the-secret-strategies-of-instagram-influencers/"><u>2024 Approved Unlocking the Secret Strategies of Instagram Influencers</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-practices-for-selecting-the-right-ram-for-your-pc-upgrade-insights-from-yl-computing/"><u>Best Practices for Selecting the Right RAM for Your PC Upgrade: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effective-methods-for-preventing-physical-damage-to-hard-drives-expert-advice-by-yl-software/"><u>Effective Methods for Preventing Physical Damage to Hard Drives: Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/high-quality-scans-of-chuck-and-friends-classic-episodes-hd-backgrounds-walls-art-by-yl-computing/"><u>High-Quality Scans of Chuck & Friends' Classic Episodes: HD Backgrounds, Walls Art by YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>In 2024, The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/up-to-date-with-youtube-community-guidelines-for-2024/"><u>Keep Up-to-Date With YouTube Community Guidelines for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>[New] Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-essential-strategies-for-effective-use-of-luts-in-video-edits-for-2024/"><u>[New] Essential Strategies for Effective Use of LUTs in Video Edits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-harmonic-halo-melodies-enriching-chats-on-whatsapp/"><u>[Updated] In 2024, Harmonic Halo Melodies Enriching Chats on WhatsApp</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-zte-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best ZTE Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://discover-great.techidaily.com/download-enchanting-miraculous-ladybug-and-cat-noir-backgrounds-free-high-quality-images-by-yl-computing-solutions/"><u>Download Enchanting Miraculous Ladybug and Cat Noir Backgrounds - Free, High-Quality Images by YL Computing Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-unfreeze-a-macbook-air/"><u>How to Unfreeze a MacBook Air</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone SE (2022) in the Best Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-gpt-4-by-openai-pioneering-a-new-era-in-artificial-general-intelligence/"><u>Introducing GPT-4 by OpenAI – Pioneering a New Era in Artificial General Intelligence</u></a></li>
+<li><a href="https://discover-great.techidaily.com/stunning-female-portraits-wallpapers-beautiful-woman-face-backgrounds-images-and-photo-collections-yl-graphics/"><u>Stunning Female Portraits Wallpapers: Beautiful Woman Face Backgrounds, Images & Photo Collections - YL Graphics</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-usb-hardware-issues-under-windows-expert-advice-from-yl-system-support-services/"><u>Troubleshooting USB Hardware Issues Under Windows: Expert Advice From YL System Support Services</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-impacts-outcomes-of-the-1997-hong-kong-transfer-insights-by-yl-computing-and-yl-software/"><u>Understanding the Impacts: Outcomes of the 1997 Hong Kong Transfer - Insights by YL Computing & YL Software</u></a></li>
 </ul></div>
 

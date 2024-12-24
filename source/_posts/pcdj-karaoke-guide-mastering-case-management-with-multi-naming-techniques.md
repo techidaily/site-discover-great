@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Karaoke Guide: Mastering Case Management with Multi-Naming Techniques"
-date: 2024-12-09T17:25:56.226Z
-updated: 2024-12-15T16:28:01.106Z
+date: 2024-12-16T17:20:28.505Z
+updated: 2024-12-24T06:25:10.548Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,20 +51,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-secrets-of-successful-unboxing-reels-a-compreenasium-guide/"><u>[New] Secrets of Successful Unboxing Reels A Compreenasium Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ios-leading-edge-psp-emulators-top-5-lists/"><u>[Updated] 2024 Approved IOS Leading Edge PSP Emulators, Top 5 Lists</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-instagram-strategy-with-expert-analytical-software-for-2024/"><u>[Updated] Elevate Your Instagram Strategy with Expert Analytical Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-syncing-voice-with-images-online/"><u>[Updated] Syncing Voice with Images Online</u></a></li>
-<li><a href="https://discover-great.techidaily.com/high-definition-wallpaper-gallery-bugatti-divo-edition-premium-visuals-and-inspirations-by-yl-computing/"><u>High-Definition Wallpaper Gallery: Bugatti Divo Edition - Premium Visuals & Inspirations by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/how-to-fix-inconsistent-scanner-performance-guidance-and-tips-by-yl-software-experts/"><u>How to Fix Inconsistent Scanner Performance: Guidance and Tips by YL Software Experts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/limited-offer-upgrade-to-windows-11-pro-with-a-staggering-88-reduction/"><u>Limited Offer: Upgrade to Windows 11 Pro with a Staggering 88% Reduction!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-players-frustrated-by-recurring-glitches-in-petrol-pump-operation-game-expert-solutions-inside/"><u>PC Players Frustrated by Recurring Glitches in Petrol Pump Operation Game - Expert Solutions Inside!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionelle-tipps-fur-das-enkodieren-von-mp4-videos-ein-leitfaden-zu-den-besten-tools-und-techniken/"><u>Professionelle Tipps Für Das Enkodieren Von MP4-Videos: Ein Leitfaden Zu Den Besten Tools Und Techniken</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-overcoming-the-frustration-of-madden-21-freezing-on-windows-and-mac/"><u>Solution Steps: Overcoming the Frustration of Madden 21 Freezing on Windows and Mac</u></a></li>
-<li><a href="https://discover-great.techidaily.com/solving-issues-with-damaged-program-files-a-step-by-step-guide-from-yl-computing/"><u>Solving Issues with Damaged Program Files: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-proper-installation-of-new-hardware-components-by-yl-computing/"><u>Step-by-Step Guide: Proper Installation of New Hardware Components by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/troubleshooting-scanners-with-quality-issues-insights-from-yl-computing-and-yl-software/"><u>Troubleshooting Scanners with Quality Issues: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/unveiling-the-edge-how-digital-coins-triumph-over-conventional-banks-insights-by-yl-computing/"><u>Unveiling the Edge: How Digital Coins Triumph Over Conventional Banks - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/user-access-regulation-for-windows-11-applications-tips-and-strategies-from-yl-software-experts/"><u>User Access Regulation for Windows 11 Applications: Tips and Strategies From YL Software Experts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-dish-on-titles-creative-concepts-for-cookery-vids/"><u>[Updated] Dish on Titles Creative Concepts for Cookery Vids</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-free-youtube-thumbnails-saving-guide/"><u>[Updated] Free YouTube Thumbnails Saving Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-understanding-shared-links-and-their-functionality/"><u>ChatGPT: Understanding Shared Links & Their Functionality</u></a></li>
+<li><a href="https://discover-great.techidaily.com/easy-guide-changing-your-screen-resolution-on-windows-via-control-panel-tips-by-yl-computing/"><u>Easy Guide: Changing Your Screen Resolution on Windows via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effective-methods-for-cleansing-your-pc-input-devices-with-guidance-from-yl-software/"><u>Effective Methods for Cleansing Your PC Input Devices with Guidance From YL Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-genesis-and-evolution-of-windows-movie-maker-for-2024/"><u>Exploring the Genesis and Evolution of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nokia-130-music-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-13-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 13 mini/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-affordable-amazonbasics-6-sheet-document-shredder/"><u>In-Depth Review of Affordable AmazonBasics 6-Sheet Document Shredder</u></a></li>
+<li><a href="https://discover-great.techidaily.com/resolving-windows-performance-issues-post-new-software-expert-advice-by-yl-solutions-inc/"><u>Resolving Windows Performance Issues Post-New Software: Expert Advice by YL Solutions Inc.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-samsung-qn55q60rafxza-a-comprehensive-guide-to-its-advanced-4k-and-hdr10plus-capabilities/"><u>Reviewing the Samsung QN55Q60RAFXZA - A Comprehensive Guide to Its Advanced 4K and HDR10+ Capabilities</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-adjusting-your-privacy-preferences-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Privacy Preferences via Control Panel - Tips by YL Computing</u></a></li>
 </ul></div>
 

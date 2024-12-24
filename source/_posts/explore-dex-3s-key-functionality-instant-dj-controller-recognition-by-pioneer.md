@@ -1,7 +1,7 @@
 ---
 title: "Explore DEX 3'S Key Functionality: Instant DJ Controller Recognition by Pioneer"
-date: 2024-12-09T17:19:57.736Z
-updated: 2024-12-15T16:38:53.620Z
+date: 2024-12-19T14:33:43.413Z
+updated: 2024-12-24T11:38:39.123Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ What does “auto-detect in real-time” mean, exactly? You can now connect or d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-Detection Of DJ Controllers
@@ -33,7 +33,7 @@ Launch DEX 3.4 and connect (_or disconnect_) any [supported DJ controller](https
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/1389090069_4.jpg?fit=300%2C300&ssl=1 "Denon DJ MC6000 MKII")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thus, you can open DEX 3.4 without a DJ controller connected and then connect or remove up to 8 different controllers at the same time. DJ controllers will be detected and start working automatically, and immediately.
@@ -43,7 +43,7 @@ Auto DJ controller detection works on both Mac and Windows, and only in DEX 3.4 
 **(UPDATED): Important note for Windows DEX 3.4 users:** If you’re using a DJ controller that includes a built-in audio interface equipped with ASIO drivers, in order for the audio device to engage and start working properly when re-connecting a controller on-the-fly, you will need to select a different audio device from the select output device drop down menu under the audio tab in settings, then select the ASIO driver for the audio interface again from the select output device drop down menu (_this will re-engage the audio interface and ASIO will begin to work again_).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can Auto-DJ Controller Detection Be Useful?
@@ -53,7 +53,7 @@ The Real-time DJ controller detection feature is undoubtedly useful if a control
 ![Numark MixTrack Pro 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/Mixtrack-Pro-III.jpg?fit=300%2C169&ssl=1 "Numark MixTrack Pro 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Or, if you simply wants to hook an additional controller on the fly to control other features of DEX 3.4 – such as triggering samples from the sample players.
@@ -61,7 +61,7 @@ Or, if you simply wants to hook an additional controller on the fly to control o
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,19 +83,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/09/realtimecontrollerdetectio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-hear-and-engage-speech-technology-gratis/"><u>[New] 2024 Approved Hear & Engage Speech Technology Gratis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immediate-color-correction-with-canons-paired-luts/"><u>[New] Immediate Color Correction with Canon's Paired LUTs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-creating-classical-cinematography-a-modern-tutorial/"><u>2024 Approved Creating Classical Cinematography A Modern Tutorial</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-fix-for-rtl8eapdriver-installation-errors-with-the-realtek-rtl8723be-wireless-network-card-on-pcs/"><u>Comprehensive Fix for RTL8eapdriver Installation Errors with the Realtek RTL8723BE Wireless Network Card on PCs</u></a></li>
-<li><a href="https://discover-great.techidaily.com/detect-and-troubleshoot-defective-computer-parts-with-guidance-from-yl-tech-experts/"><u>Detect and Troubleshoot Defective Computer Parts with Guidance From YL Tech Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/ensuring-no-data-lost-during-windows-file-recovery-insights-from-yl-software/"><u>Ensuring No Data Lost During Windows File Recovery - Insights From YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/expert-advice-on-boosting-your-systems-performance-with-yl-software-registry-optimization/"><u>Expert Advice on Boosting Your System's Performance with YL Software Registry Optimization</u></a></li>
-<li><a href="https://discover-great.techidaily.com/how-do-driver-software-mishaps-occur-expert-analysis-by-yl-software-experts/"><u>How Do Driver Software Mishaps Occur? Expert Analysis by YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/new-song-additions-on-karaoke-subscription-top-28-hits-for-your-next-dj-set-at-party-tyme/"><u>New Song Additions on Karaoke Subscription: Top 28 Hits for Your Next DJ Set at Party Tyme</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-call-rejection-problems-on-your-samsung-galaxy-watch-easy-fixes-and-tips/"><u>Overcoming Call Rejection Problems on Your Samsung Galaxy Watch - Easy Fixes and Tips!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tips-for-a-swift-checkup-of-your-youtube-sign-in/"><u>Tips for a Swift Checkup of Your YouTube Sign-In</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-strategies-for-boosting-your-systems-speed-expert-advice-from-yl-computing/"><u>Top Strategies for Boosting Your System's Speed: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-incorrect-parameter-mistakes-causing-error-87-in-loadlibrary-operations/"><u>Understanding and Resolving Incorrect Parameter Mistakes Causing Error 87 in LoadLibrary Operations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-evaluation-chilled-delights-playback-tools/"><u>[Updated] 2024 Approved Expert Evaluation Chilled Delights Playback Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-segments-the-chapter-creation-handbook-for-2024/"><u>[Updated] Vimeo's Video Segments The Chapter Creation Handbook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-winx-dvd/"><u>2024 WinX DVDコピープログラムフリー配信 - 無限使用権が贈られる無料キーを手に入れる方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-productivity-with-dual-monitor-setups-on-laptops-a-comprehhemical-guide/"><u>Boost Productivity with Dual Monitor Setups on Laptops: A Comprehhemical Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-calls-iphones-vision/"><u>Capture Calls IPhone's Vision</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/expert-advice-on-efficiently-defragmenting-your-hard-drive-tips-from-yl-computing/"><u>Expert Advice on Efficiently Defragmenting Your Hard Drive - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/taming-high-server-load-yl-softwares-guide-to-optimizing-your-processor-usage/"><u>Taming High Server Load: YL Software's Guide to Optimizing Your Processor Usage</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-color-discrepancies-in-prints-solutions-from-yl-computing/"><u>Understanding Color Discrepancies in Prints: Solutions From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/yl-software-secrets-for-ultimate-system-speed-and-performance-enhancement/"><u>YL Software Secrets for Ultimate System Speed and Performance Enhancement</u></a></li>
 </ul></div>
 
