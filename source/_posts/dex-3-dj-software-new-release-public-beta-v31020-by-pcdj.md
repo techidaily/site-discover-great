@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2024-12-17T09:01:57.071Z
-updated: 2024-12-23T19:07:41.122Z
+date: 2024-12-22T20:49:07.665Z
+updated: 2024-12-29T22:36:18.540Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,17 +75,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>[New] Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-essential-strategies-for-effective-use-of-luts-in-video-edits-for-2024/"><u>[New] Essential Strategies for Effective Use of LUTs in Video Edits for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-harmonic-halo-melodies-enriching-chats-on-whatsapp/"><u>[Updated] In 2024, Harmonic Halo Melodies Enriching Chats on WhatsApp</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-zte-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best ZTE Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://discover-great.techidaily.com/download-enchanting-miraculous-ladybug-and-cat-noir-backgrounds-free-high-quality-images-by-yl-computing-solutions/"><u>Download Enchanting Miraculous Ladybug and Cat Noir Backgrounds - Free, High-Quality Images by YL Computing Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-unfreeze-a-macbook-air/"><u>How to Unfreeze a MacBook Air</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone SE (2022) in the Best Ways</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/introducing-gpt-4-by-openai-pioneering-a-new-era-in-artificial-general-intelligence/"><u>Introducing GPT-4 by OpenAI – Pioneering a New Era in Artificial General Intelligence</u></a></li>
-<li><a href="https://discover-great.techidaily.com/stunning-female-portraits-wallpapers-beautiful-woman-face-backgrounds-images-and-photo-collections-yl-graphics/"><u>Stunning Female Portraits Wallpapers: Beautiful Woman Face Backgrounds, Images & Photo Collections - YL Graphics</u></a></li>
-<li><a href="https://discover-great.techidaily.com/troubleshooting-usb-hardware-issues-under-windows-expert-advice-from-yl-system-support-services/"><u>Troubleshooting USB Hardware Issues Under Windows: Expert Advice From YL System Support Services</u></a></li>
-<li><a href="https://discover-great.techidaily.com/understanding-the-impacts-outcomes-of-the-1997-hong-kong-transfer-insights-by-yl-computing-and-yl-software/"><u>Understanding the Impacts: Outcomes of the 1997 Hong Kong Transfer - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incremental-sound-dampening-strategy/"><u>2024 Approved Incremental Sound Dampening Strategy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enabling-windows-11-dynamic-hdr-capability/"><u>Enabling Windows 11 Dynamic HDR Capability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-logitech-audio-device-software-for-win10-versions-11-7-and-8/"><u>Get the Newest Logitech Audio Device Software for WIN10 Versions: 11, 7, and 8</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c51-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme C51 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-android-image-editing-software/"><u>In 2024, Prime Android Image Editing Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-vector-graphics-tools-to-shape-your-creative-vision/"><u>In 2024, Top 10 Vector Graphics Tools to Shape Your Creative Vision</u></a></li>
+<li><a href="https://discover-great.techidaily.com/navigating-crypto-markets-successfully-top-strategies-revealed-by-experts-at-yl-computing-and-yl-software/"><u>Navigating Crypto Markets Successfully: Top Strategies Revealed by Experts at YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/navigating-the-digital-frontier-understanding-global-rules-governing-crypto-assets-with-yl-software-insights/"><u>Navigating the Digital Frontier: Understanding Global Rules Governing Crypto-Assets with YL Software Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-approach-for-verifying-your-age-on-tiktok-for-2024/"><u>Step-by-Step Approach for Verifying Your Age on TikTok for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-to-transferring-files-between-directories-on-windows-techtips-by-yl/"><u>Step-by-Step Guide to Transferring Files Between Directories on Windows - TechTips by YL</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-solution-for-paper-jam-issues-in-your-printer-learn-the-techniques-with-yl-software-hq/"><u>Step-by-Step Solution for Paper Jam Issues in Your Printer - Learn the Techniques with YL Software HQ</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-objectives-unveiling-the-core-motivations-behind-the-taiping-rebellion-insights-by-yl-computing/"><u>Understanding the Objectives: Unveiling the Core Motivations Behind the Taiping Rebellion - Insights by YL Computing</u></a></li>
 </ul></div>
 
