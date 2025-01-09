@@ -1,7 +1,7 @@
 ---
 title: "Latest Update Downloaded: PCDJ's DEX DJ Mixing Platform v3.8.0.1 Now Available for Enthusiasts"
-date: 2024-12-28T16:08:13.941Z
-updated: 2024-12-29T22:28:16.813Z
+date: 2025-01-06T01:58:27.269Z
+updated: 2025-01-09T10:46:45.125Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 is the modern jocks [DJ software](https://tools.techidaily.com/pcdj/produc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, Or Updated In DEX 3.8.0.1
@@ -49,7 +49,7 @@ _**NOTE:** Simply install DEX 3.8.0.1 with your existing version closed for a se
 _Have questions about our **top DJ software**, supported **DJ controllers**, or how to update? Feel free to leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,24 +71,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/dex3801-cover.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortless-capture-procedure-guiding-you-through-macos-screen-record/"><u>[New] Effortless Capture Procedure Guiding You Through macOS Screen Record</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-a-beginners-guide-to-embedding-youtube-playlists-in-code/"><u>[Updated] A Beginner's Guide to Embedding YouTube Playlists in Code</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-achieving-professional-results-radial-effects-in-ps/"><u>[Updated] Achieving Professional Results Radial Effects in PS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-instant-photographic-display-in-11-os-for-2024/"><u>[Updated] Instant Photographic Display in 11 OS for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-a-step-by-written-guide-to-luts-for-professional-photographers/"><u>2024 Approved A Step-By Written Guide to LUTs for Professional Photographers</u></a></li>
-<li><a href="https://discover-great.techidaily.com/comparative-analysis-of-windows-defender-and-conventional-anti-virus-solutions-insights-from-yl-software-experts/"><u>Comparative Analysis of Windows Defender & Conventional Anti-Virus Solutions – Insights From YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-gaming-performance-updating-amd-drivers-on-windows-10-11-and-7-platforms/"><u>Enhancing Gaming Performance: Updating AMD Drivers on Windows 10, 11, and 7 Platforms</u></a></li>
-<li><a href="https://discover-great.techidaily.com/enhancing-system-efficiency-for-seamless-pcdd-usage-on-windows-and-macs/"><u>Enhancing System Efficiency for Seamless PCDD Usage on Windows and Macs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unraveling-the-mystery-of-ad-driven-content-creation-cpm/"><u>In 2024, Unraveling the Mystery of Ad-Driven Content Creation (CPM)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/maximize-graphic-card-speed-and-stability-with-professional-strategies-from-yl-software/"><u>Maximize Graphic Card Speed and Stability with Professional Strategies From YL Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-way-to-convert-4k-videos-to-mp4-fast-free-and-easy/"><u>New 2024 Approved Best Way to Convert 4K Videos to MP4 Fast, Free, and Easy</u></a></li>
-<li><a href="https://discover-great.techidaily.com/numark-dj-controller-setup-compatible-with-party-mix-live-and-party-mix-ii-dex-3-enabled/"><u>Numark DJ Controller Setup: Compatible with Party Mix Live & Party Mix II - Dex 3 Enabled</u></a></li>
-<li><a href="https://discover-great.techidaily.com/optimizing-your-sound-cards-audio-output-a-step-by-nstep-guide/"><u>Optimizing Your Sound Card's Audio Output: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://discover-great.techidaily.com/premium-red-hd-desktop-walls-photography-and-graphics-for-pcs-curated-by-yl-software-solutions/"><u>Premium Red HD Desktop Walls, Photography & Graphics for PCs - Curated by YL Software Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-the-verified-developer-not-found-problem-in-macos-with-simple-steps/"><u>Resolve the Verified Developer Not Found Problem in macOS with Simple Steps</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/resolve-your-printers-paper-jams-with-ease-tips-from-yl-software-pros/"><u>Resolve Your Printer’s Paper Jams with Ease - Tips From YL Software Pros</u></a></li>
-<li><a href="https://discover-great.techidaily.com/restore-your-lost-photos-after-accidental-delete-in-windows-11-expert-advice-by-yl-software/"><u>Restore Your Lost Photos After Accidental Delete in Windows 11 – Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/troubleshooting-guide-what-to-do-when-your-pcs-sound-card-fails-advice-by-yl-software-experts/"><u>Troubleshooting Guide: What to Do When Your PC's Sound Card Fails - Advice by YL Software Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/yl-computings-ultimate-trick-to-erase-folders-in-windows-expert-strategies-inside-out/"><u>YL Computing's Ultimate Trick to Erase Folders in Windows: Expert Strategies Inside Out!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-navigating-online-public-opinion-for-video-content-concepts/"><u>[New] 2024 Approved Navigating Online Public Opinion for Video Content Concepts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-crafting-engaging-youtube-thumbnails-a-step-by-step-guide/"><u>[Updated] 2024 Approved Crafting Engaging YouTube Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-speed-boost-for-vimeo-videos/"><u>2024 Approved Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://discover-great.techidaily.com/assessing-the-impact-of-deng-xiaopings-economic-reforms-on-modern-china-analysis-by-yl-computing/"><u>Assessing the Impact of Deng Xiaoping's Economic Reforms on Modern China - Analysis by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/can-your-gpu-handle-high-definition-video-insights-from-yl-computings-guide/"><u>Can Your GPU Handle High-Definition Video: Insights From YL Computing’s Guide</u></a></li>
+<li><a href="https://discover-great.techidaily.com/elevate-your-nightlife-soundscape-jazz-and-jazzy-cocktails-hosted-by-the-legendary-jason-jones-pcdjs-genius/"><u>Elevate Your Nightlife Soundscape: Jazz and Jazzy Cocktails | Hosted by the Legendary Jason Jones, PCDJ's Genius!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevate-your-obs-experience-the-role-of-custom-luts/"><u>Elevate Your OBS Experience The Role of Custom LUTs</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-can-my-graphics-card-impact-application-efficiency-and-why-do-heavy-programs-run-slowly-on-it-unraveling-the-mystery-at-yl-computing/"><u>How Can My Graphics Card Impact Application Efficiency, and Why Do Heavy Programs Run Slowly on It? - Unraveling the Mystery at YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-fix-inconsistent-scanner-performance-guidance-and-tips-by-yl-software-experts/"><u>How to Fix Inconsistent Scanner Performance: Guidance and Tips by YL Software Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-usage-based-car-insurance-adjusts-rates-with-telematics-data-explore-in-detail-at-zdnet/"><u>How Usage-Based Car Insurance Adjusts Rates with Telematics Data | Explore in Detail at ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-a25-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy A25 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-in-depth-analysis-and-top-picks-a-must-have-device-pros-and-cons-unveiled-zdnet/"><u>IPhone 15 In-Depth Analysis & Top Picks - A Must-Have Device, Pros and Cons Unveiled! (ZDNet)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>Profit From Reddit Easy Style Top 13 Beginner Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rapid-races-recap-olympic-2022-short-track-sprints-for-2024/"><u>Rapid Races Recap Olympic 2022 Short-Track Sprints for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/steps-for-replacing-faulty-storage-drives-expert-advice-by-yl-solutions-and-tech-support/"><u>Steps for Replacing Faulty Storage Drives: Expert Advice by YL Solutions & Tech Support</u></a></li>
+<li><a href="https://discover-great.techidaily.com/techniques-like-transcranial-magnetic-stimulation-tms-aim-to-modulate-neural-plasticity-for-theraebtreatment-purposes-such-as-improving-cognitive-function-o19/"><u>Techniques Like Transcranial Magnetic Stimulation (TMS) Aim to Modulate Neural Plasticity for Theraebtreatment Purposes, Such as Improving Cognitive Function or Aiding Recovery From Brain Injury.</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-asus-rog-phone-8-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Asus ROG Phone 8 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultimate-guide-how-to-boost-your-pcs-performance-by-clearing-up-disk-space-tips-and-tricks-from-yl-computing/"><u>Ultimate Guide: How to Boost Your PC's Performance by Clearing Up Disk Space - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/vintage-film-gear-high-definition-background-yl-computings-timeless-collection/"><u>Vintage Film Gear High-Definition Background - YL Computing's Timeless Collection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2024-12-22T20:49:07.665Z
-updated: 2024-12-29T22:36:18.540Z
+date: 2025-01-05T03:45:32.228Z
+updated: 2025-01-09T05:07:10.749Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,17 +75,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-incremental-sound-dampening-strategy/"><u>2024 Approved Incremental Sound Dampening Strategy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enabling-windows-11-dynamic-hdr-capability/"><u>Enabling Windows 11 Dynamic HDR Capability</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-logitech-audio-device-software-for-win10-versions-11-7-and-8/"><u>Get the Newest Logitech Audio Device Software for WIN10 Versions: 11, 7, and 8</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c51-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme C51 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-android-image-editing-software/"><u>In 2024, Prime Android Image Editing Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-vector-graphics-tools-to-shape-your-creative-vision/"><u>In 2024, Top 10 Vector Graphics Tools to Shape Your Creative Vision</u></a></li>
-<li><a href="https://discover-great.techidaily.com/navigating-crypto-markets-successfully-top-strategies-revealed-by-experts-at-yl-computing-and-yl-software/"><u>Navigating Crypto Markets Successfully: Top Strategies Revealed by Experts at YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/navigating-the-digital-frontier-understanding-global-rules-governing-crypto-assets-with-yl-software-insights/"><u>Navigating the Digital Frontier: Understanding Global Rules Governing Crypto-Assets with YL Software Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-approach-for-verifying-your-age-on-tiktok-for-2024/"><u>Step-by-Step Approach for Verifying Your Age on TikTok for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-to-transferring-files-between-directories-on-windows-techtips-by-yl/"><u>Step-by-Step Guide to Transferring Files Between Directories on Windows - TechTips by YL</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-solution-for-paper-jam-issues-in-your-printer-learn-the-techniques-with-yl-software-hq/"><u>Step-by-Step Solution for Paper Jam Issues in Your Printer - Learn the Techniques with YL Software HQ</u></a></li>
-<li><a href="https://discover-great.techidaily.com/understanding-the-objectives-unveiling-the-core-motivations-behind-the-taiping-rebellion-insights-by-yl-computing/"><u>Understanding the Objectives: Unveiling the Core Motivations Behind the Taiping Rebellion - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-final-cut-pros-premier-top-10-plugins-for-2024/"><u>[New] Final Cut Pro's Premier Top 10 Plugins for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-elevating-community-interaction-through-strategic-posts/"><u>[Updated] 2024 Approved Elevating Community Interaction Through Strategic Posts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhance-real-time-periscope-broadcasting/"><u>[Updated] 2024 Approved Enhance Real-Time Periscope Broadcasting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-iphoneipad-recording/"><u>[Updated] In 2024, The Ultimate Guide to iPhone/iPad Recording</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728477668310-excel/"><u>學習如何快速修正Excel未保存文件失敗 - 兩則全方位指南</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728495443397-ssd/"><u>移動 SSD 上的檔案與操作系統：零技術下的簡明指南</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-accessing-windows-odbc-tools/"><u>A Beginner's Guide to Accessing Windows' ODBC Tools</u></a></li>
+<li><a href="https://discover-great.techidaily.com/die-top-wiederherstellungssoftware-fur-die-windows-11-migration-zwei-methoden-und-mehr/"><u>Die Top-Wiederherstellungssoftware Für Die Windows 11 Migration: Zwei Methoden Und Mehr</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effizientes-klonen-von-crucial-ssds-auf-windows-10-losungen-und-tipps/"><u>Effizientes Klonen Von Crucial SSDs Auf Windows 10 - Lösungen Und Tipps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/is-it-possible-to-use-handbrake-for-converting-av1-format/"><u>Is It Possible to Use Handbrake for Converting AV1 Format?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-the-menu-strategies-against-freezing-windows/"><u>Reactivating the Menu: Strategies Against Freezing Windows</u></a></li>
+<li><a href="https://discover-great.techidaily.com/servicios-profesionales-de-reparacion-y-apoyo-tecnologico/"><u>Servicios Profesionales De Reparación Y Apoyo Tecnológico</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-moving-your-contact-list-from-one-iphone-to-another-with-icloud/"><u>Step-by-Step Guide: Moving Your Contact List From One iPhone to Another with iCloud</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-buying-a-hisense-50h8f-4k-uhd-tv-on-a-budget-features-and-review/"><u>The Ultimate Guide to Buying a Hisense 50H8F 4K UHD TV on a Budget: Features and Review</u></a></li>
+<li><a href="https://discover-great.techidaily.com/wiederherstellungspunkte-loschen-funktionalitat-und-sicherheit-in-der-windows-10-systemwiederherstellung-erlautern/"><u>Wiederherstellungspunkte Löschen? Funktionalität Und Sicherheit in Der Windows 10-Systemwiederherstellung Erläutern</u></a></li>
 </ul></div>
 

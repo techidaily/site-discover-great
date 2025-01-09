@@ -1,7 +1,7 @@
 ---
 title: "Explore DEX 3'S Key Functionality: Instant DJ Controller Recognition by Pioneer"
-date: 2024-12-25T05:18:34.897Z
-updated: 2024-12-30T02:27:48.189Z
+date: 2025-01-07T06:08:26.628Z
+updated: 2025-01-09T14:10:13.963Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ What does “auto-detect in real-time” mean, exactly? You can now connect or d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-Detection Of DJ Controllers
@@ -33,7 +33,7 @@ Launch DEX 3.4 and connect (_or disconnect_) any [supported DJ controller](https
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/1389090069_4.jpg?fit=300%2C300&ssl=1 "Denon DJ MC6000 MKII")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thus, you can open DEX 3.4 without a DJ controller connected and then connect or remove up to 8 different controllers at the same time. DJ controllers will be detected and start working automatically, and immediately.
@@ -43,7 +43,7 @@ Auto DJ controller detection works on both Mac and Windows, and only in DEX 3.4 
 **(UPDATED): Important note for Windows DEX 3.4 users:** If you’re using a DJ controller that includes a built-in audio interface equipped with ASIO drivers, in order for the audio device to engage and start working properly when re-connecting a controller on-the-fly, you will need to select a different audio device from the select output device drop down menu under the audio tab in settings, then select the ASIO driver for the audio interface again from the select output device drop down menu (_this will re-engage the audio interface and ASIO will begin to work again_).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can Auto-DJ Controller Detection Be Useful?
@@ -53,7 +53,7 @@ The Real-time DJ controller detection feature is undoubtedly useful if a control
 ![Numark MixTrack Pro 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/Mixtrack-Pro-III.jpg?fit=300%2C169&ssl=1 "Numark MixTrack Pro 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Or, if you simply wants to hook an additional controller on the fly to control other features of DEX 3.4 – such as triggering samples from the sample players.
@@ -61,7 +61,7 @@ Or, if you simply wants to hook an additional controller on the fly to control o
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,24 +83,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/09/realtimecontrollerdetectio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-lut-basics-for-enhanced-visual-effects-in-ae/"><u>[New] 2024 Approved LUT Basics for Enhanced Visual Effects in AE</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/hasing-profit-on-platforms-youtube-partner-application-steps/"><u>[New] Chasing Profit on Platforms YouTube Partner Application Steps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outubes-commercial-free-chrome-firefox-android-and-iphone-tips/"><u>[New] YouTube's Commercial Free Chrome, Firefox, Android & iPhone Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-essential-steps-for-a-richer-photo-view-with-audio-filters/"><u>[Updated] Essential Steps for a Richer Photo View with Audio-Filters</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-elevating-the-drone-scene-with-top-10-hexa-flights/"><u>[Updated] In 2024, Elevating the Drone Scene with Top 10 Hexa-Flights</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/easy-guide-changing-your-screen-resolution-on-windows-via-control-panel-tips-by-yl-computing/"><u>Easy Guide: Changing Your Screen Resolution on Windows via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effective-methods-for-cleansing-your-pc-input-devices-with-guidance-from-yl-software/"><u>Effective Methods for Cleansing Your PC Input Devices with Guidance From YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/essential-routine-computer-care-ensuring-peak-performance-for-your-pc-insights-by-yl-computing/"><u>Essential Routine Computer Care: Ensuring Peak Performance for Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/exploring-methods-to-access-your-windows-control-panel-tips-from-yl-computing/"><u>Exploring Methods to Access Your Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-grow-youtube-subscriber/"><u>How to Grow Youtube Subscriber</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fastest-photo-view-in-windows-10/"><u>In 2024, Fastest Photo View in Windows 10</u></a></li>
-<li><a href="https://discover-great.techidaily.com/learn-how-the-reloop-mixtour-controller-is-integrated-with-dex-3-the-ultimate-guide-for-dj-tech/"><u>Learn How the Reloop Mixtour Controller Is Integrated with Dex 3: The Ultimate Guide for Dj Tech</u></a></li>
-<li><a href="https://discover-great.techidaily.com/resolving-windows-performance-issues-post-new-software-expert-advice-by-yl-solutions-inc/"><u>Resolving Windows Performance Issues Post-New Software: Expert Advice by YL Solutions Inc.</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-adjusting-your-privacy-preferences-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Privacy Preferences via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-15-great-online-photo-editing-tools-2023-free/"><u>Ultimate Guide 15 Great Online Photo Editing Tools 2023 (Free)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/yl-software-insights-the-ultimate-how-to-for-installing-operating-systems-on-pcs/"><u>YL Software Insights: The Ultimate How-To for Installing Operating Systems on PCs</u></a></li>
-<li><a href="https://discover-great.techidaily.com/yl-software-showcase-premium-hd-wallpaper-pack-wildlife-serenity-in-wolf-imagery-and-background-scenes/"><u>YL Software Showcase: Premium HD Wallpaper Pack - Wildlife Serenity in Wolf Imagery and Background Scenes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-beginners-guide-understanding-discord-stickers-for-2024/"><u>[Updated] A Beginner's Guide Understanding Discord Stickers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-action-cam-showdown-gopro-vs-yi-technology-review/"><u>[Updated] Action Cam Showdown GoPro Vs. Yi Technology Review</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728467580057-windows-10/"><u>如何正確切換Windows 10飛行模式與非飛行模式：一項指南</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-6-homework-assistance-apps-for-both-kids-and-guardians/"><u>Best 6 Homework Assistance Apps for Both Kids & Guardians</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disable-the-autoplay-function-in-apple-music-effortlessly/"><u>Disable the Autoplay Function in Apple Music Effortlessly</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fast-data-recovery-on-windows-1nplus1-with-usb-flash-drive-methodology/"><u>Fast Data Recovery on Windows 1N+1 with USB Flash Drive Methodology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-t2-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo T2 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-does-cloning-windows-10-improve-pc-restoration-and-upgrades/"><u>How Does Cloning Windows 10 Improve PC Restoration and Upgrades?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-70-lite-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor 70 Lite 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://discover-great.techidaily.com/kostenlose-doppelbildentfernung-auf-windows-und-ios-geraten/"><u>Kostenlose Doppelbildentfernung Auf Windows Und iOS Geräten</u></a></li>
+<li><a href="https://discover-great.techidaily.com/losung-fur-fehlende-ordner-probleme-in-windows-11-schritt-fur-schritt-anleitungen/"><u>Lösung Für Fehlende Ordner-Probleme in Windows 11 - Schritt-Für-Schritt Anleitungen</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/master-excel-opens-simple-tricks-for-accessing-your-files-yl-computing/"><u>Master Excel Opens: Simple Tricks for Accessing Your Files (YL Computing)</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-no-cost-replacements-for-rollback-rx-on-windows-operating-systems/"><u>Top No-Cost Replacements for Rollback RX on Windows Operating Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transcending-borders-chatgpt-for-diverse-audieninas/"><u>Transcending Borders: ChatGPT for Diverse Audieninas</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-and-fixing-error-code-0xc000000e-in-windows-systems-step-by-step/"><u>Understanding and Fixing Error Code 0xC000000E in Windows Systems - Step-by-Step</u></a></li>
 </ul></div>
 

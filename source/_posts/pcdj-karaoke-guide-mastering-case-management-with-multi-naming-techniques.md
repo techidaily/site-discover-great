@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Karaoke Guide: Mastering Case Management with Multi-Naming Techniques"
-date: 2024-12-26T05:42:59.191Z
-updated: 2024-12-29T22:23:22.255Z
+date: 2025-01-03T20:45:39.766Z
+updated: 2025-01-08T17:38:26.411Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,14 +51,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-enhancements-for-terria-pros-for-2024/"><u>[New] Essential Enhancements for Terria Pros for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/boost-your-computers-performance-tips-for-turning-off-unnecessary-services-and-processes-expert-advice-by-yl-computing/"><u>Boost Your Computer's Performance: Tips for Turning Off Unnecessary Services & Processes - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/dealing-with-an-older-vehicle-management-system-guidance-by-yl-software-experts/"><u>Dealing with an Older Vehicle Management System: Guidance by YL Software Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/how-to-fix-a-malfunctioning-scanner-guidance-and-advice-by-yl-software-experts/"><u>How to Fix a Malfunctioning Scanner: Guidance and Advice by YL Software Experts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leading-animals-in-play-androids-favorites-list/"><u>In 2024, Leading Animals in Play Android's Favorites List</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>In 2024, Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
-<li><a href="https://discover-great.techidaily.com/troubleshooting-your-printerscanner-issues-expert-solutions-from-yl-computings-yl-software/"><u>Troubleshooting Your Printer/Scanner Issues: Expert Solutions From YL Computing's YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-become-a-spotify-ad-expert-in-no-time/"><u>[New] 2024 Approved Become a Spotify Ad Expert in No Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-clearview-record-pro-for-11-users-for-2024/"><u>[New] ClearView Record Pro for 11 Users for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-troubleshooting-your-computers-malfunction-insights-from-yl-computing-and-software-solutions/"><u>1. Troubleshooting Your Computer's Malfunction: Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/devastating-mudslides-leave-13-dead-in-tajikistan-amidst-international-unrest-protests-erupt-over-israeli-syrian-relations-and-libyan-ministers-meetings-guo56/"><u>Devastating Mudslides Leave 13 Dead in Tajikistan Amidst International Unrest: Protests Erupt over Israeli-Syrian Relations and Libyan Minister's Meetings, Guo Taiming to Contest Taiwan Presidential Race as Independent Candidate</u></a></li>
+<li><a href="https://discover-great.techidaily.com/discover-exquisite-therizinosaurus-visual-designs-for-your-tech-gadgets-curated-by-yl-software/"><u>Discover Exquisite Therizinosaurus Visual Designs for Your Tech Gadgets - Curated by YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ergonomic-revolution-how-a-week-of-using-a-split-keyboard-transformed-my-tech-habits-zdnet-insights/"><u>Ergonomic Revolution: How a Week of Using a Split Keyboard Transformed My Tech Habits | ZDNET Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11/"><u>In 2024, Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11)</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-resolving-issues-with-your-laptops-usb-connections-tips-by-yl-software-experts/"><u>Step-by-Step Guide: Resolving Issues with Your Laptop's USB Connections - Tips by YL Software Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-your-computers-energy-source-with-guidance-from-yl-software-experts/"><u>Troubleshooting Your Computer's Energy Source with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-the-edge-of-av1-in-video-encoding-for-2024/"><u>Understanding the Edge of AV1 in Video Encoding for 2024</u></a></li>
 </ul></div>
 
