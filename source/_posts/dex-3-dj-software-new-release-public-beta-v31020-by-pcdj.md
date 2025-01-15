@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2025-01-05T03:45:32.228Z
-updated: 2025-01-09T05:07:10.749Z
+date: 2025-01-13T20:29:42.995Z
+updated: 2025-01-15T09:45:45.139Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,20 +75,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-final-cut-pros-premier-top-10-plugins-for-2024/"><u>[New] Final Cut Pro's Premier Top 10 Plugins for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-elevating-community-interaction-through-strategic-posts/"><u>[Updated] 2024 Approved Elevating Community Interaction Through Strategic Posts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhance-real-time-periscope-broadcasting/"><u>[Updated] 2024 Approved Enhance Real-Time Periscope Broadcasting</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-iphoneipad-recording/"><u>[Updated] In 2024, The Ultimate Guide to iPhone/iPad Recording</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1728477668310-excel/"><u>學習如何快速修正Excel未保存文件失敗 - 兩則全方位指南</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1728495443397-ssd/"><u>移動 SSD 上的檔案與操作系統：零技術下的簡明指南</u></a></li>
-<li><a href="https://win11.techidaily.com/a-beginners-guide-to-accessing-windows-odbc-tools/"><u>A Beginner's Guide to Accessing Windows' ODBC Tools</u></a></li>
-<li><a href="https://discover-great.techidaily.com/die-top-wiederherstellungssoftware-fur-die-windows-11-migration-zwei-methoden-und-mehr/"><u>Die Top-Wiederherstellungssoftware Für Die Windows 11 Migration: Zwei Methoden Und Mehr</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effizientes-klonen-von-crucial-ssds-auf-windows-10-losungen-und-tipps/"><u>Effizientes Klonen Von Crucial SSDs Auf Windows 10 - Lösungen Und Tipps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/is-it-possible-to-use-handbrake-for-converting-av1-format/"><u>Is It Possible to Use Handbrake for Converting AV1 Format?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-the-menu-strategies-against-freezing-windows/"><u>Reactivating the Menu: Strategies Against Freezing Windows</u></a></li>
-<li><a href="https://discover-great.techidaily.com/servicios-profesionales-de-reparacion-y-apoyo-tecnologico/"><u>Servicios Profesionales De Reparación Y Apoyo Tecnológico</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-moving-your-contact-list-from-one-iphone-to-another-with-icloud/"><u>Step-by-Step Guide: Moving Your Contact List From One iPhone to Another with iCloud</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-buying-a-hisense-50h8f-4k-uhd-tv-on-a-budget-features-and-review/"><u>The Ultimate Guide to Buying a Hisense 50H8F 4K UHD TV on a Budget: Features and Review</u></a></li>
-<li><a href="https://discover-great.techidaily.com/wiederherstellungspunkte-loschen-funktionalitat-und-sicherheit-in-der-windows-10-systemwiederherstellung-erlautern/"><u>Wiederherstellungspunkte Löschen? Funktionalität Und Sicherheit in Der Windows 10-Systemwiederherstellung Erläutern</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-assessing-common-fb-video-formats/"><u>[New] 2024 Approved Assessing Common FB Video Formats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-memes-unite-reddit-and-twitters-top-twenty/"><u>[New] 2024 Approved Memes Unite Reddit & Twitter's Top Twenty</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-windows-10s-complete-guide-to-saving-mov-content-with-ease/"><u>[New] 2024 Approved Windows 10'S Complete Guide to Saving .mov Content with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>[Updated] Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[Updated] In 2024, Easy Ways to Add Music to iMovie From YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-5-must-have-pinterest-bot-tools-for-better-engagement/"><u>Discover These 5 Must-Have Pinterest Bot Tools for Better Engagement</u></a></li>
+<li><a href="https://discover-great.techidaily.com/hddwindows-11/"><u>HDDバックアップの専門家テクニック：Windows 11を使ってファイル保護方法</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-efficiently-backup-your-windows-tenth-system-files-and-documents-using-free-software-to-microsofts-cloud-storage-platform-onedrive/"><u>How to Efficiently Backup Your Windows Tenth System Files and Documents Using Free Software to Microsoft's Cloud Storage Platform, OneDrive</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-6s-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 6s?</u></a></li>
+<li><a href="https://discover-great.techidaily.com/pourquoi-utilisez-vous-la-sauvegarde-au-niveau-des-blocs-et-quels-sont-ses-avantages-pour-votre-systeme-informatique/"><u>Pourquoi Utilisez-Vous La Sauvegarde Au Niveau Des Blocs Et Quels Sont Ses Avantages Pour Votre Système Informatique?</u></a></li>
+<li><a href="https://discover-great.techidaily.com/seamless-transition-moving-your-windows/"><u>Seamless Transition: Moving Your Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity/"><u>Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity</u></a></li>
+<li><a href="https://discover-great.techidaily.com/wiederherstellung-eines-beschadigten-master-boot-records-schnell-und-einfach-mit-myrecover/"><u>Wiederherstellung Eines Beschädigten Master Boot Records - Schnell Und Einfach Mit MyRecover</u></a></li>
 </ul></div>
 

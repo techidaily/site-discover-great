@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Karaoke Guide: Mastering Case Management with Multi-Naming Techniques"
-date: 2025-01-03T20:45:39.766Z
-updated: 2025-01-08T17:38:26.411Z
+date: 2025-01-12T20:49:28.385Z
+updated: 2025-01-14T16:47:14.617Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,17 +51,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-become-a-spotify-ad-expert-in-no-time/"><u>[New] 2024 Approved Become a Spotify Ad Expert in No Time</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-clearview-record-pro-for-11-users-for-2024/"><u>[New] ClearView Record Pro for 11 Users for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1-troubleshooting-your-computers-malfunction-insights-from-yl-computing-and-software-solutions/"><u>1. Troubleshooting Your Computer's Malfunction: Insights From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://discover-great.techidaily.com/devastating-mudslides-leave-13-dead-in-tajikistan-amidst-international-unrest-protests-erupt-over-israeli-syrian-relations-and-libyan-ministers-meetings-guo56/"><u>Devastating Mudslides Leave 13 Dead in Tajikistan Amidst International Unrest: Protests Erupt over Israeli-Syrian Relations and Libyan Minister's Meetings, Guo Taiming to Contest Taiwan Presidential Race as Independent Candidate</u></a></li>
-<li><a href="https://discover-great.techidaily.com/discover-exquisite-therizinosaurus-visual-designs-for-your-tech-gadgets-curated-by-yl-software/"><u>Discover Exquisite Therizinosaurus Visual Designs for Your Tech Gadgets - Curated by YL Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ergonomic-revolution-how-a-week-of-using-a-split-keyboard-transformed-my-tech-habits-zdnet-insights/"><u>Ergonomic Revolution: How a Week of Using a Split Keyboard Transformed My Tech Habits | ZDNET Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Phone When You Forget the Password</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11/"><u>In 2024, Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-resolving-issues-with-your-laptops-usb-connections-tips-by-yl-software-experts/"><u>Step-by-Step Guide: Resolving Issues with Your Laptop's USB Connections - Tips by YL Software Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/troubleshooting-your-computers-energy-source-with-guidance-from-yl-software-experts/"><u>Troubleshooting Your Computer's Energy Source with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-the-edge-of-av1-in-video-encoding-for-2024/"><u>Understanding the Edge of AV1 in Video Encoding for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-financial-frontiers-unveiling-pewdiepies-income-graph/"><u>[New] 2024 Approved Financial Frontiers Unveiling PewDiePie's Income Graph</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-10-free-legal-chants-and-sounds-for-meditation-practice-for-2024/"><u>[Updated] 10 Free Legal Chants and Sounds for Meditation Practice for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-detailed-guidance-on-crafting-dynamic-yt-profiles/"><u>[Updated] 2024 Approved Detailed Guidance on Crafting Dynamic YT Profiles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamline-your-content-creation-iphoneipad-screen-recordings-on-youtube/"><u>[Updated] In 2024, Streamline Your Content Creation IPhone/iPad Screen Recordings on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-enchanted-realm-of-bygone-writings-a-literary-pilgrimage/"><u>[Updated] In 2024, The Enchanted Realm of Bygone Writings A Literary Pilgrimage</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-5-prime-fb-video-extractor-guide/"><u>2024 Approved 5 Prime FB Video Extractor Guide</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725285104654-dvd-shrink/"><u>DVD Shrinkにおける一般的なエラー発生時の解決策</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-premier-source-of-no-cost-creative-tools-in-ae/"><u>In 2024, The Premier Source of No-Cost Creative Tools in AE</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/make-screenshots-and-recordings-on-imac-simple-for-2024/"><u>Make Screenshots & Recordings on iMac Simple for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-ebook-transformation-seamless-format-changing-and-unlock-digital-rights-management/"><u>Mastering eBook Transformation: Seamless Format Changing & Unlock Digital Rights Management.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melding-audio-with-visuals-digitally-for-2024/"><u>Melding Audio With Visuals Digitally for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/solving-issues-with-scrambling-errors-in-handbrake-dvd-conversions/"><u>Solving Issues with Scrambling Errors in HandBrake DVD Conversions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transforme-seu-dvd-em-mp4-com-facilidade-usando-o-winx-dvd-ripper-platinum-solucao-oficial-eficiente-com-5-minutos-de-conversao/"><u>Transforme Seu DVD Em MP4 Com Facilidade Usando O WinX DVD Ripper Platinum - Solução Oficial Eficiente Com 5 Minutos De Conversão!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/unforgettable-goals-and-glory-discover-the-top-10-most-epic-wc-matches-plus-download-tutorial-for-clips/"><u>Unforgettable Goals & Glory: Discover the Top 10 Most Epic WC Matches + Download Tutorial for Clips</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-11flv3/"><u>Windows 11にてFLVファイルを楽しめる3つの方法：完全無料ガイド</u></a></li>
+<li><a href="https://discover-great.techidaily.com/winxvideo-ai-techniques-de-rehaussement-et-restauration-dimages-en-haute-definition-4k-8k-and-10k/"><u>Winxvideo AI : Techniques De Rehaussement Et Restauration D'Images en Haute Définition 4K, 8K & 10K</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725285838037-dvd-dvd/"><u>윈엑스 DVD 제조기 정상 웹사이트: DVD 재생 라이브리틱, 비디오 보조 소프트와 전자계산기 전송</u></a></li>
 </ul></div>
 
