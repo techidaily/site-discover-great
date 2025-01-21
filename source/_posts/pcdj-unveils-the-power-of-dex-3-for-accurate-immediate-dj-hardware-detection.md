@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils the Power of DEX 3 for Accurate, Immediate DJ Hardware Detection
-date: 2025-01-14T07:52:51.238Z
-updated: 2025-01-14T19:37:21.689Z
+date: 2025-01-17T09:31:59.756Z
+updated: 2025-01-21T07:23:49.637Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ What does “auto-detect in real-time” mean, exactly? You can now connect or d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-Detection Of DJ Controllers
@@ -33,7 +33,7 @@ Launch DEX 3.4 and connect (_or disconnect_) any [supported DJ controller](https
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/1389090069_4.jpg?fit=300%2C300&ssl=1 "Denon DJ MC6000 MKII")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thus, you can open DEX 3.4 without a DJ controller connected and then connect or remove up to 8 different controllers at the same time. DJ controllers will be detected and start working automatically, and immediately.
@@ -43,7 +43,7 @@ Auto DJ controller detection works on both Mac and Windows, and only in DEX 3.4 
 **(UPDATED): Important note for Windows DEX 3.4 users:** If you’re using a DJ controller that includes a built-in audio interface equipped with ASIO drivers, in order for the audio device to engage and start working properly when re-connecting a controller on-the-fly, you will need to select a different audio device from the select output device drop down menu under the audio tab in settings, then select the ASIO driver for the audio interface again from the select output device drop down menu (_this will re-engage the audio interface and ASIO will begin to work again_).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can Auto-DJ Controller Detection Be Useful?
@@ -53,7 +53,7 @@ The Real-time DJ controller detection feature is undoubtedly useful if a control
 ![Numark MixTrack Pro 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/Mixtrack-Pro-III.jpg?fit=300%2C169&ssl=1 "Numark MixTrack Pro 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Or, if you simply wants to hook an additional controller on the fly to control other features of DEX 3.4 – such as triggering samples from the sample players.
@@ -61,7 +61,7 @@ Or, if you simply wants to hook an additional controller on the fly to control o
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,16 +83,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/09/realtimecontrollerdetectio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-raw-files-to-artwork-beginners-guide-to-lunapic/"><u>[New] 2024 Approved From Raw Files to Artwork Beginner’s Guide to LunaPic</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-earn-while-you-entertain-the-content-creators-guide/"><u>[Updated] Earn While You Entertain The Content Creator's Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-onestepcams-evaluation-are-we-overlooking-gems/"><u>[Updated] OneStepCams Evaluation Are We Overlooking Gems?</u></a></li>
-<li><a href="https://discover-great.techidaily.com/5a6m5lqg44gx44gf77yb44ow44ot44od44kv44k344kn44kk44oj44kz44ou44o85yem55cg44gr44gk44gr44kl5lia6iis55qe44gq44of44k544ks6kej5rg644gz44kl/"><u>完了した！ブロックシェイドコピー処理における一般的なミスを解決する</u></a></li>
-<li><a href="https://discover-great.techidaily.com/come-riparare-uno-schermo-touch-iphone-disfunzionale-post-aggiornamento-ai-sistemi-operativi-ios-15ios-16/"><u>Come Riparare Uno Schermo Touch iPhone Disfunzionale Post-Aggiornamento Ai Sistemi Operativi iOS 15/iOS 16</u></a></li>
-<li><a href="https://discover-great.techidaily.com/erfolgreich-wiederhergestellte-onedrive-dokumente-strategische-losungen-verstehen/"><u>Erfolgreich Wiederhergestellte OneDrive Dokumente: Strategische Lösungen Verstehen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-a78-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo A78 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/mastering-the-resolution-of-windows-stop-codes-the-internal-power-error-explained/"><u>Mastering the Resolution of Windows Stop Codes – The Internal Power Error Explained</u></a></li>
-<li><a href="https://discover-great.techidaily.com/techni-disk-windows-11-restorasi-partisi-tanpa-huru-huruan-and-data-sela-sendiri/"><u>Techni Disk Windows 11: Restorasi Partisi Tanpa Huru-Huruan & Data Sela Sendiri</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-on-safeguarding-access-to-your-facebook-profile/"><u>The Ultimate Tutorial On Safeguarding Access to Your Facebook Profile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-ripper-and-video-converter-comprehensive-online-customer-helpdesk-services/"><u>WinX DVD Ripper & Video Converter: Comprehensive Online Customer Helpdesk Services</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-picks-8-mirrorless-cameras-that-shine-in-vlogs/"><u>[New] Top Picks 8 Mirrorless Cameras That Shine in Vlogs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-discover-the-best-photo-frame-software/"><u>2024 Approved Discover the Best Photo Frame Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-no-charges-yes-to-superior-free-webm-player-selections/"><u>2024 Approved No Charges? Yes to Superior, Free WebM Player Selections</u></a></li>
+<li><a href="https://discover-great.techidaily.com/bewahrung-ihrer-daten-auf-dem-iphone-14-ohne-die-notwendigkeit-von-itunes-oder-icloud/"><u>Bewahrung Ihrer Daten Auf Dem iPhone 14 Ohne Die Notwendigkeit Von iTunes Oder iCloud.</u></a></li>
+<li><a href="https://discover-great.techidaily.com/como-instalar-windows-11-en-equipos-incompatibles-sin-perder-datos-3-metodos-efectivos/"><u>Cómo Instalar Windows 11 en Equipos Incompatibles Sin Perder Datos: 3 Métodos Efectivos</u></a></li>
+<li><a href="https://discover-great.techidaily.com/easy-steps-to-retrieving-your-data-after-a-computer-malfunction/"><u>Easy Steps to Retrieving Your Data After a Computer Malfunction</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effizientes-kopieren-von-festplatten-auf-eine-samsung-ssd-mit-clonezilla-unter-den-betriebssystemen-windows-7-11/"><u>Effizientes Kopieren Von Festplatten Auf Eine Samsung-SSD Mit Clonezilla Unter Den Betriebssystemen Windows 7-11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-power-management-options/"><u>Exploring Windows' Power Management Options</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-fresh-install-of-evga-drivers-for-enhanced-gaming-on-windows-pcs/"><u>Guide: Fresh Install of EVGA Drivers for Enhanced Gaming on Windows PCs</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-successfully-downsize-and-convert-your-uefi-gpt-disk-into-a-bootable-smaller-ssd/"><u>How to Successfully Downsize and Convert Your UEFI GPT Disk Into a Bootable Smaller SSD</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-nokia-130-music-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Nokia 130 Music without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/methoden-zur-wiederherstellung-und-ubertragung-von-iphone-fotobackups/"><u>Methoden Zur Wiederherstellung Und Übertragung Von iPhone-Fotobackups</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-restore-your-hp-laptops-camera-functionality-in-windows-elekjen1/"><u>Step-by-Step Fixes to Restore Your HP Laptop's Camera Functionality in Windows ˈeleɪkjən(1) -</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transition-effortlessly-cloning-your-hard-drive-using-clonezilla-and-other-options/"><u>Transition Effortlessly: Cloning Your Hard Drive Using Clonezilla and Other Options</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-1111hddpc/"><u>Windows 11/11時代の旧HDDを最新PCにスムーズに移行 - 添付ガイド</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/yuneec-typhoon-h-exposed-drone-review-in-detail-for-2024/"><u>Yuneec Typhoon H Exposed Drone Review in Detail for 2024</u></a></li>
 </ul></div>
 
