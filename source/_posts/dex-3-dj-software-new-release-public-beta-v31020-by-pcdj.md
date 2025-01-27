@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2025-01-13T20:29:42.995Z
-updated: 2025-01-15T09:45:45.139Z
+date: 2025-01-26T07:15:42.627Z
+updated: 2025-01-27T09:06:06.388Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,18 +75,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-assessing-common-fb-video-formats/"><u>[New] 2024 Approved Assessing Common FB Video Formats</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-memes-unite-reddit-and-twitters-top-twenty/"><u>[New] 2024 Approved Memes Unite Reddit & Twitter's Top Twenty</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-windows-10s-complete-guide-to-saving-mov-content-with-ease/"><u>[New] 2024 Approved Windows 10'S Complete Guide to Saving .mov Content with Ease</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>[Updated] Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-easy-ways-to-add-music-to-imovie-from-youtube/"><u>[Updated] In 2024, Easy Ways to Add Music to iMovie From YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-these-5-must-have-pinterest-bot-tools-for-better-engagement/"><u>Discover These 5 Must-Have Pinterest Bot Tools for Better Engagement</u></a></li>
-<li><a href="https://discover-great.techidaily.com/hddwindows-11/"><u>HDDバックアップの専門家テクニック：Windows 11を使ってファイル保護方法</u></a></li>
-<li><a href="https://discover-great.techidaily.com/how-to-efficiently-backup-your-windows-tenth-system-files-and-documents-using-free-software-to-microsofts-cloud-storage-platform-onedrive/"><u>How to Efficiently Backup Your Windows Tenth System Files and Documents Using Free Software to Microsoft's Cloud Storage Platform, OneDrive</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-6s-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 6s?</u></a></li>
-<li><a href="https://discover-great.techidaily.com/pourquoi-utilisez-vous-la-sauvegarde-au-niveau-des-blocs-et-quels-sont-ses-avantages-pour-votre-systeme-informatique/"><u>Pourquoi Utilisez-Vous La Sauvegarde Au Niveau Des Blocs Et Quels Sont Ses Avantages Pour Votre Système Informatique?</u></a></li>
-<li><a href="https://discover-great.techidaily.com/seamless-transition-moving-your-windows/"><u>Seamless Transition: Moving Your Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-your-social-media-superpowers-top-9-instagram-techniques-to-skyrocket-popularity/"><u>Unlock Your Social Media Superpowers Top 9 Instagram Techniques to Skyrocket Popularity</u></a></li>
-<li><a href="https://discover-great.techidaily.com/wiederherstellung-eines-beschadigten-master-boot-records-schnell-und-einfach-mit-myrecover/"><u>Wiederherstellung Eines Beschädigten Master Boot Records - Schnell Und Einfach Mit MyRecover</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-twitter-live-sound-solving-partially-muted-audio-issues-for-2024/"><u>[New] Twitter Live Sound Solving Partially Muted Audio Issues for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-engaging-youtube-threads/"><u>[Updated] In 2024, Discover Engaging YouTube Threads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[Updated] In 2024, The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725286978937-dvd/"><u>「無料ソフトでも安心してDVDをコピー!? スムーズなコピー手順とエラー対策説明」</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-which-digital-assets-are-compatible-with-the-yl-computing-verification-tool/"><u>1. Which Digital Assets Are Compatible With The YL Computing Verification Tool?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-finest-choices-for-mkv-file-handling/"><u>2024 Approved Mac's Finest Choices for MKV File Handling</u></a></li>
+<li><a href="https://discover-great.techidaily.com/5pya5paw54sh5paz44oh44oh44kj44ki44ox44os44o844ok44o844ks5qsc6ki844gx44cb5yuv55s744o76zplusz5aow5yan55sf5qplusu6lydic0g44oi44od44ox44oq44k544oi/"><u>最新無料メディアプレーヤーを検証し、動画・音声再生比較 - トップリスト</u></a></li>
+<li><a href="https://discover-great.techidaily.com/comprehensive-comparison-of-windows-11-phone-os-and-ios-9-key-features-unveiled/"><u>Comprehensive Comparison of Windows 11 Phone OS & iOS 9: Key Features Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-back-4-bloods-ue4-game-breaking-gobi-glitch-with-these-expert-fixes/"><u>Eliminate Back 4 Blood's UE4 Game-Breaking Gobi Glitch with These Expert Fixes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/forgotten-iphone-password-a-step-by-step-guide-to-wipe-and-restore-your-device/"><u>Forgotten iPhone Password? A Step-by-Step Guide to Wipe and Restore Your Device</u></a></li>
+<li><a href="https://discover-great.techidaily.com/free-dvd-ripping-showdown-winx-dvd-ripper-vs-handbrake-performance-comparison/"><u>Free DVD Ripping Showdown: WinX DVD Ripper vs Handbrake Performance Comparison</u></a></li>
+<li><a href="https://discover-great.techidaily.com/gratis-herunterladen-top-dvd-entschlusselungstools-fur-jeden-filmtyp/"><u>Gratis Herunterladen: Top-DVD-Entschlüsselungstools Für Jeden Filmtyp</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-daily-digital-dynasty-ranking-the-top-10-youtube-videos/"><u>In 2024, Daily Digital Dynasty Ranking the Top 10 YouTube Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/liveaction-gaming-diary-for-2024/"><u>LiveAction Gaming Diary for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/meilleures-lecteur-de-fichiers-wmv-top-picks-pour-macos-windows-10-android-et-iphone/"><u>Meilleures Lecteur De Fichiers WMV: Top Picks Pour MacOS, Windows 10, Android Et iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quick-tempo-adjustment-application-selection-for-2024/"><u>Quick Tempo Adjustment Application Selection for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/transformez-vos-clips-en-dvd-avec-la-pouvoir-de-lia-utilisez-winxvideo/"><u>Transformez Vos Clips en DVD Avec La Pouvoir De L'IA - Utilisez Winxvideo</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultimate-guide-safe-quick-video-converters-for-windows-operating-systems-1110/"><u>Ultimate Guide: Safe, Quick Video Converters for Windows Operating Systems (11/10)</u></a></li>
+<li><a href="https://discover-great.techidaily.com/winx-dvd-ripper-pro-free-downloads-and-comprehensive-faqs-start-dvd-copying-today/"><u>WinX DVD Ripper Pro: Free Downloads & Comprehensive FAQs - Start DVD Copying Today!</u></a></li>
 </ul></div>
 

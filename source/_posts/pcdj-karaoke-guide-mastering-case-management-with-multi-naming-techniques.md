@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Karaoke Guide: Mastering Case Management with Multi-Naming Techniques"
-date: 2025-01-16T01:49:06.350Z
-updated: 2025-01-21T12:13:41.505Z
+date: 2025-01-20T10:06:44.892Z
+updated: 2025-01-27T07:29:52.463Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,15 +51,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premium-and-basic-win-driven-design-applications-guide/"><u>[New] Premium & Basic Win-Driven Design Applications Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-push-boundaries-expert-advice-on-snapchat-zooms/"><u>[New] Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-securing-group-discussions-on-hangouts/"><u>[Updated] In 2024, Securing Group Discussions on Hangouts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-threads-through-time-master-looms-screen-capture/"><u>[Updated] In 2024, Threads Through Time Master Loom's Screen Capture</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725285780907-digiarty/"><u>Digiarty 제품으로 고객실을 개선하는 데 도움이 되는 모든 사양에 대한 통찰</u></a></li>
-<li><a href="https://discover-great.techidaily.com/fix-your-broken-dji-footage-top-5-strategies-for-repairing-phantom-drone-videos/"><u>Fix Your Broken DJI Footage - Top 5 Strategies for Repairing Phantom Drone Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/reverse-the-upgrades-a-comprehensive-guide-to-switching-from-windows-881-to-windows-7-professional/"><u>Reverse the Upgrades: A Comprehensive Guide to Switching From Windows 8/8.1 to Windows 7 Professional</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-epitome-of-hd-recording-curated-list-unveiled-for-2024/"><u>The Epitome of HD Recording Curated List Unveiled for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-6-proven-artificial-intelligence-tools-for-enhancing-video-quality/"><u>Top 6 Proven Artificial Intelligence Tools for Enhancing Video Quality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-your-course-to-youtube-success-with-these-techniques-for-2024/"><u>[Updated] Chart Your Course to YouTube Success with These Techniques for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/conversor-rapido-de-mkv-a-avi-con-facilidad-metodologia-fina-por-movavi/"><u>Conversor Rápido De MKV a AVI Con Facilidad - Metodología Fina Por Movavi</u></a></li>
+<li><a href="https://discover-great.techidaily.com/efficiently-deleting-files-on-your-pc-expert-advice-by-yl-software-solutions/"><u>Efficiently Deleting Files on Your PC: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fastest-methods-to-power-off-your-pc-on-windows-11-expert-tips-from-yl-computing/"><u>Fastest Methods to Power Off Your PC on Windows 11: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/masterclass-comprehensive-overview-of-dji-phantom-4/"><u>Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://discover-great.techidaily.com/resolving-the-blue-screen-error-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving the Blue Screen Error on Windows: A Step-by-Step Guide - By YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-backlink-journey-paving-a-path-to-youtube-success-for-2024/"><u>The Backlink Journey Paving a Path to YouTube Success for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-printer-driver-issues-expert-solutions-from-yl-computing/"><u>Troubleshooting Printer Driver Issues: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/unveiling-confucius-wisdom-insights-from-ancient-philosophy-explore-with-yl-computing-solutions/"><u>Unveiling Confucius' Wisdom: Insights From Ancient Philosophy - Explore with YL Computing Solutions</u></a></li>
 </ul></div>
 
