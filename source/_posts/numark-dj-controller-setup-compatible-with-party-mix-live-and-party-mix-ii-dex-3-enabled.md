@@ -1,7 +1,7 @@
 ---
 title: "Numark DJ Controller Setup: Compatible with Party Mix Live & Party Mix II - Dex 3 Enabled"
-date: 2025-01-23T21:50:01.131Z
-updated: 2025-01-26T18:23:31.321Z
+date: 2025-02-06T10:09:40.950Z
+updated: 2025-02-09T09:02:32.189Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix Live ($179 at most online retailers)
@@ -33,13 +33,13 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 [![Numark Party Mix Live](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixLive_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix Live")](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixLive%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is packed with all the core features DJs need, whether you’re new to DJing or longtime pro. Built-in speakers fill the room with dynamic sound and integrated LED lights create a beat-synchronized light show. Four performance pads on each deck allow quick access to effects, cue points, loops or samples. Play, Cue and Sync buttons provide complete playback control and access to automatic tempo matching between tracks on each deck for perfectly aligned mixes. Large, touch-sensitive jog wheels allow you to pause, backspin and even scratch tracks as you work through your playlist. An outer jog-wheel functions as pitch-bend so you can nudge tracks into alignment for the perfect blend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix II ($129 at most online retailers)
@@ -47,7 +47,7 @@ The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is pa
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixMKII_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix II")](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixMKII%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Based on the original Party Mix Controller, the [Numark Party Mix II](https://www.numark.com/product/party-mix-ii) DJ Controller is packed with all the DJ performance essentials and a built in ‘light show’. The essential DJ controller features include large touch-sensitive jog wheels for scratching, large Filter effect knobs on each deck, Sync, play/pause and Cue buttons, pitch sliders for tempo adjustments, performance pads with various modes, library controls for scrolling and loading tracks, 2-band EQ on each deck, and for output a 1/8″ headphone jack and 1/8″ main output jack. The light show is projected by three multi-colored LEDs with wide-coverage lenses for a room-filling, beat-synchronized light show. With five lighting modes to choose from, finding the right vibe for your party is a snap.
@@ -64,7 +64,7 @@ Based on the original Party Mix Controller, the [Numark Party Mix II](https://ww
 _Have questions about the **Numark Party Mix II** or **Numark Party Mix Live** and how they work with our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,21 +86,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/06/cover-partymix-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-perfecting-your-personal-palette-a-guide-to-whatsapp-alerts-on-phones/"><u>[New] 2024 Approved Perfecting Your Personal Palette A Guide to WhatsApp Alerts on Phones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-artistry-your-ultimate-companion-for-boomerangs-for-2024/"><u>[Updated] Crafting Artistry Your Ultimate Companion for Boomerangs for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/a-comprehensive-guide-to-converting-dvd-movies-into-compatible-quicktime-format-for-apples-technology/"><u>A Comprehensive Guide to Converting DVD Movies Into Compatible QuickTime Format for Apple's Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/audience-engagement-strategies-for-compelling-screencast-videos-for-2024/"><u>Audience Engagement Strategies for Compelling Screencast Videos for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-language-barriers-with-the-top-9-challenging-tongues/"><u>Breaking Language Barriers with the Top 9 Challenging Tongues</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725289007472-dvd-mp4/"><u>DVD 無料変換の秘密: MP4にする詳細なマニュアルとステップバイステップ ビジュアルチュートリアル</u></a></li>
-<li><a href="https://discover-great.techidaily.com/gli-ottimi-ripper-di-dvd-senza-costo-su-windows-11-converti-i-tuoi-filmati-da-dvd-in-formato-mp4aviwmv-gratuitamente/"><u>Gli Ottimi Ripper Di DVD Senza Costo Su Windows 11 | Converti I Tuoi Filmati Da DVD in Formato MP4/AVI/WMV Gratuitamente</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-14-ultra-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi 14 Ultra Phones? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-sony-xperia-xz-superior-a-4k-mobile-experience-analysis/"><u>In 2024, Sony Xperia XZ Superior A 4K Mobile Experience Analysis</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/incorporate-engaging-text-in-videos-at-no-extra-cost/"><u>Incorporate Engaging Text in Videos at No Extra Cost</u></a></li>
-<li><a href="https://discover-great.techidaily.com/reduzierung-der-video-auflosung-fur-facebook-erfolgreiches-downscaling-von-grossformatvideos/"><u>Reduzierung Der Video-Auflösung Für Facebook: Erfolgreiches Downscaling Von Großformatvideos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-troubleshooting-techniques-for-iphone-blackout-crisis/"><u>Step-by-Step Troubleshooting Techniques for iPhone Blackout Crisis</u></a></li>
-<li><a href="https://discover-great.techidaily.com/winx-media-hub-the-go-to-source-for-gratis-dvd-extractor-and-hi-res-video-transformation-utilities-official/"><u>WinX Media Hub – The Go-To Source for Gratis DVD Extractor & Hi-Res Video Transformation Utilities (Official)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/winx-video-registration-screen-and-webcam-setup-with-advanced-microphone-integration/"><u>WinX Video Registration - Screen & Webcam Setup with Advanced Microphone Integration</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725284100621-winxdvd/"><u>WinXDVD 소프트웨어 사용을 위한 전시성 강화 지침</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-modify-twitter-video-capture-image/"><u>[New] 2024 Approved Modify Twitter Video Capture Image</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ropel-your-youtube-presence-via-advanced-creator-studio-techniques-for-2024/"><u>[New] Propel Your Youtube Presence via Advanced Creator Studio Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>[Updated] Breathing Life Into Images Mastering Face Motion Blur in Picsart</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-master-10-social-media-movies-for-2024/"><u>[Updated] Master 10 Social-Media Movies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-seal-of-credibility-writing-journalisms-finale/"><u>[Updated] Seal of Credibility Writing Journalism's Finale</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-science-of-swift-facebook-visuals/"><u>2024 Approved The Science of Swift Facebook Visuals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor 90 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725285780907-digiarty/"><u>Digiarty 제품으로 고객실을 개선하는 데 도움이 되는 모든 사양에 대한 통찰</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fix-your-broken-dji-footage-top-5-strategies-for-repairing-phantom-drone-videos/"><u>Fix Your Broken DJI Footage - Top 5 Strategies for Repairing Phantom Drone Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hasten-artistic-touch-ups-on-windows-10-photos/"><u>In 2024, Hasten Artistic Touch-Ups on Windows 10 Photos</u></a></li>
+<li><a href="https://discover-great.techidaily.com/quick-and-efficient-conversion-top-10-methods-to-transform-ts-into-hd-mp4-format/"><u>Quick and Efficient Conversion: Top 10 Methods to Transform TS Into HD MP4 Format</u></a></li>
+<li><a href="https://discover-great.techidaily.com/reverse-the-upgrades-a-comprehensive-guide-to-switching-from-windows-881-to-windows-7-professional/"><u>Reverse the Upgrades: A Comprehensive Guide to Switching From Windows 8/8.1 to Windows 7 Professional</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-6-proven-artificial-intelligence-tools-for-enhancing-video-quality/"><u>Top 6 Proven Artificial Intelligence Tools for Enhancing Video Quality</u></a></li>
 </ul></div>
 

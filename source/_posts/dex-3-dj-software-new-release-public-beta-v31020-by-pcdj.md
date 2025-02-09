@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2025-01-26T07:15:42.627Z
-updated: 2025-01-27T09:06:06.388Z
+date: 2025-02-02T20:44:54.440Z
+updated: 2025-02-09T06:45:07.593Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,24 +75,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-twitter-live-sound-solving-partially-muted-audio-issues-for-2024/"><u>[New] Twitter Live Sound Solving Partially Muted Audio Issues for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-engaging-youtube-threads/"><u>[Updated] In 2024, Discover Engaging YouTube Threads</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[Updated] In 2024, The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725286978937-dvd/"><u>「無料ソフトでも安心してDVDをコピー!? スムーズなコピー手順とエラー対策説明」</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-which-digital-assets-are-compatible-with-the-yl-computing-verification-tool/"><u>1. Which Digital Assets Are Compatible With The YL Computing Verification Tool?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-finest-choices-for-mkv-file-handling/"><u>2024 Approved Mac's Finest Choices for MKV File Handling</u></a></li>
-<li><a href="https://discover-great.techidaily.com/5pya5paw54sh5paz44oh44oh44kj44ki44ox44os44o844ok44o844ks5qsc6ki844gx44cb5yuv55s744o76zplusz5aow5yan55sf5qplusu6lydic0g44oi44od44ox44oq44k544oi/"><u>最新無料メディアプレーヤーを検証し、動画・音声再生比較 - トップリスト</u></a></li>
-<li><a href="https://discover-great.techidaily.com/comprehensive-comparison-of-windows-11-phone-os-and-ios-9-key-features-unveiled/"><u>Comprehensive Comparison of Windows 11 Phone OS & iOS 9: Key Features Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-back-4-bloods-ue4-game-breaking-gobi-glitch-with-these-expert-fixes/"><u>Eliminate Back 4 Blood's UE4 Game-Breaking Gobi Glitch with These Expert Fixes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/forgotten-iphone-password-a-step-by-step-guide-to-wipe-and-restore-your-device/"><u>Forgotten iPhone Password? A Step-by-Step Guide to Wipe and Restore Your Device</u></a></li>
-<li><a href="https://discover-great.techidaily.com/free-dvd-ripping-showdown-winx-dvd-ripper-vs-handbrake-performance-comparison/"><u>Free DVD Ripping Showdown: WinX DVD Ripper vs Handbrake Performance Comparison</u></a></li>
-<li><a href="https://discover-great.techidaily.com/gratis-herunterladen-top-dvd-entschlusselungstools-fur-jeden-filmtyp/"><u>Gratis Herunterladen: Top-DVD-Entschlüsselungstools Für Jeden Filmtyp</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-daily-digital-dynasty-ranking-the-top-10-youtube-videos/"><u>In 2024, Daily Digital Dynasty Ranking the Top 10 YouTube Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/liveaction-gaming-diary-for-2024/"><u>LiveAction Gaming Diary for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/meilleures-lecteur-de-fichiers-wmv-top-picks-pour-macos-windows-10-android-et-iphone/"><u>Meilleures Lecteur De Fichiers WMV: Top Picks Pour MacOS, Windows 10, Android Et iPhone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/quick-tempo-adjustment-application-selection-for-2024/"><u>Quick Tempo Adjustment Application Selection for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/transformez-vos-clips-en-dvd-avec-la-pouvoir-de-lia-utilisez-winxvideo/"><u>Transformez Vos Clips en DVD Avec La Pouvoir De L'IA - Utilisez Winxvideo</u></a></li>
-<li><a href="https://discover-great.techidaily.com/ultimate-guide-safe-quick-video-converters-for-windows-operating-systems-1110/"><u>Ultimate Guide: Safe, Quick Video Converters for Windows Operating Systems (11/10)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/winx-dvd-ripper-pro-free-downloads-and-comprehensive-faqs-start-dvd-copying-today/"><u>WinX DVD Ripper Pro: Free Downloads & Comprehensive FAQs - Start DVD Copying Today!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-basics-of-animated-infographics-and-signage/"><u>[New] Basics of Animated Infographics and Signage</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-buy-smart-top-picks-for-high-definition-21-hdmi-screens/"><u>[New] Buy Smart Top Picks for High-Definition 2.1 HDMI Screens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-craft-captivating-narratives-the-best-of-the-best-10-igtv-strategies-for-brands/"><u>[New] In 2024, Craft Captivating Narratives The Best of the Best 10 IGTV Strategies for Brands</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-save-big-on-data-stash-with-these-30-no-cost-up-to-1tbplus-cloud-services/"><u>[New] In 2024, Save Big on Data Stash with These 30 No-Cost, Up to 1TB+ Cloud Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-cost-effective-stratosphere-storage-for-large-archives/"><u>[Updated] 2024 Approved Cost-Effective Stratosphere Storage for Large Archives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-masterclass-in-connecting-ig-and-tiktok-for-2024/"><u>[Updated] Masterclass in Connecting IG & TikTok for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-seamless-video-capture-and-save-with-top-apps-list/"><u>[Updated] Seamless Video Capture & Save with Top Apps List</u></a></li>
+<li><a href="https://discover-great.techidaily.com/iuwlleeuupluse3qombhuocveodleodiooduplusoctplusodpplusodgplusodioocqplusodgplusodioobpplusobrus4goaemuwpluocijog5l244ge5pa544ks44kk44ojig/"><u>動画編集ソフト・ショットカットでの一枚取り: 使い方ガイド</u></a></li>
+<li><a href="https://discover-great.techidaily.com/easy-guide-to-streamline-high-quality-audio-with-audio-merger/"><u>Easy Guide to Streamline High-Quality Audio with Audio Merger</u></a></li>
+<li><a href="https://discover-great.techidaily.com/easy-tips-and-tricks-how-to-view-mp4-videos-m4v-using-windows-software-solutions/"><u>Easy Tips & Tricks: How To View MP4 Videos (M4V) Using Windows Software Solutions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-conversion-from-mpeg4-to-mp3-a-comprehensive-guide-for-no-charge/"><u>Effortless Conversion From MPEG4 to MP3: A Comprehensive Guide for No Charge.</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-methods-for-streaming-dvd-movies-onto-an-ipad/"><u>Effortless Methods for Streaming DVD Movies Onto an iPad</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-techniques-for-saving-dailymotion-content-discover-the-top-3-strategies/"><u>Effortless Techniques for Saving DailyMotion Content - Discover the Top 3 Strategies!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/flac-and-mp3/"><u>FLAC & MP3間での変換技術：フォルダ単位で</u></a></li>
+<li><a href="https://discover-great.techidaily.com/free-techniques-for-converting-myspace-tunes-into-mp3-format/"><u>Free Techniques for Converting Myspace Tunes Into MP3 Format</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-create-an-animated-gif-from-m4v-video-format-comprehensive-tutorial/"><u>How to Create an Animated GIF From M4V Video Format – Comprehensive Tutorial</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-s18e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo S18e Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-a58-4g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo A58 4G for Free? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-quick-deletion-windows-customization-for-instant-removal/"><u>Unleashing Quick Deletion: Windows Customization for Instant Removal</u></a></li>
 </ul></div>
 

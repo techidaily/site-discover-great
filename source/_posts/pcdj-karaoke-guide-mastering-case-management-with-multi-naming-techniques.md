@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Karaoke Guide: Mastering Case Management with Multi-Naming Techniques"
-date: 2025-01-20T10:06:44.892Z
-updated: 2025-01-27T07:29:52.463Z
+date: 2025-02-03T04:12:08.387Z
+updated: 2025-02-09T07:43:43.478Z
 tags:
   - product
 categories:
@@ -23,13 +23,13 @@ We find many of our PCDJ customers have various naming conventions amongst their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### This video demonstrates how you can have karaoke songs with various naming conventions in one case in PCDJ Karaoki, and still have all the correct song data populate the proper fields:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -51,14 +51,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/karaokifeaturedimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-your-course-to-youtube-success-with-these-techniques-for-2024/"><u>[Updated] Chart Your Course to YouTube Success with These Techniques for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/conversor-rapido-de-mkv-a-avi-con-facilidad-metodologia-fina-por-movavi/"><u>Conversor Rápido De MKV a AVI Con Facilidad - Metodología Fina Por Movavi</u></a></li>
-<li><a href="https://discover-great.techidaily.com/efficiently-deleting-files-on-your-pc-expert-advice-by-yl-software-solutions/"><u>Efficiently Deleting Files on Your PC: Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://discover-great.techidaily.com/fastest-methods-to-power-off-your-pc-on-windows-11-expert-tips-from-yl-computing/"><u>Fastest Methods to Power Off Your PC on Windows 11: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://article-files.techidaily.com/masterclass-comprehensive-overview-of-dji-phantom-4/"><u>Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
-<li><a href="https://discover-great.techidaily.com/resolving-the-blue-screen-error-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving the Blue Screen Error on Windows: A Step-by-Step Guide - By YL Computing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-backlink-journey-paving-a-path-to-youtube-success-for-2024/"><u>The Backlink Journey Paving a Path to YouTube Success for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/troubleshooting-printer-driver-issues-expert-solutions-from-yl-computing/"><u>Troubleshooting Printer Driver Issues: Expert Solutions From YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/unveiling-confucius-wisdom-insights-from-ancient-philosophy-explore-with-yl-computing-solutions/"><u>Unveiling Confucius' Wisdom: Insights From Ancient Philosophy - Explore with YL Computing Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-channel-youtube-backlink-basics-for-2024/"><u>[New] Elevating Your Channel YouTube Backlink Basics for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-exploring-excellence-2024s-leading-camera-lenses-ranked-1-10/"><u>[New] Exploring Excellence 2024'S Leading Camera Lenses Ranked #1-10</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/continuous-network-card-connectivity-problems-expert-tips-for-resolution-by-yl-software/"><u>Continuous Network Card Connectivity Problems: Expert Tips for Resolution by YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/diagnosing-and-fixing-scanner-power-failures-expert-tips-by-yl-software/"><u>Diagnosing and Fixing Scanner Power Failures: Expert Tips by YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fix-your-print-job-woes-with-yls-guide-to-overcoming-spooler-errors/"><u>Fix Your Print Job Woes with YL's Guide to Overcoming Spooler Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 15 Plus</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-105-classic-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia 105 Classic Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/inizing-the-economics-behind-short-video-earnings-for-2024/"><u>Scrutinizing the Economics Behind Short Video Earnings for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-tailoring-your-windows-start-menu-with-ease-insights-by-yl-computing/"><u>Step-by-Step Guide: Tailoring Your Windows Start Menu with Ease - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultra-high-definition-4k-desktop-scenes-with-professional-quality-dual-screen-visuals-by-yl-computing/"><u>Ultra-High Definition 4K Desktop Scenes with Professional Quality: Dual Screen Visuals by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/unveiling-your-graphic-cards-secrets-manufacturer-and-model-guide-by-yl-software/"><u>Unveiling Your Graphic Card’s Secrets: Manufacturer and Model Guide by YL Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-jump-cutting-like-a-pro-in-fcpx-expert-techniques-revealed/"><u>Updated In 2024, Jump Cutting Like a Pro in FCPX Expert Techniques Revealed</u></a></li>
 </ul></div>
 
