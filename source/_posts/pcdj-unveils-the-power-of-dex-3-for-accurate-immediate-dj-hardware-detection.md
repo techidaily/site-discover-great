@@ -1,7 +1,7 @@
 ---
 title: PCDJ Unveils the Power of DEX 3 for Accurate, Immediate DJ Hardware Detection
-date: 2025-02-03T22:25:23.370Z
-updated: 2025-02-08T20:58:18.232Z
+date: 2025-02-15T18:18:58.743Z
+updated: 2025-02-19T01:51:27.306Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ What does “auto-detect in real-time” mean, exactly? You can now connect or d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-Detection Of DJ Controllers
@@ -33,7 +33,7 @@ Launch DEX 3.4 and connect (_or disconnect_) any [supported DJ controller](https
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/1389090069_4.jpg?fit=300%2C300&ssl=1 "Denon DJ MC6000 MKII")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thus, you can open DEX 3.4 without a DJ controller connected and then connect or remove up to 8 different controllers at the same time. DJ controllers will be detected and start working automatically, and immediately.
@@ -43,7 +43,7 @@ Auto DJ controller detection works on both Mac and Windows, and only in DEX 3.4 
 **(UPDATED): Important note for Windows DEX 3.4 users:** If you’re using a DJ controller that includes a built-in audio interface equipped with ASIO drivers, in order for the audio device to engage and start working properly when re-connecting a controller on-the-fly, you will need to select a different audio device from the select output device drop down menu under the audio tab in settings, then select the ASIO driver for the audio interface again from the select output device drop down menu (_this will re-engage the audio interface and ASIO will begin to work again_).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can Auto-DJ Controller Detection Be Useful?
@@ -53,7 +53,7 @@ The Real-time DJ controller detection feature is undoubtedly useful if a control
 ![Numark MixTrack Pro 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/Mixtrack-Pro-III.jpg?fit=300%2C169&ssl=1 "Numark MixTrack Pro 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Or, if you simply wants to hook an additional controller on the fly to control other features of DEX 3.4 – such as triggering samples from the sample players.
@@ -61,7 +61,7 @@ Or, if you simply wants to hook an additional controller on the fly to control o
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,16 +83,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/09/realtimecontrollerdetectio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/best-photo-slideshow-maker-how-to-make-a-photo-slideshow-2023-update/"><u>Best Photo Slideshow Maker How to Make a Photo Slideshow 2023 Update</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-see-notifications-on-your-iphone-here-are-7-ways-to-fix-them/"><u>Can't See Notifications on Your iPhone? Here Are 7 Ways to Fix Them</u></a></li>
-<li><a href="https://discover-great.techidaily.com/die-fuhrenden-kostenlosen-h265hevc-uhd-video-player-von-2022-updates-und-bestenliste-neu-aufgelegt/"><u>Die Führenden Kostenlosen H.265/HEVC UHD Video Player Von 2022: Updates Und Bestenliste Neu Aufgelegt</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effortless-conversion-techniques-for-vob-to-mp4-on-windows-and-macos-devices/"><u>Effortless Conversion Techniques for VOB to MP4 on Windows and macOS Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-persona-3-reload-not-launching/"><u>How to Fix Persona 3 Reload Not Launching</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-methods-for-enhancing-video-quality-and-reducing-jitters-on-any-platform/"><u>Step-by-Step Methods for Enhancing Video Quality and Reducing Jitters on Any Platform</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-6-gratuitose-mp4-video-umwandler-die-beste-auswahl-zur-optimalen-konvertierung/"><u>Top 6 Gratuitöse MP4-Video-Umwandler: Die Beste Auswahl Zur Optimalen Konvertierung</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transform-your-videos-instantly-convert-vob-to-mjpeg-at-no-cost-using-our-service/"><u>Transform Your Videos Instantly: Convert VOB to MJPEG at No Cost Using Our Service!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-stunning-4k-videos-with-these-top-editing-tools/"><u>Updated In 2024, Unleash Stunning 4K Videos with These Top Editing Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-zoom-recorders-handbook-from-basics-to-expertise/"><u>[New] 2024 Approved The Zoom Recorder's Handbook From Basics to Expertise</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-with-obs-essential-tips-for-android-users-for-2024/"><u>[New] Streamlining with OBS Essential Tips for Android Users for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-troubleshooting-your-computers-malfunction-insights-from-yl-computing-and-software-solutions/"><u>1. Troubleshooting Your Computer's Malfunction: Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-effortless-transfer-facebook-videos-from-pcmac/"><u>2024 Approved Effortless Transfer Facebook Videos From PC/Mac</u></a></li>
+<li><a href="https://discover-great.techidaily.com/devastating-mudslides-leave-13-dead-in-tajikistan-amidst-international-unrest-protests-erupt-over-israeli-syrian-relations-and-libyan-ministers-meetings-guo56/"><u>Devastating Mudslides Leave 13 Dead in Tajikistan Amidst International Unrest: Protests Erupt over Israeli-Syrian Relations and Libyan Minister's Meetings, Guo Taiming to Contest Taiwan Presidential Race as Independent Candidate</u></a></li>
+<li><a href="https://discover-great.techidaily.com/discover-exquisite-therizinosaurus-visual-designs-for-your-tech-gadgets-curated-by-yl-software/"><u>Discover Exquisite Therizinosaurus Visual Designs for Your Tech Gadgets - Curated by YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-boost-your-computers-speed-by-upgrading-memory-expert-insights-from-bytemaster-solutions/"><u>How to Boost Your Computer's Speed by Upgrading Memory – Expert Insights From ByteMaster Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-score-your-iphone-15-pro-max-for-pennies-on-the-dollar-with-this-exclusive-amazon-deal-revealed/"><u>How to Score Your iPhone 15 Pro Max for Pennies on the Dollar with This Exclusive Amazon Deal, Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-electronic-invoice-processing-with-abbyy-eine-umfassende-anleitung-fur-die-digitale-buchhaltung/"><u>Mastering Electronic Invoice Processing with ABBYY: Eine Umfassende Anleitung Für Die Digitale Buchhaltung</u></a></li>
+<li><a href="https://discover-great.techidaily.com/maximizing-browser-speed-expert-tips-from-yl-computings-latest-guide/"><u>Maximizing Browser Speed: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-playstation-error-codes-in-destiny-2-a-comprehensive-fixers-guide-for-pc-gamers/"><u>Overcoming PlayStation Error Codes in Destiny 2 - A Comprehensive Fixer's Guide for PC Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-your-windows-license-allows-a-single-display-language-mistake-a-step-by-step-guide/"><u>Resolving 'Your Windows License Allows a Single Display Language' Mistake: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-adding-libdvdcss-to-handbrake-on-your-mac-and-windows-10-device-for-dvd-conversion/"><u>Step-by-Step Guide: Adding Libdvdcss to Handbrake on Your Mac and Windows 10 Device for DVD Conversion</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-resolving-issues-with-undetected-network-cards-in-windows-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Resolving Issues with Undetected Network Cards in Windows - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-your-computers-energy-source-with-guidance-from-yl-software-experts/"><u>Troubleshooting Your Computer's Energy Source with Guidance From YL Software Experts</u></a></li>
 </ul></div>
 

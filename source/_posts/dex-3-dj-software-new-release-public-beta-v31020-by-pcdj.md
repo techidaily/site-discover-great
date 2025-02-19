@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2025-02-02T20:44:54.440Z
-updated: 2025-02-09T06:45:07.593Z
+date: 2025-02-14T23:34:46.545Z
+updated: 2025-02-19T02:23:26.349Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,24 +75,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-basics-of-animated-infographics-and-signage/"><u>[New] Basics of Animated Infographics and Signage</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-buy-smart-top-picks-for-high-definition-21-hdmi-screens/"><u>[New] Buy Smart Top Picks for High-Definition 2.1 HDMI Screens</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-craft-captivating-narratives-the-best-of-the-best-10-igtv-strategies-for-brands/"><u>[New] In 2024, Craft Captivating Narratives The Best of the Best 10 IGTV Strategies for Brands</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-save-big-on-data-stash-with-these-30-no-cost-up-to-1tbplus-cloud-services/"><u>[New] In 2024, Save Big on Data Stash with These 30 No-Cost, Up to 1TB+ Cloud Services</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-cost-effective-stratosphere-storage-for-large-archives/"><u>[Updated] 2024 Approved Cost-Effective Stratosphere Storage for Large Archives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-masterclass-in-connecting-ig-and-tiktok-for-2024/"><u>[Updated] Masterclass in Connecting IG & TikTok for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-seamless-video-capture-and-save-with-top-apps-list/"><u>[Updated] Seamless Video Capture & Save with Top Apps List</u></a></li>
-<li><a href="https://discover-great.techidaily.com/iuwlleeuupluse3qombhuocveodleodiooduplusoctplusodpplusodgplusodioocqplusodgplusodioobpplusobrus4goaemuwpluocijog5l244ge5pa544ks44kk44ojig/"><u>動画編集ソフト・ショットカットでの一枚取り: 使い方ガイド</u></a></li>
-<li><a href="https://discover-great.techidaily.com/easy-guide-to-streamline-high-quality-audio-with-audio-merger/"><u>Easy Guide to Streamline High-Quality Audio with Audio Merger</u></a></li>
-<li><a href="https://discover-great.techidaily.com/easy-tips-and-tricks-how-to-view-mp4-videos-m4v-using-windows-software-solutions/"><u>Easy Tips & Tricks: How To View MP4 Videos (M4V) Using Windows Software Solutions</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effortless-conversion-from-mpeg4-to-mp3-a-comprehensive-guide-for-no-charge/"><u>Effortless Conversion From MPEG4 to MP3: A Comprehensive Guide for No Charge.</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effortless-methods-for-streaming-dvd-movies-onto-an-ipad/"><u>Effortless Methods for Streaming DVD Movies Onto an iPad</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effortless-techniques-for-saving-dailymotion-content-discover-the-top-3-strategies/"><u>Effortless Techniques for Saving DailyMotion Content - Discover the Top 3 Strategies!</u></a></li>
-<li><a href="https://discover-great.techidaily.com/flac-and-mp3/"><u>FLAC & MP3間での変換技術：フォルダ単位で</u></a></li>
-<li><a href="https://discover-great.techidaily.com/free-techniques-for-converting-myspace-tunes-into-mp3-format/"><u>Free Techniques for Converting Myspace Tunes Into MP3 Format</u></a></li>
-<li><a href="https://discover-great.techidaily.com/how-to-create-an-animated-gif-from-m4v-video-format-comprehensive-tutorial/"><u>How to Create an Animated GIF From M4V Video Format – Comprehensive Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-s18e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo S18e Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-a58-4g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo A58 4G for Free? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-quick-deletion-windows-customization-for-instant-removal/"><u>Unleashing Quick Deletion: Windows Customization for Instant Removal</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/omparing-profits-from-high-ranking-youtube-videos-for-2024/"><u>[New] Comparing Profits From High-Ranking YouTube Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/come-convertire-i-flussi-ts-in-formati-mp4-di-alta-qualita-con-4-strategie-semplici-e-efficaci/"><u>Come Convertire I Flussi TS in Formati MP4 Di Alta Qualità Con 4 Strategie Semplici E Efficaci</u></a></li>
+<li><a href="https://discover-great.techidaily.com/digiarty-software-directory-comprehensive-list-of-dvd-conversion-tools-and-movie-ripping-applications/"><u>Digiarty Software Directory: Comprehensive List of DVD Conversion Tools & Movie Ripping Applications</u></a></li>
+<li><a href="https://discover-great.techidaily.com/essential-skills-for-elevating-your-images-unlock-the-secrets-of-professional-photo-editing/"><u>Essential Skills for Elevating Your Images: Unlock the Secrets of Professional Photo Editing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/guide-simple-pour-telecharger-le-convertisseur-video-en-mp3-et-recuperer-laudio-gratuit/"><u>Guide Simple Pour Télécharger Le Convertisseur VIDEO en MP3 Et Récupérer L'audio - Gratuit !</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reverse-image-syndrome-explaining-sideways-ig-vids/"><u>In 2024, Reverse Image Syndrome Explaining Sideways IG Vids</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-simplified-guide-integrating-snapchat-with-your-mac/"><u>In 2024, Simplified Guide Integrating Snapchat with Your Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-ai-in-data-science-chatgpts-six-critical-applications/"><u>Integrating AI in Data Science: ChatGPT's Six Critical Applications</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-dual-recording-techniques-for-taping-both-screens-and-live-action/"><u>Mastering Dual Recording: Techniques for Taping Both Screens and Live Action</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-locating-excel-comments-with-ease-expert-tips-for-effective-searches/"><u>Navigating and Locating Excel Comments with Ease: Expert Tips for Effective Searches</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-11-compatibility-a-step-by-step-guide-to-installing-and-using-the-h265-codec-for-hevc-video-files/"><u>Windows 11 Compatibility: A Step-by-Step Guide to Installing and Using the H.265 Codec for HEVC Video Files</u></a></li>
 </ul></div>
 

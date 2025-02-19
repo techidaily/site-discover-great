@@ -1,7 +1,7 @@
 ---
 title: "Explore DEX 3'S Key Functionality: Instant DJ Controller Recognition by Pioneer"
-date: 2025-02-05T03:13:58.437Z
-updated: 2025-02-08T21:06:09.805Z
+date: 2025-02-17T22:30:46.353Z
+updated: 2025-02-18T23:31:09.710Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ What does “auto-detect in real-time” mean, exactly? You can now connect or d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-Detection Of DJ Controllers
@@ -33,7 +33,7 @@ Launch DEX 3.4 and connect (_or disconnect_) any [supported DJ controller](https
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/1389090069_4.jpg?fit=300%2C300&ssl=1 "Denon DJ MC6000 MKII")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thus, you can open DEX 3.4 without a DJ controller connected and then connect or remove up to 8 different controllers at the same time. DJ controllers will be detected and start working automatically, and immediately.
@@ -43,7 +43,7 @@ Auto DJ controller detection works on both Mac and Windows, and only in DEX 3.4 
 **(UPDATED): Important note for Windows DEX 3.4 users:** If you’re using a DJ controller that includes a built-in audio interface equipped with ASIO drivers, in order for the audio device to engage and start working properly when re-connecting a controller on-the-fly, you will need to select a different audio device from the select output device drop down menu under the audio tab in settings, then select the ASIO driver for the audio interface again from the select output device drop down menu (_this will re-engage the audio interface and ASIO will begin to work again_).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can Auto-DJ Controller Detection Be Useful?
@@ -53,7 +53,7 @@ The Real-time DJ controller detection feature is undoubtedly useful if a control
 ![Numark MixTrack Pro 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/Mixtrack-Pro-III.jpg?fit=300%2C169&ssl=1 "Numark MixTrack Pro 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Or, if you simply wants to hook an additional controller on the fly to control other features of DEX 3.4 – such as triggering samples from the sample players.
@@ -61,7 +61,7 @@ Or, if you simply wants to hook an additional controller on the fly to control o
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,22 +83,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/09/realtimecontrollerdetectio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximize-impact-strategic-viewing-hours-schedule/"><u>[Updated] 2024 Approved Maximize Impact Strategic Viewing Hours Schedule</u></a></li>
-<li><a href="https://discover-great.techidaily.com/diy-pc/"><u>「DIYビデオ編集 - PC上で簡単なステップバイステップチュートリアル」</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1726030005616-mp3/"><u>「MP3プレイヤーで音楽を再生するたびに解決法」</u></a></li>
-<li><a href="https://discover-great.techidaily.com/acquire-distinctive-video-branding-with-our-exclusive-fox-watermark-products/"><u>Acquire Distinctive Video Branding with Our Exclusive Fox Watermark Products</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-top-rated-free-mov-to-avi-convertors-a-selection-of-7-amazing-tools/"><u>Best Top-Rated FREE Mov to AVI Convertors: A Selection of 7 Amazing Tools</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-video-conversion-tools-for-samsung-galaxy-s3-a-comprehensive-guide/"><u>Best Video Conversion Tools for Samsung Galaxy S3: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-great.techidaily.com/discover-the-best-free-tools-mp4-editor-applications-compatible-with-both-windows-and-macos/"><u>Discover the Best Free Tools: MP4 Editor Applications Compatible with Both Windows and macOS</u></a></li>
-<li><a href="https://discover-great.techidaily.com/discover-the-best-sites-for-free-online-anime-viewing-including-animeseason-and-alternatives/"><u>Discover the Best Sites for Free Online Anime Viewing, Including Animeseason and Alternatives</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/elevate-performance-microns-newest-mrdimms-hit-the-market-compatible-with-intel-xeon-systems/"><u>Elevate Performance: Micron's Newest MRDIMMs Hit the Market, Compatible with Intel Xeon Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-window-fuzziness-boost-productivity/"><u>Fix Window Fuzziness, Boost Productivity</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-creating-high-impact-yt-cover-images/"><u>In 2024, Creating High-Impact YT Cover Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-rotational-photography-versus-3d-scanning/"><u>In 2024, Full-Rotational Photography versus 3D Scanning</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-appearance-in-apples-audio-library/"><u>In 2024, Mastering Appearance in Apple's Audio Library</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/real-time-streaming-solutions-explore-manycam-the-ultimate-live-video-and-virtually-camouflaged-software/"><u>Real-Time Streaming Solutions: Explore ManyCam, the Ultimate Live Video and Virtually Camouflaged Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-apple-watch-ultra-2-anticipated-release-dates-pricing-speculations-and-feature-teasers/"><u>Unveiling the Apple Watch Ultra 2: Anticipated Release Dates, Pricing Speculations & Feature Teasers</u></a></li>
-<li><a href="https://common-error.techidaily.com/valorant-lag-issue-solved-escape-from-the-infinite-wait-screen/"><u>Valorant Lag Issue Solved: Escape From the Infinite Wait Screen</u></a></li>
-<li><a href="https://discover-great.techidaily.com/44kz44oz44ou44ol44o844k44gn44cm44k544od44o844oe44ow44or44cn44op44kk44ow6ywn5lplush44gu6yyy55s75oml6acg6kmz44gx44gp6kej6kqs/"><u>コンピュータで「スポーツブル」ライブ配信の録画手順詳しく解説</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-advanced-zooming-methods-for-distance-communication-with-msteams/"><u>[New] 2024 Approved Advanced Zooming Methods for Distance Communication with MSTEAMS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-elevate-content-impact-exclusive-access-to-the-best-20-tiktok-caption-hacks/"><u>[New] Elevate Content Impact Exclusive Access to the Best 20 TikTok Caption Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[Updated] 2024 Approved Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-who-are-you-unraveling-youtuber-personalities-in-6-quizzes/"><u>[Updated] Who Are You? Unraveling YouTuber Personalities in 6 Quizzes</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-guide-facile-comment-restaurer-un-fichier-video-mp4-endommage-sans-cout-sur-windows-et-mac/"><u>1. Guide Facile: Comment Restaurer Un Fichier Vidéo MP4 Endommagé Sans Coût Sur Windows Et Mac</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-speedy-and-top-notch-guide-crafting-a-gif-from-various-video-formats-like-mp4-mov-and-more/"><u>1) Speedy and Top-Notch Guide: Crafting a GIF From Various Video Formats Like MP4, MOV, and More</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-flawlessai-imager-perfected-photo-processes/"><u>2024 Approved FlawlessAI Imager Perfected Photo Processes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hevch265-windows-10-11/"><u>動画再生エラー HEVC/H.265の原因と解決策: Windows 10, 11用無料ソリューションガイド</u></a></li>
+<li><a href="https://discover-great.techidaily.com/10/"><u>新型コロナで子どもたちのお楽しみ！家で見られる安全な映画トップ10 - 全編無料ストリーミング</u></a></li>
+<li><a href="https://discover-great.techidaily.com/analyse-complete-des-caracteristiques-technnologiques-dai-winxvideo-documentation-autorisee/"><u>Analyse Complète Des Caractéristiques Technnologiques D'AI Winxvideo - Documentation Autorisée</u></a></li>
+<li><a href="https://discover-great.techidaily.com/best-methods-to-safeguard-and-recover-data-on-your-iphone-15-top-3-tips/"><u>Best Methods to Safeguard & Recover Data on Your iPhone 15: Top 3 Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experts-reveal-the-easy-way-to-reboot-your-acer-laptop-from-scratch/"><u>Experts Reveal: The Easy Way to Reboot Your Acer Laptop From Scratch</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fluide-interpolation-dimages-par-ia-amelioration-des-fps-et-transitions/"><u>Fluide Interpolation D'Images Par IA : Amélioration Des FPS Et Transitions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/gpu-accelerato-winxvideo-ai-trasforma-i-tuoi-videoclip-e-registrazioni-in-solo-secondi/"><u>GPU Accelerato WinxVideo AI - Trasforma I Tuoi Videoclip E Registrazioni in Solo Secondi!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v27e-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo V27e to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/optimal-handbrake-configuration-finding-the-perfect-rf-ratio-for-hd-conversion/"><u>Optimal Handbrake Configuration: Finding the Perfect RF Ratio for HD Conversion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-microsoft-surface-laptop-5-a-closer-look-at-its-resemblance-to-past-models/"><u>Unveiling the Microsoft Surface Laptop 5 - A Closer Look at Its Resemblance to Past Models!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-breathe-new-life-into-your-mac-a-guide-to-freeing-up-space-and-improving-fcpx-performance/"><u>Updated 2024 Approved Breathe New Life Into Your Mac A Guide to Freeing Up Space and Improving FCPX Performance</u></a></li>
+<li><a href="https://discover-great.techidaily.com/welcome-to-digiarty-software-inc-your-guide-to-winxdvd-solutions/"><u>Welcome to Digiarty Software, Inc. - Your Guide to WinXDVD Solutions</u></a></li>
 </ul></div>
 

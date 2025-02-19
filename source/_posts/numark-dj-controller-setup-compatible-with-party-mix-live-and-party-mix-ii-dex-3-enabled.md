@@ -1,7 +1,7 @@
 ---
 title: "Numark DJ Controller Setup: Compatible with Party Mix Live & Party Mix II - Dex 3 Enabled"
-date: 2025-02-06T10:09:40.950Z
-updated: 2025-02-09T09:02:32.189Z
+date: 2025-02-17T19:16:51.574Z
+updated: 2025-02-19T08:47:19.732Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix Live ($179 at most online retailers)
@@ -33,13 +33,13 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 [![Numark Party Mix Live](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixLive_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix Live")](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixLive%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is packed with all the core features DJs need, whether you’re new to DJing or longtime pro. Built-in speakers fill the room with dynamic sound and integrated LED lights create a beat-synchronized light show. Four performance pads on each deck allow quick access to effects, cue points, loops or samples. Play, Cue and Sync buttons provide complete playback control and access to automatic tempo matching between tracks on each deck for perfectly aligned mixes. Large, touch-sensitive jog wheels allow you to pause, backspin and even scratch tracks as you work through your playlist. An outer jog-wheel functions as pitch-bend so you can nudge tracks into alignment for the perfect blend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix II ($129 at most online retailers)
@@ -47,7 +47,7 @@ The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is pa
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixMKII_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix II")](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixMKII%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Based on the original Party Mix Controller, the [Numark Party Mix II](https://www.numark.com/product/party-mix-ii) DJ Controller is packed with all the DJ performance essentials and a built in ‘light show’. The essential DJ controller features include large touch-sensitive jog wheels for scratching, large Filter effect knobs on each deck, Sync, play/pause and Cue buttons, pitch sliders for tempo adjustments, performance pads with various modes, library controls for scrolling and loading tracks, 2-band EQ on each deck, and for output a 1/8″ headphone jack and 1/8″ main output jack. The light show is projected by three multi-colored LEDs with wide-coverage lenses for a room-filling, beat-synchronized light show. With five lighting modes to choose from, finding the right vibe for your party is a snap.
@@ -64,7 +64,7 @@ Based on the original Party Mix Controller, the [Numark Party Mix II](https://ww
 _Have questions about the **Numark Party Mix II** or **Numark Party Mix Live** and how they work with our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,18 +86,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/06/cover-partymix-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-modify-twitter-video-capture-image/"><u>[New] 2024 Approved Modify Twitter Video Capture Image</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ropel-your-youtube-presence-via-advanced-creator-studio-techniques-for-2024/"><u>[New] Propel Your Youtube Presence via Advanced Creator Studio Techniques for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>[Updated] Breathing Life Into Images Mastering Face Motion Blur in Picsart</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-master-10-social-media-movies-for-2024/"><u>[Updated] Master 10 Social-Media Movies for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-seal-of-credibility-writing-journalisms-finale/"><u>[Updated] Seal of Credibility Writing Journalism's Finale</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-science-of-swift-facebook-visuals/"><u>2024 Approved The Science of Swift Facebook Visuals</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor 90 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725285780907-digiarty/"><u>Digiarty 제품으로 고객실을 개선하는 데 도움이 되는 모든 사양에 대한 통찰</u></a></li>
-<li><a href="https://discover-great.techidaily.com/fix-your-broken-dji-footage-top-5-strategies-for-repairing-phantom-drone-videos/"><u>Fix Your Broken DJI Footage - Top 5 Strategies for Repairing Phantom Drone Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hasten-artistic-touch-ups-on-windows-10-photos/"><u>In 2024, Hasten Artistic Touch-Ups on Windows 10 Photos</u></a></li>
-<li><a href="https://discover-great.techidaily.com/quick-and-efficient-conversion-top-10-methods-to-transform-ts-into-hd-mp4-format/"><u>Quick and Efficient Conversion: Top 10 Methods to Transform TS Into HD MP4 Format</u></a></li>
-<li><a href="https://discover-great.techidaily.com/reverse-the-upgrades-a-comprehensive-guide-to-switching-from-windows-881-to-windows-7-professional/"><u>Reverse the Upgrades: A Comprehensive Guide to Switching From Windows 8/8.1 to Windows 7 Professional</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-6-proven-artificial-intelligence-tools-for-enhancing-video-quality/"><u>Top 6 Proven Artificial Intelligence Tools for Enhancing Video Quality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-hololens-by-microsoft-envisioning-the-augmented-tomorrow/"><u>[Updated] 2024 Approved HoloLens By Microsoft Envisioning the Augmented Tomorrow</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-audience-focus-top-webcams-that-bring-life-to-podcasts/"><u>2024 Approved Audience Focus Top Webcams That Bring Life to Podcasts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/customizing-your-sound-experience-in-windows-11-enable-or-disable-system-alerts-easily-digitaltipspro/"><u>Customizing Your Sound Experience in Windows 11: Enable or Disable System Alerts Easily - DigitalTipsPro</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-ethernet-connectivity-issues-on-your-windows-desktop/"><u>How to Solve Ethernet Connectivity Issues on Your Windows Desktop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479388504-iphone-alarm-issues-heres-how-to-make-it-work-perfectly/"><u>IPhone Alarm Issues? Here’s How to Make It Work Perfectly</u></a></li>
+<li><a href="https://discover-great.techidaily.com/speeding-up-your-machine-tips-for-identifying-and-uninstalling-slow-programs-insights-from-yl-computing-solutions/"><u>Speeding Up Your Machine: Tips for Identifying & Uninstalling Slow Programs - Insights From YL Computing Solutions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/starbucks-collection-high-quality-walls-desktops-and-screensavers-digital-art-by-yl-creations/"><u>Starbucks Collection: High-Quality Walls, Desktops & Screensavers - Digital Art by YL Creations</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-security-compromise-message-in-games/"><u>Troubleshooting the 'Security Compromise' Message in Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-honor-90-gt-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor 90 GT FRP Bypass</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-distinct-features-of-32-bit-vs/"><u>Understanding the Distinct Features of 32-Bit Vs</u></a></li>
 </ul></div>
 

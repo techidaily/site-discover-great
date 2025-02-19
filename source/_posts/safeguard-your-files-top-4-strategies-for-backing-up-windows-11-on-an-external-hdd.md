@@ -1,7 +1,7 @@
 ---
 title: "Safeguard Your Files: Top 4 Strategies for Backing Up Windows 11 on an External HDD"
-date: 2024-12-25T20:14:28.422Z
-updated: 2024-12-29T19:39:29.344Z
+date: 2025-02-13T01:30:48.889Z
+updated: 2025-02-19T10:36:58.950Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45bb38823ea9696084a32865c.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
@@ -54,7 +50,11 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -77,10 +77,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -99,10 +95,6 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -120,6 +112,10 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -180,7 +176,7 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -217,6 +213,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -248,7 +248,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -262,7 +262,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,24 +280,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-unleash-your-adventure-with-panasonics-cutting-edge-hx-a1-cam-for-2024/"><u>[Updated] Unleash Your Adventure with Panasonic's Cutting-Edge HX-A1 Cam for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-whats-sweeping-the-web-dive-into-these-8-trending-videos-for-2024/"><u>[Updated] What's Sweeping the Web? Dive Into These 8 Trending Videos for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/diy-pc-upgrades-how-to-swap-out-your-hardware-parts-professionally-guided-by-yl-software-experts/"><u>DIY PC Upgrades: How to Swap Out Your Hardware Parts Professionally, Guided by YL Software Experts</u></a></li>
-<li><a href="https://discover-great.techidaily.com/easy-guide-changing-your-screen-resolution-on-windows-via-control-panel-tips-by-yl-computing/"><u>Easy Guide: Changing Your Screen Resolution on Windows via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effective-methods-for-cleansing-your-pc-input-devices-with-guidance-from-yl-software/"><u>Effective Methods for Cleansing Your PC Input Devices with Guidance From YL Software</u></a></li>
-<li><a href="https://discover-great.techidaily.com/essential-routine-computer-care-ensuring-peak-performance-for-your-pc-insights-by-yl-computing/"><u>Essential Routine Computer Care: Ensuring Peak Performance for Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/exploring-methods-to-access-your-windows-control-panel-tips-from-yl-computing/"><u>Exploring Methods to Access Your Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-right-printer-driver-for-brother-mfc-9130cw-free-download-options/"><u>Get the Right Printer Driver for Brother MFC-9130CW - Free Download Options</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-gt-5-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme GT 5 Pro Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-sony-xperia-10-v-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Sony Xperia 10 V?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-connect-and-share-youtube-in-instagrams-ecosystem/"><u>In 2024, Connect & Share YouTube in Instagram's Ecosystem</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-title-crafting-with-top-10-ai-tools-for-2024/"><u>Innovative Title Crafting with Top 10 AI Tools for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/learn-how-the-reloop-mixtour-controller-is-integrated-with-dex-3-the-ultimate-guide-for-dj-tech/"><u>Learn How the Reloop Mixtour Controller Is Integrated with Dex 3: The Ultimate Guide for Dj Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/m4vavimovavi/"><u>M4V與AVI間自由過渡：Movavi影片格式變更器</u></a></li>
-<li><a href="https://win-forum.techidaily.com/overcoming-restrictions-a-how-to-on-running-windows-11-with-unsupported-chips/"><u>Overcoming Restrictions: A How-To on Running Windows 11 with Unsupported Chips</u></a></li>
-<li><a href="https://discover-great.techidaily.com/resolving-windows-performance-issues-post-new-software-expert-advice-by-yl-solutions-inc/"><u>Resolving Windows Performance Issues Post-New Software: Expert Advice by YL Solutions Inc.</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-guide-adjusting-your-privacy-preferences-via-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Privacy Preferences via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/yl-software-insights-the-ultimate-how-to-for-installing-operating-systems-on-pcs/"><u>YL Software Insights: The Ultimate How-To for Installing Operating Systems on PCs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-9-ultimate-free-online-editors-for-content-creators/"><u>[New] In 2024, 9 Ultimate Free Online Editors for Content Creators</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-playlist-extraction-made-simple-download-steps-revealed-for-2024/"><u>[Updated] Playlist Extraction Made Simple Download Steps Revealed for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1-wie-finde-ich-meine-gespeicherte-videodateien-lokalisierung-und-wiederherstellung-im-internet/"><u>1. Wie Finde Ich Meine Gespeicherte Videodateien? Lokalisierung Und Wiederherstellung Im Internet</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-7hddssd/"><u>无数据丢失的情况下将动态驱动器在Windows 7上複製到HDD/SSD</u></a></li>
+<li><a href="https://discover-great.techidaily.com/complete-guide-downloading-shared-icloud-images-and-videos-from-your-iphone/"><u>Complete Guide: Downloading Shared iCloud Images & Videos From Your iPhone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/enhance-your-gaming-experience-by-boosting-steam-deck-ssd-with-clonezilla-or-comparable-tools/"><u>Enhance Your Gaming Experience by Boosting Steam Deck SSD with Clonezilla or Comparable Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-directories-unencumbered-visuals-galore-for-2024/"><u>Essential Directories Unencumbered Visuals Galore for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-reviews-the-leading-wi-fi-extenders-on-the-market-this-year/"><u>Expert Reviews: The Leading Wi-Fi Extenders on the Market This Year</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-itel-p40plus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Itel P40+</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c65-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C65 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/praktische-schritte-zum-schutz-ihrer-daten-handhabung-bei-fehlerhafterer-windows-startup/"><u>Praktische Schritte Zum Schutz Ihrer Daten – Handhabung Bei Fehlerhafterer Windows-Startup</u></a></li>
+<li><a href="https://discover-great.techidaily.com/schnelle-losung-steigern-sie-die-geschwindigkeit-ihres-windows-11-ssds-die-top-2-methoden/"><u>Schnelle Lösung: Steigern Sie Die Geschwindigkeit Ihres Windows 11 SSDs - Die TOP 2 Methoden</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-the-rpcrt4dll-file-unavailable-issue/"><u>Solutions for Resolving the 'rpcrt4.dll' File Unavailable Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-strategies-tailoring-your-microphone-to-align-with-your-youtube-channel-for-2024/"><u>Sound Strategies Tailoring Your Microphone to Align With Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/successful-fix-restore-your-ios-device-post-update-15-data-loss/"><u>Successful Fix: Restore Your iOS Device Post-Update 15 Data Loss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/upgrade-images-to-ultra-high-definition-uhd-using-winxvideo-artificial-intelligence/"><u>Upgrade Images to Ultra-High Definition (UHD) Using WinxVideo Artificial Intelligence</u></a></li>
 </ul></div>
 
