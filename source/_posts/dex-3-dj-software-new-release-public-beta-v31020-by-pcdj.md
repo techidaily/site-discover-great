@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ"
-date: 2025-02-14T23:34:46.545Z
-updated: 2025-02-19T02:23:26.349Z
+date: 2025-03-04T17:13:26.894Z
+updated: 2025-03-07T20:05:36.914Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
 
 * Reorder user lists (playlists) in the browser by dragging them with the mouse
@@ -51,10 +47,6 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _**Installation Instructions:** With your existing version of DEX 3 Pro closed, download and install version 3.10.2.0\. If you experience any issues running the new public beta please report your findings in the [Official PCDJ User Group](https://tools.techidaily.com/pcdj/products/)._
 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -75,16 +67,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/omparing-profits-from-high-ranking-youtube-videos-for-2024/"><u>[New] Comparing Profits From High-Ranking YouTube Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/come-convertire-i-flussi-ts-in-formati-mp4-di-alta-qualita-con-4-strategie-semplici-e-efficaci/"><u>Come Convertire I Flussi TS in Formati MP4 Di Alta Qualità Con 4 Strategie Semplici E Efficaci</u></a></li>
-<li><a href="https://discover-great.techidaily.com/digiarty-software-directory-comprehensive-list-of-dvd-conversion-tools-and-movie-ripping-applications/"><u>Digiarty Software Directory: Comprehensive List of DVD Conversion Tools & Movie Ripping Applications</u></a></li>
-<li><a href="https://discover-great.techidaily.com/essential-skills-for-elevating-your-images-unlock-the-secrets-of-professional-photo-editing/"><u>Essential Skills for Elevating Your Images: Unlock the Secrets of Professional Photo Editing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/guide-simple-pour-telecharger-le-convertisseur-video-en-mp3-et-recuperer-laudio-gratuit/"><u>Guide Simple Pour Télécharger Le Convertisseur VIDEO en MP3 Et Récupérer L'audio - Gratuit !</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-reverse-image-syndrome-explaining-sideways-ig-vids/"><u>In 2024, Reverse Image Syndrome Explaining Sideways IG Vids</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-simplified-guide-integrating-snapchat-with-your-mac/"><u>In 2024, Simplified Guide Integrating Snapchat with Your Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-ai-in-data-science-chatgpts-six-critical-applications/"><u>Integrating AI in Data Science: ChatGPT's Six Critical Applications</u></a></li>
-<li><a href="https://discover-great.techidaily.com/mastering-dual-recording-techniques-for-taping-both-screens-and-live-action/"><u>Mastering Dual Recording: Techniques for Taping Both Screens and Live Action</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-and-locating-excel-comments-with-ease-expert-tips-for-effective-searches/"><u>Navigating and Locating Excel Comments with Ease: Expert Tips for Effective Searches</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-11-compatibility-a-step-by-step-guide-to-installing-and-using-the-h265-codec-for-hevc-video-files/"><u>Windows 11 Compatibility: A Step-by-Step Guide to Installing and Using the H.265 Codec for HEVC Video Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-dominating-the-igtv-space-a-guide-to-massive-viewership-growth/"><u>[New] 2024 Approved Dominating the IGTV Space A Guide to Massive Viewership Growth</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos/"><u>[New] 2024 Approved The Art of Inverted Investigation Finding True Sources on Instagram Photos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-tips-for-webinar-preservation-without-hurdles-windows-macos-for-2024/"><u>[Updated] Top Tips for Webinar Preservation without Hurdles (Windows, macOS) for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/34k-btc-price-level-fails-to-hold-expert-traders-weigh-in-on-critical-turning-points-analysis-by-yl-computing-and-yl-software-solutions/"><u>$34K BTC Price Level Fails to Hold: Expert Traders Weigh In on Critical Turning Points – Analysis by YL Computing and YL Software Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-for-virtual-thrills-mozas-full-package/"><u>$499 for Virtual Thrills - MOZA's Full Package</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-masterclass-analyzing-the-updated-lg-bp550/"><u>2024 Approved Masterclass Analyzing the Updated LG BP550</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287005085-dvdmp4/"><u>速度と品質を重視したDVD動画の変換手順集【MP4編成】</u></a></li>
+<li><a href="https://discover-great.techidaily.com/boost-your-gpus-efficiency-expert-tips-and-strategies-learn-from-yl-computing-experts/"><u>Boost Your GPU's Efficiency: Expert Tips & Strategies - Learn From YL Computing Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/butterfly-effect/"><u>Butterfly Effect.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-the-ultimate-gaming-iphone-tips-and-reviews-from-experts/"><u>Choosing the Ultimate Gaming iPhone: Tips and Reviews From Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/diy-pc-upgrades-how-to-swap-out-your-hardware-parts-professionally-guided-by-yl-software-experts/"><u>DIY PC Upgrades: How to Swap Out Your Hardware Parts Professionally, Guided by YL Software Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/explore-dex-3s-key-functionality-instant-dj-controller-recognition-by-pioneer/"><u>Explore DEX 3'S Key Functionality: Instant DJ Controller Recognition by Pioneer</u></a></li>
+<li><a href="https://discover-great.techidaily.com/exploring-methods-to-access-your-windows-control-panel-tips-from-yl-computing/"><u>Exploring Methods to Access Your Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-x50-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor X50</u></a></li>
 </ul></div>
 

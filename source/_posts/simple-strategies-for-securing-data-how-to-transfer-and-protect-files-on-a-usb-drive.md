@@ -1,7 +1,7 @@
 ---
 title: "Simple Strategies for Securing Data: How to Transfer & Protect Files on a USB Drive"
-date: 2025-02-13T05:00:46.944Z
-updated: 2025-02-19T02:19:59.359Z
+date: 2025-03-06T16:48:47.330Z
+updated: 2025-03-07T16:26:06.706Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af9216aa863bdd663f250b5d16d.jpg
@@ -68,20 +68,12 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -97,10 +89,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -110,10 +98,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -158,10 +142,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -190,18 +170,10 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -210,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -273,15 +241,7 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,24 +258,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leveraging-luminaries-for-greater-exposure/"><u>[New] Leveraging Luminaries for Greater Exposure</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-path-to-flawless-video-subtitles-via-internet-services-for-2024/"><u>[New] The Ultimate Path to Flawless Video Subtitles via Internet Services for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-launch-any-video-projects-with-free-kits/"><u>[Updated] Launch Any Video Projects with Free Kits</u></a></li>
-<li><a href="https://discover-great.techidaily.com/comprehensive-guide-to-rotating-videos-effortlessly-using-adobe-premiere-pro/"><u>Comprehensive Guide to Rotating Videos Effortlessly Using Adobe Premiere Pro</u></a></li>
-<li><a href="https://discover-great.techidaily.com/descifra-el-bloqueo-de-region-dvd-guia-paso-a-paso-para-convertir-un-disco-a-region-independiente-en-windows-11-8-o-7/"><u>Descifra El Bloqueo De Región DVD: Guía Paso a Paso Para Convertir Un Disco a Región-Independiente en Windows 11, 8 O 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fostering-your-style-in-chatgpts-language-outputs/"><u>Fostering Your Style in ChatGPT's Language Outputs</u></a></li>
-<li><a href="https://discover-great.techidaily.com/gopro-4k-guide-creative-movie-production-editing-hacks-fixing-replay-glitches-plus-frequently-asked-questions-explained/"><u>GoPro 4K Guide - Creative Movie Production, Editing Hacks, Fixing Replay Glitches + Frequently Asked Questions Explained</u></a></li>
-<li><a href="https://discover-great.techidaily.com/h265-hevc-codec-free-download-for-ultra-high-resolution-video-playback-at-4k-and-8k-quality/"><u>H.265 HEVC Codec Free Download for Ultra-High Resolution Video Playback at 4K and 8K Quality</u></a></li>
-<li><a href="https://discover-great.techidaily.com/handbuch-zur-nutzung-von-winx-mediatrans-fur-den-sicheren-transfer-von-medieninhalten-auf-ihr-gerat/"><u>Handbuch Zur Nutzung Von WinX MediaTrans Für Den Sicheren Transfer Von Medieninhalten Auf Ihr Gerät</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capture-the-moment-idevice-screenshots-and-playback/"><u>In 2024, Capture the Moment IDevice Screenshots & Playback</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>In 2024, From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
-<li><a href="https://discover-great.techidaily.com/master-your-media-expert-dvd-and-video-transformation-with-digiartys-top-notch-converter/"><u>Master Your Media: Expert DVD & Video Transformation with Digiarty's Top-Notch Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/professionelles-vergleichstest-fur-dvd-extrakteure-winx-vs-handbrake-welcher-ist-fuhrend-im-kampf-um-freie-software/"><u>Professionelles Vergleichstest Für DVD-Extrakteure: WinX Vs. HandBrake - Welcher Ist Führend Im Kampf Um Freie Software?</u></a></li>
-<li><a href="https://discover-great.techidaily.com/schnelle-und-verlustfreie-umwandlung-von-mkv-zu-mp4-eine-einfache-anleitung/"><u>Schnelle Und Verlustfreie Umwandlung Von MKV Zu MP4: Eine Einfache Anleitung</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-tutorial-on-image-blending-using-midjourney-for-newbies/"><u>Step-by-Step Tutorial on Image Blending Using Midjourney for Newbies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/swap-periscope-for-success-best-replacements-for-iphoneandroid/"><u>Swap Periscope for Success Best Replacements for iPhone/Android</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-techniques-pour-rendre-les-fichiers-video-mov-plus-petits-et-convenables/"><u>Top Techniques Pour Rendre Les Fichiers Video MOV Plus Petits Et Convenables</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-mobile-typing-how-logitech-elevates-convenience-with-keys-to-go/"><u>Transforming Mobile Typing: How Logitech Elevates Convenience With Keys-To-Go ^</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/44or44k944kz44oz5lik44gn44k544oe44ob5pig5yop5pon5l2c6kgt44cm5bplusc55so55qe44gq5oml5byv44gn44cnic0g55u05osf55qe6kej5rov/"><u>パソコン上でスマホ映像操作術「応用的な手引き」 - 直感的解法</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-basics-to-alternatives-understanding-vidmas-capture-software/"><u>[New] 2024 Approved From Basics to Alternatives Understanding Vidma's Capture Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/designing-your-own-hotkey-system-for-personal-efficiency/"><u>Designing Your Own Hotkey System for Personal Efficiency</u></a></li>
+<li><a href="https://discover-great.techidaily.com/extend-your-devices-uptime-effective-battery-optimization-for-windows-nk-insights-by-yl-software/"><u>Extend Your Device’s Uptime: Effective Battery Optimization for Windows Nk - Insights by YL Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/get-the-most-out-of-your-tech-how-to-roll-out-new-hardware-updates-with-guidance-from-yl-software-professionals/"><u>Get the Most Out of Your Tech: How to Roll Out New Hardware Updates with Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://discover-great.techidaily.com/how-to-fix-windows-start-menu-glitches-insights-from-yl-software-professionals/"><u>How to Fix Windows Start Menu Glitches: Insights From YL Software Professionals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-f5-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco F5 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/identifying-the-root-of-sound-problems-in-your-pc-insights-by-yl-computing/"><u>Identifying the Root of Sound Problems in Your PC - Insights by YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-8t-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 8T 5G FRP Bypass</u></a></li>
+<li><a href="https://discover-great.techidaily.com/navigating-fees-and-taxation-for-your-cryptocurrency-transactions-with-yl-software-expertise/"><u>Navigating Fees & Taxation for Your Cryptocurrency Transactions with YL Software Expertise</u></a></li>
+<li><a href="https://discover-great.techidaily.com/preserve-your-windows-control-panel-preferences-expert-techniques-by-yl-software-experts/"><u>Preserve Your Windows Control Panel Preferences: Expert Techniques by YL Software Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-converting-youtube-to-avi-videos-for-2024/"><u>The Ultimate Guide to Converting YouTube to AVI Videos for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-your-grammar-skills-with-9-top-strategies-by-esl-pioneers/"><u>Transform Your Grammar Skills with 9 Top Strategies by ESL Pioneers</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-constant-freezes-unveiling-the-reasons-why-your-pc-keeps-stopping-with-yl-solutions/"><u>Troubleshooting Constant Freezes: Unveiling the Reasons Why Your PC Keeps Stopping with YL Solutions</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-drawbacks-a-comprehensive-look-at-cryptocurrencys-cons-insights-by-yl-computing/"><u>Understanding the Drawbacks: A Comprehensive Look at Cryptocurrency's Cons - Insights by YL Computing</u></a></li>
 </ul></div>
 

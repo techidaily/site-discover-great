@@ -1,7 +1,7 @@
 ---
 title: "Explore DEX 3'S Key Functionality: Instant DJ Controller Recognition by Pioneer"
-date: 2025-02-17T22:30:46.353Z
-updated: 2025-02-18T23:31:09.710Z
+date: 2025-03-03T18:38:27.670Z
+updated: 2025-03-07T22:58:09.049Z
 tags:
   - product
 categories:
@@ -22,19 +22,11 @@ What does “auto-detect in real-time” mean, exactly? You can now connect or d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Auto-Detection Of DJ Controllers
 
 Launch DEX 3.4 and connect (_or disconnect_) any [supported DJ controller](https://tools.techidaily.com/pcdj/products/) (_MIDI or [HID](https://en.wikipedia.org/wiki/Human%5Finterface%5Fdevice)_) and DEX 3.4 will detect the connections on-the-fly. Zero-configuration necessary.
 
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/1389090069_4.jpg?fit=300%2C300&ssl=1 "Denon DJ MC6000 MKII")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Thus, you can open DEX 3.4 without a DJ controller connected and then connect or remove up to 8 different controllers at the same time. DJ controllers will be detected and start working automatically, and immediately.
 
@@ -42,27 +34,15 @@ Auto DJ controller detection works on both Mac and Windows, and only in DEX 3.4 
 
 **(UPDATED): Important note for Windows DEX 3.4 users:** If you’re using a DJ controller that includes a built-in audio interface equipped with ASIO drivers, in order for the audio device to engage and start working properly when re-connecting a controller on-the-fly, you will need to select a different audio device from the select output device drop down menu under the audio tab in settings, then select the ASIO driver for the audio interface again from the select output device drop down menu (_this will re-engage the audio interface and ASIO will begin to work again_).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Can Auto-DJ Controller Detection Be Useful?
 
 The Real-time DJ controller detection feature is undoubtedly useful if a controller hangs for some reason. You would simply power the DJ controller off and then back on — or disconnect it from the DJ computer and reconnect it.
 
 ![Numark MixTrack Pro 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/Mixtrack-Pro-III.jpg?fit=300%2C169&ssl=1 "Numark MixTrack Pro 3")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Or, if you simply wants to hook an additional controller on the fly to control other features of DEX 3.4 – such as triggering samples from the sample players.
 
 [LEARN MORE ABOUT DEX 3](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -83,24 +63,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/09/realtimecontrollerdetectio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-advanced-zooming-methods-for-distance-communication-with-msteams/"><u>[New] 2024 Approved Advanced Zooming Methods for Distance Communication with MSTEAMS</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-elevate-content-impact-exclusive-access-to-the-best-20-tiktok-caption-hacks/"><u>[New] Elevate Content Impact Exclusive Access to the Best 20 TikTok Caption Hacks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[Updated] 2024 Approved Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-who-are-you-unraveling-youtuber-personalities-in-6-quizzes/"><u>[Updated] Who Are You? Unraveling YouTuber Personalities in 6 Quizzes</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1-guide-facile-comment-restaurer-un-fichier-video-mp4-endommage-sans-cout-sur-windows-et-mac/"><u>1. Guide Facile: Comment Restaurer Un Fichier Vidéo MP4 Endommagé Sans Coût Sur Windows Et Mac</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1-speedy-and-top-notch-guide-crafting-a-gif-from-various-video-formats-like-mp4-mov-and-more/"><u>1) Speedy and Top-Notch Guide: Crafting a GIF From Various Video Formats Like MP4, MOV, and More</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-flawlessai-imager-perfected-photo-processes/"><u>2024 Approved FlawlessAI Imager Perfected Photo Processes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hevch265-windows-10-11/"><u>動画再生エラー HEVC/H.265の原因と解決策: Windows 10, 11用無料ソリューションガイド</u></a></li>
-<li><a href="https://discover-great.techidaily.com/10/"><u>新型コロナで子どもたちのお楽しみ！家で見られる安全な映画トップ10 - 全編無料ストリーミング</u></a></li>
-<li><a href="https://discover-great.techidaily.com/analyse-complete-des-caracteristiques-technnologiques-dai-winxvideo-documentation-autorisee/"><u>Analyse Complète Des Caractéristiques Technnologiques D'AI Winxvideo - Documentation Autorisée</u></a></li>
-<li><a href="https://discover-great.techidaily.com/best-methods-to-safeguard-and-recover-data-on-your-iphone-15-top-3-tips/"><u>Best Methods to Safeguard & Recover Data on Your iPhone 15: Top 3 Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experts-reveal-the-easy-way-to-reboot-your-acer-laptop-from-scratch/"><u>Experts Reveal: The Easy Way to Reboot Your Acer Laptop From Scratch</u></a></li>
-<li><a href="https://discover-great.techidaily.com/fluide-interpolation-dimages-par-ia-amelioration-des-fps-et-transitions/"><u>Fluide Interpolation D'Images Par IA : Amélioration Des FPS Et Transitions</u></a></li>
-<li><a href="https://discover-great.techidaily.com/gpu-accelerato-winxvideo-ai-trasforma-i-tuoi-videoclip-e-registrazioni-in-solo-secondi/"><u>GPU Accelerato WinxVideo AI - Trasforma I Tuoi Videoclip E Registrazioni in Solo Secondi!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v27e-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo V27e to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/optimal-handbrake-configuration-finding-the-perfect-rf-ratio-for-hd-conversion/"><u>Optimal Handbrake Configuration: Finding the Perfect RF Ratio for HD Conversion</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-microsoft-surface-laptop-5-a-closer-look-at-its-resemblance-to-past-models/"><u>Unveiling the Microsoft Surface Laptop 5 - A Closer Look at Its Resemblance to Past Models!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-breathe-new-life-into-your-mac-a-guide-to-freeing-up-space-and-improving-fcpx-performance/"><u>Updated 2024 Approved Breathe New Life Into Your Mac A Guide to Freeing Up Space and Improving FCPX Performance</u></a></li>
-<li><a href="https://discover-great.techidaily.com/welcome-to-digiarty-software-inc-your-guide-to-winxdvd-solutions/"><u>Welcome to Digiarty Software, Inc. - Your Guide to WinXDVD Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-masterful-music-management-with-easy-vrecorder-downloads/"><u>[New] In 2024, Masterful Music Management with Easy VRecorder Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/collage-alchemy-transforming-scraps-into-art/"><u>Collage Alchemy Transforming Scraps Into Art</u></a></li>
+<li><a href="https://discover-great.techidaily.com/dex-3-dj-software-new-release-public-beta-v31020-by-pcdj/"><u>DEX 3 DJ Software - New Release: Public Beta v3.10.2.0 by PCDJ</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-sims-4-game-wont-start-correctly/"><u>Effective Fixes for When Your Sims 4 Game Won't Start Correctly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-critical-look-at-the-leading-economically-friendly-lut-sources/"><u>In 2024, A Critical Look at the Leading, Economically Friendly LUT Sources</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-updated-ratchet-and-clank-experience/"><u>In-Depth Look at the Updated Ratchet & Clank Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-member-networks-via-channels-on-facebook/"><u>Mastering Member Networks via Channels on Facebook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-download-lumafusion-for-mac-or-choose-from-these-top-alternatives-for-2024/"><u>New Download Lumafusion for Mac or Choose From These Top Alternatives for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/next-gen-vision-top-10-cameras-of-the-year-2024/"><u>Next-Gen Vision – Top 10 Cameras of the Year 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/solving-the-screen-issue-of-display-driver-fault-tech-tips-from-yl-computers/"><u>Solving the Screen Issue of 'Display Driver Fault' - Tech Tips From YL Computers</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-boost-your-laptops-performance-with-a-ram-upgrade-tips-from-yl-computing/"><u>Step-by-Step Guide: Boost Your Laptop's Performance with a RAM Upgrade - Tips From YL Computing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-fresh-driver-downloads-for-your-canon-mx34aster-on-windows-11-8-and-7/"><u>Step-by-Step Guide: Fresh Driver Downloads for Your Canon MX34aster on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-process-on-how-to-detect-and-fix-hardware-malfunctions-with-yl-software-insights/"><u>Step-by-Step Process on How to Detect and Fix Hardware Malfunctions with YL Software Insights</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-scanner-detection-issues-on-windows-and-mac-solutions-from-yl-software-experts/"><u>Troubleshooting Scanner Detection Issues on Windows and Mac - Solutions From YL Software Experts</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-tips-resolving-power-issues-with-your-scanner-solutions-by-yl-computing/"><u>Troubleshooting Tips: Resolving Power Issues with Your Scanner - Solutions by YL Computing</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-goals-a-deep-dive-into-the-chinese-cultural-revolution/"><u>Understanding the Goals: A Deep Dive Into the Chinese Cultural Revolution</u></a></li>
+<li><a href="https://discover-great.techidaily.com/yl-software-showcase-premium-hd-wallpaper-pack-wildlife-serenity-in-wolf-imagery-and-background-scenes/"><u>YL Software Showcase: Premium HD Wallpaper Pack - Wildlife Serenity in Wolf Imagery and Background Scenes</u></a></li>
 </ul></div>
 
